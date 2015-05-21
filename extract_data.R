@@ -21,7 +21,7 @@ for (i in 1:length(out2)) {db <- rbind(db, out2[[i]])}
 
 ## Clean names
 trim <- function (x) gsub("^\\s+|\\s+$", "", x)
-db[, 1] <- trim(gsub("[ ]+"," ", gsub("[^A-Za-z]"," ",tolower(db[, 1]))))
+db[, 1] <- trim(gsub("[ ]+"," ", gsub("[^[:alnum:] ]"," ",tolower(db[, 1]))))
 tab <- table(db)
 
 ###################################### 
