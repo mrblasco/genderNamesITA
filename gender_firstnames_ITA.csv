@@ -1,16 +1,13 @@
-name,F,M
- paola,0,0
-\giovanni,0,5
+name,gender.F,gender.M
+a angelo,0,3
+a giuseppe,0,1
 a ippolito,0,5
-a maria,5,0
-a. angelo,0,3
-a. giuseppe,0,1
-a. maria,5,0
-a. oreste,0,3
-a. vittorio,0,5
-a.m.lodovica,5,0
-a.r. maria,5,0
-a.raffaele,0,10
+a m lodovica,5,0
+a maria,10,0
+a oreste,0,3
+a r maria,5,0
+a raffaele,0,10
+a vittorio,0,5
 aamedeo,0,5
 aandrea,0,5
 aaron,0,5
@@ -52,7 +49,7 @@ achille augusto,0,3
 achille c,0,10
 achille carlo,0,15
 achille enoc,0,5
-achille f.,0,5
+achille f,0,5
 achille fac,0,10
 achille felice,0,10
 achille filiberto,0,5
@@ -160,7 +157,7 @@ adele in santalucia,10,0
 adele irene,9,0
 adele lucia,1,0
 adele maria,2,0
-adele maria s.,4,0
+adele maria s,4,0
 adele nevinia,2,0
 adele rosa,30,0
 adelelma,2,0
@@ -282,8 +279,7 @@ adree,3,0
 adreina,5,0
 adria,38,5
 adria romana italia,4,0
-adrian,0,30
-adrian0,0,5
+adrian,0,35
 adriana,2653,0
 adriana anna,9,0
 adriana benedetta,10,0
@@ -377,7 +373,7 @@ afro,0,166
 agapito,0,71
 agapito loreto,0,4
 agata,434,5
-agata  anna,2,0
+agata anna,2,0
 agata antonietta,5,0
 agata carmela,4,0
 agata francesca,3,0
@@ -468,8 +464,8 @@ agostino giuliano,0,5
 agostino giulio,0,5
 agostino giuseppe,0,46
 agostino innocenzo,0,4
-agostino iose',0,28
-agostino jose',0,5
+agostino iose,0,28
+agostino jose,0,5
 agostino lorenzo,0,7
 agostino luca,0,10
 agostino lui,0,5
@@ -482,7 +478,7 @@ agostino napoleone,0,4
 agostino nicola,0,8
 agostino nino,0,5
 agostino orlando,0,25
-agostino p.,0,5
+agostino p,0,5
 agostino pompeo,0,5
 agostino roberto,0,5
 agostino rocco,0,7
@@ -573,7 +569,7 @@ alberico,0,417
 alberico alessandro,0,5
 alberico antonio,0,3
 alberico ezio,0,5
-alberico, pietro,0,1
+alberico pietro,0,1
 alberigo,0,19
 alberigo maria guido,0,5
 alberino,0,86
@@ -641,7 +637,7 @@ alberto federico,0,6
 alberto filippo,0,1
 alberto florido alessandro,0,1
 alberto francesco,0,40
-alberto francesco m.,0,15
+alberto francesco m,0,15
 alberto francesco maria,0,5
 alberto franco,0,6
 alberto fulvio,0,5
@@ -713,7 +709,7 @@ alberto silvio,0,5
 alberto stefano,0,45
 alberto teodoro,0,5
 alberto tullio,0,32
-alberto v.a.,0,5
+alberto v a,0,5
 alberto viliam,0,5
 alberto vincenzo,0,11
 alberto vitt,0,5
@@ -811,8 +807,7 @@ aldino s,0,6
 aldino silvano,0,9
 aldino vincenzo,0,14
 aldisio,0,7
-aldo,0,23397
-aldo 1925,0,20
+aldo,0,23417
 aldo agostino,0,25
 aldo alberto,0,15
 aldo albino,0,10
@@ -865,7 +860,7 @@ aldo giovanni,0,65
 aldo giuseppe,5,98
 aldo guglielmo,0,8
 aldo ippolito,0,9
-aldo l.to,0,5
+aldo l to,0,5
 aldo leonardo,0,24
 aldo lorenzo,0,8
 aldo luciano,0,18
@@ -968,7 +963,7 @@ alessandra ascenzia maria,1,0
 alessandra augusta,16,0
 alessandra carla,5,0
 alessandra caterina,5,0
-alessandra cl.,4,0
+alessandra cl,4,0
 alessandra eliana,4,0
 alessandra fabrizia,5,0
 alessandra federica,1,0
@@ -976,11 +971,11 @@ alessandra filippa,2,0
 alessandra fortunata,8,0
 alessandra francesca,3,0
 alessandra giovanni,2,0
-alessandra l.,1,0
+alessandra l,1,0
 alessandra lucia,16,0
 alessandra luisa,5,0
 alessandra maria,27,0
-alessandra maria b.,5,0
+alessandra maria b,5,0
 alessandra paola,5,0
 alessandra pia,14,0
 alessandra rosa,5,0
@@ -990,8 +985,7 @@ alessandra valentina,24,0
 alessandreo,0,5
 alessandrina,28,0
 alessandrino,0,41
-alessandro,0,40513
-alessandro 961,0,8
+alessandro,0,40521
 alessandro alberto,0,23
 alessandro albino,0,29
 alessandro alpinolo,0,19
@@ -1030,9 +1024,8 @@ alessandro ferruccio,0,5
 alessandro franceco,0,4
 alessandro francesco,0,41
 alessandro franco,0,6
-alessandro g,0,10
-alessandro g.,0,5
-alessandro g. a.,0,5
+alessandro g,0,15
+alessandro g a,0,5
 alessandro gaetano,0,20
 alessandro gennaro,0,5
 alessandro gennaro s,0,5
@@ -1085,13 +1078,13 @@ alessandro romolo,0,6
 alessandro ronald,0,5
 alessandro rosellino,0,10
 alessandro rosolino,0,3
-alessandro s.a.,0,4
+alessandro s a,0,4
 alessandro salvatore,0,18
 alessandro santo,0,1
 alessandro savio,0,4
 alessandro serafino,0,2
 alessandro stefano,0,16
-alessandro t.,0,9
+alessandro t,0,9
 alessandro ugo,0,5
 alessandro ulisse,0,5
 alessandro umberto,0,3
@@ -1198,7 +1191,7 @@ alfio gianni,0,20
 alfio giorgio,0,12
 alfio giovanni,0,17
 alfio giuseppe,0,19
-alfio giuseppe c.,0,4
+alfio giuseppe c,0,4
 alfio lorenzo,0,4
 alfio loretano,0,4
 alfio lucio,0,4
@@ -1221,7 +1214,7 @@ alfons jakob,0,10
 alfons karl,0,10
 alfonsa,23,0
 alfonsina,131,0
-alfonsina m.,8,0
+alfonsina m,8,0
 alfonsina maria vitt,5,0
 alfonsino,0,146
 alfonso,0,8934
@@ -1249,7 +1242,7 @@ alfonso fernando,0,10
 alfonso francesco,0,16
 alfonso franco,0,20
 alfonso g a,0,5
-alfonso g.d.,0,5
+alfonso g d,0,5
 alfonso gianmaria,0,5
 alfonso giovanni,0,6
 alfonso giulio,0,1
@@ -1705,8 +1698,8 @@ amino,0,15
 aminta,0,10
 amintore,0,11
 amleto,0,369
-amm51,0,4
-amm51nni,0,1
+amm,0,4
+amm nni,0,1
 amma maria francesca,5,0
 ammerino,0,10
 ammonasco,0,10
@@ -1768,25 +1761,25 @@ ander,0,16
 anderino,0,1
 andes,0,10
 ando,0,10
-andrade cunha f.,0,5
+andr e,4,0
+andrade cunha f,0,5
+andre,0,10
 andre antonio,0,3
-andre',0,10
-andre' bernhard,0,4
+andre bernhard,0,4
 andrea,115,42313
-andrea  vanni,0,5
-andrea (andreino),0,4
 andrea a,0,5
 andrea achille,0,3
 andrea adolfo,0,3
 andrea adolfo emilia,0,30
 andrea adriano,0,5
-andrea agatino s.,0,1
+andrea agatino s,0,1
 andrea agostino,0,5
 andrea aldo,0,10
 andrea alessandro,0,16
 andrea alfio david,0,5
 andrea alfonso,0,5
 andrea ambrogio,0,10
+andrea andreino,0,4
 andrea angelo,0,40
 andrea anio,0,4
 andrea annibale,0,5
@@ -1844,7 +1837,7 @@ andrea giancarlo,0,6
 andrea gianfranco,0,4
 andrea gioachino,0,7
 andrea giorgio,0,18
-andrea giosue',0,33
+andrea giosue,0,33
 andrea giovanni,0,99
 andrea giuseppe,0,166
 andrea giusto,0,8
@@ -1864,7 +1857,7 @@ andrea luca,0,32
 andrea luciano,0,20
 andrea lucio,0,10
 andrea luigi,0,60
-andrea manlio giov.,0,8
+andrea manlio giov,0,8
 andrea marco,0,9
 andrea maria,0,117
 andrea maria emilio,0,5
@@ -1888,7 +1881,7 @@ andrea oreste,0,5
 andrea oronzo,0,8
 andrea paolo,0,25
 andrea paolo filippo,0,13
-andrea paolo g.,0,5
+andrea paolo g,0,5
 andrea paolo giuseppe,0,5
 andrea pasquale,0,5
 andrea piergiuseppe,0,3
@@ -1914,7 +1907,7 @@ andrea ubaldo,0,1
 andrea ugo,0,4
 andrea umberto,0,5
 andrea valentino,0,35
-andrea vanni,0,17
+andrea vanni,0,22
 andrea vincenzo,0,13
 andrea vito,0,17
 andrea vittorio,0,16
@@ -1931,7 +1924,6 @@ andreas johann,0,25
 andreas josef,0,48
 andreas maria taddau,0,3
 andreas roland,0,20
-andrèe,4,0
 andreea elena,1,0
 andreina,637,3
 andreina lidia,4,0
@@ -1968,7 +1960,7 @@ anfdrea,0,5
 anfelo,0,5
 anfonso,0,2
 anfrea,0,12
-ang. gelsomina,5,0
+ang gelsomina,5,0
 angela,7482,0
 angela adelaide,2,0
 angela adelina,2,0
@@ -2023,7 +2015,7 @@ angela giuseppina,17,0
 angela grazia,12,0
 angela immac,5,0
 angela immacolata,4,0
-angela in d'amico,2,0
+angela in d amico,2,0
 angela in zanibelli,10,0
 angela karim,5,0
 angela katia,5,0
@@ -2033,7 +2025,7 @@ angela liliana,1,0
 angela lorella,1,0
 angela lucia,9,0
 angela luisa,11,0
-angela m.,5,0
+angela m,5,0
 angela magda,2,0
 angela maggiorina,5,0
 angela margherita,8,0
@@ -2090,7 +2082,7 @@ angelica rosa,1,0
 angelico,0,88
 angelika,35,0
 angelillo,0,2
-angelin0,0,5
+angelin,0,5
 angelina,772,0
 angelina nicolina,6,0
 angelina rosa,5,0
@@ -2104,8 +2096,7 @@ angelita,92,5
 angello,0,7
 angelmo,0,1
 angelo,5,61233
-angelo a,0,5
-angelo a.,0,10
+angelo a,0,15
 angelo adriano,0,5
 angelo agostino,0,18
 angelo alberto,0,36
@@ -2132,7 +2123,7 @@ angelo arturo,0,31
 angelo augusta,0,7
 angelo augusto,0,18
 angelo aurelio,0,5
-angelo b.,0,8
+angelo b,0,8
 angelo barba,0,5
 angelo barbato,0,5
 angelo battista,0,72
@@ -2141,7 +2132,7 @@ angelo benito,0,10
 angelo benvenuto,0,20
 angelo biagio,0,13
 angelo bruno,0,65
-angelo c.,0,5
+angelo c,0,5
 angelo calogero,0,8
 angelo camillo,0,5
 angelo candido,0,10
@@ -2203,7 +2194,7 @@ angelo fiore,0,10
 angelo flavio,0,1
 angelo francesco,0,243
 angelo franco,0,95
-angelo g.,0,13
+angelo g,0,13
 angelo gabri,0,10
 angelo gabriele,0,77
 angelo gaetano,0,34
@@ -2217,7 +2208,7 @@ angelo giancarmine,0,15
 angelo gino,0,11
 angelo gionanni,0,1
 angelo giorgio,0,1
-angelo giosue',0,47
+angelo giosue,0,47
 angelo giova,0,5
 angelo giovanni,0,213
 angelo giovanni andr,0,2
@@ -2254,15 +2245,14 @@ angelo luciano,0,10
 angelo luigi,0,192
 angelo luigi maria,0,21
 angelo luigino,0,1
-angelo m,0,5
-angelo m.,0,5
+angelo m,0,10
 angelo magno,0,4
 angelo marcello,0,33
 angelo marco,0,34
 angelo maria,11,491
 angelo maria ambrogio,0,1
 angelo maria antonio,0,2
-angelo maria d.,0,5
+angelo maria d,0,5
 angelo maria domenic,0,2
 angelo maria rosario,0,2
 angelo maria virgilio,0,3
@@ -2276,7 +2266,7 @@ angelo matteo,0,5
 angelo maurizio,0,23
 angelo mauro,0,17
 angelo miche,0,22
-angelo michele,0,258
+angelo michele,0,263
 angelo mirco,0,5
 angelo mirko,0,4
 angelo natale,0,51
@@ -2309,8 +2299,7 @@ angelo pino,0,9
 angelo pio,0,25
 angelo pompeo,0,11
 angelo primo,0,1
-angelo r,0,10
-angelo r.,0,5
+angelo r,0,15
 angelo raffa,0,20
 angelo raffaele,0,568
 angelo raffaello,0,8
@@ -2358,7 +2347,6 @@ angelo vito,0,64
 angelo vito ennio,0,1
 angelo vittorino,0,15
 angelo vittorio,0,13
-angelo-michele,0,5
 angeloantonio,0,11
 angelogabriele,0,4
 angelomaria,0,187
@@ -2385,13 +2373,13 @@ angiolina,207,0
 angiolina norina,8,0
 angiolina teresina,4,0
 angiolino,0,1258
-angiolino  mario,0,4
 angiolino giuseppe,0,4
+angiolino mario,0,4
 angiolino michele,0,13
 angiolino pasquale,0,9
 angiolino sergio,0,10
+angiolino stefano,0,4
 angiolino umberto,0,4
-angiolino(stefano),0,4
 angiolo,0,458
 anglesio antonio,0,5
 anglo,0,1
@@ -2427,7 +2415,7 @@ anise,1,0
 anita,654,0
 anita celestina,5,0
 anita gertraud,4,0
-anita in d'uva,5,0
+anita in d uva,5,0
 anita lina elisa,1,0
 anita maria,8,0
 anita rossella,5,0
@@ -2437,8 +2425,6 @@ anja,10,0
 anke,1,0
 anmtonio,0,10
 anna,11258,0
-anna  maria,1,0
-anna  rita,3,0
 anna adele,12,0
 anna adelina,10,0
 anna adorina,8,0
@@ -2481,7 +2467,7 @@ anna cosima,10,0
 anna cristiana,3,0
 anna cristina,4,0
 anna crocett,4,0
-anna d.ca,5,0
+anna d ca,5,0
 anna daniela,12,0
 anna danila,11,0
 anna delia,1,0
@@ -2561,12 +2547,11 @@ anna luciana,12,0
 anna luigia,22,0
 anna luisa,90,0
 anna lunda,5,0
-anna m.,5,0
+anna m,5,0
 anna maddalena,6,0
 anna margaretha,5,0
 anna margherita,14,0
-anna maria,8579,0
-anna maria  rosa,4,0
+anna maria,8580,0
 anna maria angela,1,0
 anna maria antonia,6,0
 anna maria beatrice,8,0
@@ -2579,7 +2564,7 @@ anna maria cristina,5,0
 anna maria domenica,12,0
 anna maria eletta,10,0
 anna maria gabriella,5,0
-anna maria garre',4,0
+anna maria garre,4,0
 anna maria grazia,24,0
 anna maria ida,3,0
 anna maria ignazia,10,0
@@ -2588,7 +2573,7 @@ anna maria luisa,14,0
 anna maria paola,10,0
 anna maria raffaella,21,0
 anna maria rita,2,0
-anna maria rosa,4,0
+anna maria rosa,8,0
 anna maria rosaria,7,0
 anna maria stella,1,0
 anna maria teresa,40,0
@@ -2620,7 +2605,7 @@ anna pompea,9,0
 anna rachele,4,0
 anna raffaella,18,0
 anna regina,5,0
-anna rita,1096,0
+anna rita,1099,0
 anna rita graziella,15,0
 anna rita in scozio,3,0
 anna rosa,330,0
@@ -2631,8 +2616,7 @@ anna rosaria,4,0
 anna rosina,9,0
 anna rossella,4,0
 anna sabrina,4,0
-anna salome,4,0
-anna salome',4,0
+anna salome,8,0
 anna sandra maria,5,0
 anna sara,5,0
 anna serafina,15,0
@@ -2775,7 +2759,7 @@ annunziata antonia,2,0
 annunziata assunta,10,0
 annunziata cinzia,4,0
 annunziata fiorella,1,0
-annunziata m.,2,0
+annunziata m,2,0
 annunziatina,5,0
 annunziatino,0,7
 annunziato,0,487
@@ -2817,7 +2801,7 @@ ansio,0,15
 ansovino,0,15
 ansperto,0,5
 anstasia,5,0
-ant0nio bruno,0,4
+ant nio bruno,0,4
 antenisco,0,9
 antenore,0,127
 antenorina,5,0
@@ -2887,7 +2871,7 @@ antonella elisabetta,1,0
 antonella emilia,6,0
 antonella franca,1,0
 antonella francesca,4,0
-antonella gerald.,4,0
+antonella gerald,4,0
 antonella geraldina,2,0
 antonella giordana elsa,3,0
 antonella giuseppina,9,0
@@ -2904,7 +2888,7 @@ antonella marcella,6,0
 antonella margherita,2,0
 antonella maria,61,5
 antonella maria cate,5,0
-antonella maria dom.,5,0
+antonella maria dom,5,0
 antonella maria giovanna,2,0
 antonella maria maddalena,4,0
 antonella mariacarla,10,0
@@ -2944,8 +2928,7 @@ antonesio,0,1
 antonetta,41,0
 antongiorgio maria,0,5
 antongiulio,0,21
-antoni,0,5
-antoni0,0,4
+antoni,0,9
 antonia,1664,5
 antonia addolorata,5,0
 antonia agatina,23,0
@@ -3001,11 +2984,11 @@ antonietta miranda,14,0
 antonietta renata,4,0
 antonietta rosa,4,0
 antonietta rosetta,4,0
-antonietta s.,1,0
+antonietta s,1,0
 antonietto,0,20
 antonillo,0,5
 antonina,750,0
-antonina  alessandra,2,0
+antonina alessandra,2,0
 antonina donatella,4,0
 antonina gabriella,1,0
 antonina giovanna,3,0
@@ -3051,7 +3034,7 @@ antonino fernando,0,5
 antonino filippo,0,11
 antonino fra,0,1
 antonino francesco,0,23
-antonino g.,0,2
+antonino g,0,2
 antonino gaetano,0,10
 antonino ger,0,2
 antonino gerardo,0,8
@@ -3067,8 +3050,7 @@ antonino lodovico,0,25
 antonino luciano,0,32
 antonino luigi,0,10
 antonino luigi m,0,5
-antonino m,0,8
-antonino m.,0,5
+antonino m,0,13
 antonino marcello,0,5
 antonino marco,0,10
 antonino maria,0,43
@@ -3079,7 +3061,7 @@ antonino matteo,0,2
 antonino michele,0,36
 antonino natale,0,6
 antonino nicola,0,14
-antonino nicolo',0,18
+antonino nicolo,0,18
 antonino nunzio,0,12
 antonino onofrio,0,6
 antonino ora,0,3
@@ -3104,13 +3086,10 @@ antonino stefano,0,5
 antonino tindaro,0,14
 antonino vincenzo,0,28
 antonino vittorio,0,1
-antonio,0,136880
-antonio (toni),0,5
-antonio 1949,0,6
-antonio a,0,3
-antonio a.,0,5
-antonio a. m.,0,5
-antonio a.g.,0,5
+antonio,0,136886
+antonio a,0,8
+antonio a g,0,5
+antonio a m,0,5
 antonio abate,0,4
 antonio adamo,0,10
 antonio adelio,0,6
@@ -3167,8 +3146,7 @@ antonio benvenuto,0,20
 antonio biagio,0,31
 antonio biase,0,4
 antonio bruno,0,76
-antonio c,0,10
-antonio c.,0,5
+antonio c,0,15
 antonio calogero,0,32
 antonio cami,0,10
 antonio camillo,0,24
@@ -3193,8 +3171,7 @@ antonio cosmo,0,15
 antonio costantino,0,27
 antonio cristian,0,4
 antonio crocefisso,0,17
-antonio d,0,5
-antonio d.,0,1
+antonio d,0,6
 antonio damiano,0,9
 antonio daniele,0,64
 antonio danilo,0,5
@@ -3244,7 +3221,7 @@ antonio ernesto,0,21
 antonio ettore,0,14
 antonio euclide,0,18
 antonio eusebio,0,5
-antonio f.,0,19
+antonio f,0,19
 antonio fabiano,0,10
 antonio fabio,0,28
 antonio fabrizio,0,1
@@ -3270,8 +3247,7 @@ antonio francesco,0,378
 antonio francesco m,0,5
 antonio francesco ro,0,5
 antonio franco,0,114
-antonio g,0,7
-antonio g.,0,15
+antonio g,0,22
 antonio gabr,0,4
 antonio gabriele,0,43
 antonio gaetano,0,52
@@ -3322,9 +3298,8 @@ antonio imerio,0,2
 antonio immacolato,0,10
 antonio innocente,0,6
 antonio ivano,0,15
-antonio jose',0,7
-antonio l,0,5
-antonio l.,0,5
+antonio jose,0,7
+antonio l,0,10
 antonio leonardo,0,15
 antonio leone,0,9
 antonio leopoldo,0,5
@@ -3342,7 +3317,7 @@ antonio lucio,0,74
 antonio ludo,0,5
 antonio luigi,0,635
 antonio lupo,0,5
-antonio m.,0,10
+antonio m,0,10
 antonio manieri,0,5
 antonio marcellino,0,13
 antonio marcello,0,30
@@ -3351,7 +3326,7 @@ antonio mari,0,25
 antonio maria,5,739
 antonio maria ausili,0,4
 antonio maria donato,0,4
-antonio maria g.,0,3
+antonio maria g,0,3
 antonio mariano,0,23
 antonio marino,0,14
 antonio mario,0,515
@@ -3374,7 +3349,7 @@ antonio modesto,0,7
 antonio natale,0,77
 antonio nello,0,5
 antonio nicola,0,122
-antonio nicolo',0,4
+antonio nicolo,0,4
 antonio norberto,0,8
 antonio nunzio,0,22
 antonio omar,0,5
@@ -3387,7 +3362,7 @@ antonio oscar,0,5
 antonio osvaldo,0,11
 antonio ottavia,0,14
 antonio ottavio,0,1
-antonio p.a.,0,5
+antonio p a,0,5
 antonio palmerio,0,15
 antonio palmino,0,16
 antonio palmiro,0,8
@@ -3410,13 +3385,13 @@ antonio pellegrino,0,24
 antonio pier angiolo,0,5
 antonio pierino,0,7
 antonio piero,0,18
-antonio piero a.,0,5
+antonio piero a,0,5
 antonio piet,0,13
 antonio pietro,0,295
 antonio pietro maria,0,5
 antonio pietro paolo,0,6
-antonio pio,0,74
-antonio pio seb.,0,5
+antonio pio,0,79
+antonio pio seb,0,5
 antonio pompeo,0,7
 antonio pompeo pio,0,3
 antonio potito,0,10
@@ -3447,10 +3422,9 @@ antonio rosa,0,5
 antonio rosalio,0,1
 antonio rosario,0,50
 antonio rosario b,0,5
-antonio s,0,5
-antonio s.,0,15
-antonio s. v.,0,5
-antonio s.re,0,5
+antonio s,0,20
+antonio s re,0,5
+antonio s v,0,5
 antonio sabino,0,4
 antonio sall,0,5
 antonio salv,0,8
@@ -3478,6 +3452,7 @@ antonio terenzio,0,5
 antonio tiberio,0,33
 antonio tito,0,33
 antonio tommaso,0,41
+antonio toni,0,5
 antonio tullio,0,14
 antonio uberto,0,9
 antonio ugo,0,25
@@ -3497,12 +3472,11 @@ antonio vinicio,0,5
 antonio virginio,0,10
 antonio vito,0,95
 antonio vittorio,0,26
-antonio vittorio p.,0,35
+antonio vittorio p,0,35
 antonio vittorio ugo,0,14
 antonio walter,0,9
 antonio william,0,5
 antonio zaverio,0,5
-antonio, pio,0,5
 antonioq,0,4
 antoniotto,0,20
 antoniuccio,0,10
@@ -3616,8 +3590,7 @@ argio,0,7
 argisto,0,5
 argo,0,15
 argo francesco,0,10
-ari,0,4
-ari',0,5
+ari,0,9
 arialdo,0,93
 ariana,20,0
 ariane,9,0
@@ -3681,7 +3654,7 @@ armanda,145,0
 armandina,25,0
 armandino,0,50
 armando,5,10855
-armando a.,0,5
+armando a,0,5
 armando adolfo,0,15
 armando adriano,0,10
 armando aldo,0,4
@@ -3757,13 +3730,12 @@ armo,0,5
 armodio,0,2
 arnalda,21,0
 arnaldo,5,3164
-arnaldo  gabriele,0,3
 arnaldo alberto,0,4
 arnaldo antonio,0,0
 arnaldo candido,0,9
 arnaldo dino,0,10
 arnaldo franco,0,5
-arnaldo gabriele,0,3
+arnaldo gabriele,0,6
 arnaldo gerardo,0,7
 arnaldo giuseppe,0,33
 arnaldo mich,0,5
@@ -3878,8 +3850,7 @@ assunta carmela,36,0
 assunta gerarda,14,0
 assunta giovanna,10,0
 assunta ines,11,0
-assunta m t,4,0
-assunta m.t.,5,0
+assunta m t,9,0
 assunta maria,18,0
 assunta monia,2,0
 assunta pia,24,0
@@ -3942,7 +3913,7 @@ attilio alfredo,0,28
 attilio ambrogi,0,1
 attilio andrea,0,4
 attilio angelo,0,10
-attilio ant.,0,4
+attilio ant,0,4
 attilio antonio,0,21
 attilio c,0,10
 attilio carlo,0,4
@@ -4052,8 +4023,7 @@ aureliana,2,0
 aureliano,0,201
 aureliano biagio,0,2
 aureliano nicola,0,9
-aurelie,5,0
-aurelie',2,0
+aurelie,7,0
 aurelio,0,4694
 aurelio aldo,0,10
 aurelio andrea,0,10
@@ -4200,7 +4170,7 @@ barbara giuseppina,1,0
 barbara ingrid,4,0
 barbara loretta ange,3,0
 barbara lucia,5,0
-barbara m.,6,0
+barbara m,6,0
 barbara maria,30,0
 barbara marianna,1,0
 barbara marta,1,0
@@ -4226,7 +4196,7 @@ barberina caterina,2,0
 bardilio,0,8
 bardo,0,15
 barignano,0,7
-barila',0,0
+barila,0,0
 barnaba,0,23
 barnaba benito,0,14
 barone rudolf,0,10
@@ -4276,7 +4246,7 @@ basilia,22,0
 basilia maria,0,1
 basilide,0,5
 basilio,0,1269
-basilio a.,0,7
+basilio a,0,7
 basilio angelo,0,8
 basilio anto,0,23
 basilio antonino,0,3
@@ -4313,7 +4283,6 @@ battaglia,0,0
 battesimo,0,1
 battisa,0,1
 battista,0,3004
-battista  mario,0,1
 battista alessandro,0,4
 battista andrea,0,5
 battista angelo,0,13
@@ -4325,7 +4294,7 @@ battista giovanni,0,16
 battista giu,0,5
 battista lui,0,5
 battista luigi,0,15
-battista mario,0,2
+battista mario,0,3
 battista martino,0,14
 battista nello,0,5
 battista onorato,0,6
@@ -4392,7 +4361,7 @@ benedetto emilio,0,12
 benedetto fernando,0,1
 benedetto francesco,0,12
 benedetto giovanni,0,18
-benedetto italo g.,0,5
+benedetto italo g,0,5
 benedetto marcello,0,1
 benedetto maria,0,13
 benedetto mario,0,33
@@ -4520,7 +4489,7 @@ bernardina maria,10,0
 bernardino,0,2135
 bernardino angelo,0,15
 bernardino antonio,0,5
-bernardino b.,0,5
+bernardino b,0,5
 bernardino filippo,0,4
 bernardino g,0,5
 bernardino sante,0,9
@@ -4537,7 +4506,7 @@ bernardo luigi,0,5
 bernardo marco,0,7
 bernardo maria,0,14
 bernardo mario,0,4
-bernardo mose',0,10
+bernardo mose,0,10
 bernardo natale,0,13
 bernardo perrier,0,4
 bernardone flavio,0,5
@@ -4578,7 +4547,7 @@ biagiio,0,5
 biagina,31,0
 biagino,0,90
 biagio,0,5312
-biagio a.,0,5
+biagio a,0,5
 biagio alberto,0,5
 biagio albino,0,5
 biagio angelo,0,12
@@ -4694,7 +4663,7 @@ bonangelo,0,1
 bonaria,46,0
 bonarino,0,11
 bonaventura,0,382
-bonaventura, fabio,0,5
+bonaventura fabio,0,5
 bonelvio,0,4
 boneschi,0,2
 bonfanti,0,1
@@ -4745,7 +4714,7 @@ boy rita,5,0
 bozic,0,5
 bozica,5,0
 bozidar,0,17
-br8uno,0,5
+br uno,0,5
 bracciano,0,16
 bramante,0,5
 brandino,0,4
@@ -4776,7 +4745,7 @@ brino,0,5
 britt marie,15,0
 brizio,0,24
 brizio domenico,0,10
-brun0,0,5
+brun,0,5
 bruna,2364,0
 bruna angela,12,0
 bruna anna,23,0
@@ -4817,8 +4786,7 @@ brunilde,5,0
 brunina,5,5
 brunino,0,30
 bruno,0,38221
-bruno  basilio,0,5
-bruno a.,0,1
+bruno a,0,1
 bruno adelino,0,38
 bruno agostino,0,20
 bruno aldo,0,15
@@ -4832,14 +4800,15 @@ bruno antonello,0,3
 bruno antoni,0,5
 bruno antonino,0,10
 bruno antonio,0,219
-bruno antonio l.,0,5
+bruno antonio l,0,5
 bruno arturo,0,5
 bruno augusto,0,14
 bruno aurelio,0,4
 bruno bachisio,0,1
 bruno bartolomeo,0,9
+bruno basilio,0,5
 bruno battista,0,23
-bruno beni',0,22
+bruno beni,0,22
 bruno benito,0,15
 bruno bernardino,0,10
 bruno bernardo,0,18
@@ -4955,8 +4924,8 @@ buongiorno,0,5
 buono,0,5
 burkhard,0,14
 c alberto,0,5
+c giuseppe,0,4
 c igino,0,3
-c.giuseppe,0,4
 caarmelo,0,4
 caaterina,2,0
 cabiria,2,0
@@ -4965,7 +4934,7 @@ cadetto alessandro,0,5
 cadia,30,0
 cadio,0,1
 caio,0,17
-caio antonino s.,0,5
+caio antonino s,0,5
 caio giorgio,0,10
 calabe,0,13
 calamaro agatino,0,5
@@ -4975,7 +4944,7 @@ calderone biagio,0,10
 caldino,0,5
 caleste,0,4
 calestino,0,10
-cali' m. antonietta,4,0
+cali m antonietta,4,0
 caliendo,0,1
 calimero,0,23
 caliope,0,11
@@ -4989,7 +4958,7 @@ calocero,0,20
 calogera,109,3
 calogera anna,8,0
 calogera daniela,3,0
-calogera e.,14,0
+calogera e,14,0
 calogera elvira,10,0
 calogera immacolata,2,0
 calogera lidia,13,0
@@ -4998,7 +4967,6 @@ calogera maria c,4,0
 calogera pia,5,0
 calogerino,0,13
 calogero,5,4296
-calogero (lillo),0,4
 calogero agostino,0,4
 calogero alfio,0,4
 calogero angelo,0,5
@@ -5013,7 +4981,7 @@ calogero domenico,0,21
 calogero filippo,0,6
 calogero fortunato l,0,4
 calogero francesco,0,15
-calogero g.,0,5
+calogero g,0,5
 calogero gero,0,5
 calogero gesualdo,0,1
 calogero gioacchino,0,9
@@ -5022,6 +4990,7 @@ calogero giu,0,10
 calogero giuseppe,0,20
 calogero gustavo,0,6
 calogero john,0,5
+calogero lillo,0,4
 calogero lor,0,5
 calogero maria,0,20
 calogero maria diego,0,5
@@ -5084,7 +5053,7 @@ camillo p s,0,10
 camillo pier giorgio,0,5
 camillo piero,0,1
 camillo pietro,0,34
-camillo pietro s.,0,7
+camillo pietro s,0,7
 camillo riccardo,0,9
 camillo ros,0,4
 camillo rosario,0,7
@@ -5148,10 +5117,9 @@ carina,0,4
 carine,10,0
 carino,0,36
 carisio,0,15
-carl,0,45
+carl,0,49
+carl alberto,0,5
 carl bruno,0,22
-carl'alberto,0,5
-carl0,0,4
 carla,6547,0
 carla alberta,14,0
 carla angela,10,0
@@ -5249,7 +5217,7 @@ carlo angelo enrico,0,5
 carlo angelo maria,0,4
 carlo aniello,0,5
 carlo antonio,0,294
-carlo antonio amal.,0,5
+carlo antonio amal,0,5
 carlo antonio maria,0,13
 carlo aristide,0,7
 carlo armillo,0,5
@@ -5348,7 +5316,7 @@ carlo ildo,0,5
 carlo innocenzo,0,5
 carlo isidoro,0,15
 carlo italo,0,1
-carlo l.,0,1
+carlo l,0,1
 carlo leone,0,7
 carlo levis,0,5
 carlo libero,0,10
@@ -5384,7 +5352,7 @@ carlo oliviero,0,17
 carlo oreste,0,15
 carlo orizzonte,0,5
 carlo ottavio,0,4
-carlo p.,0,7
+carlo p,0,7
 carlo pacifico,0,6
 carlo paolo,0,75
 carlo pasquale,0,35
@@ -5505,7 +5473,6 @@ carmelita,111,5
 carmelita cinzia,6,0
 carmelita valeria,7,0
 carmelo,5,11146
-carmelo  carlo,0,5
 carmelo agatino,0,4
 carmelo alberto,0,10
 carmelo alfio,0,14
@@ -5516,7 +5483,7 @@ carmelo antonino,0,34
 carmelo antonio,0,96
 carmelo beni,0,5
 carmelo benito,0,5
-carmelo carlo,0,15
+carmelo carlo,0,20
 carmelo claudio,0,9
 carmelo concetto,0,25
 carmelo dieg,0,5
@@ -5530,7 +5497,7 @@ carmelo fabrizio,0,2
 carmelo fiorenzo,0,6
 carmelo francesco,0,8
 carmelo franco,0,4
-carmelo g.,0,5
+carmelo g,0,5
 carmelo gennaro,0,13
 carmelo gerardo,0,1
 carmelo geremia,0,4
@@ -5578,7 +5545,7 @@ carmelo santo paolo,0,4
 carmelo sebastiano,0,57
 carmelo sergio,0,5
 carmelo silvestro,0,5
-carmelo silvestro f.,0,5
+carmelo silvestro f,0,5
 carmelo silvestro fe,0,5
 carmelo stefano,0,8
 carmelo tindaro,0,25
@@ -5618,7 +5585,7 @@ carmina,54,0
 carminantoni,0,5
 carminantonia,5,0
 carminantonio,0,57
-carminantonio r.,0,6
+carminantonio r,0,6
 carmine,5,12723
 carmine achille,0,10
 carmine agostino,0,30
@@ -5637,7 +5604,7 @@ carmine carmelo,0,10
 carmine cdr,0,4
 carmine ciro,0,6
 carmine claudio,0,3
-carmine d.,0,5
+carmine d,0,5
 carmine di luigi,0,6
 carmine di pasquale,0,4
 carmine domenico,0,51
@@ -5647,7 +5614,7 @@ carmine elio,0,29
 carmine emanuele,0,6
 carmine emo,0,10
 carmine eros,0,5
-carmine f.,0,4
+carmine f,0,4
 carmine fabio,0,9
 carmine federico,0,4
 carmine fernando,0,5
@@ -5662,7 +5629,7 @@ carmine gerardo,0,9
 carmine gino,0,3
 carmine giovanni,0,31
 carmine gisella,10,0
-carmine gisella est.,5,0
+carmine gisella est,5,0
 carmine gisella este,5,0
 carmine giuliano,0,3
 carmine gius,0,13
@@ -5695,7 +5662,7 @@ carmine rinaldo,0,2
 carmine robert,0,3
 carmine rocco,0,10
 carmine rosario,0,25
-carmine s.,0,4
+carmine s,0,4
 carmine sabatino,0,8
 carmine sabato,0,5
 carmine salvatore,0,19
@@ -5703,7 +5670,7 @@ carmine santo,0,12
 carmine sergio,0,2
 carmine ugo,0,11
 carmine umberto,0,4
-carmine v.,0,12
+carmine v,0,12
 carmine vanenzio,0,5
 carmine vd,0,5
 carmine vincenzo,0,8
@@ -5799,13 +5766,13 @@ caterina emirene,5,0
 caterina federica,3,0
 caterina giovanna,13,0
 caterina ilde,1,0
-caterina in chille',1,0
+caterina in chille,1,0
 caterina livia,5,0
 caterina lory,3,0
 caterina lucia,5,0
 caterina luigia,5,0
 caterina luisa,1,0
-caterina m.r.,4,0
+caterina m r,4,0
 caterina maria,62,0
 caterina maria grazi,1,0
 caterina maria rosar,1,0
@@ -5938,7 +5905,7 @@ cesare anton,0,3
 cesare antonino,0,46
 cesare antonio,0,65
 cesare arcangelo,0,10
-cesare aug.michele,0,5
+cesare aug michele,0,5
 cesare augustino,0,3
 cesare augusto,0,98
 cesare battista,0,17
@@ -5984,8 +5951,8 @@ cesare maurizio,0,6
 cesare mirko,0,5
 cesare natale,0,5
 cesare nicandro,0,6
+cesare nicol,0,2
 cesare nicola,0,4
-cesare nicolò,0,2
 cesare ottaviano,0,0
 cesare palmino,0,5
 cesare palmiro,0,5
@@ -6076,7 +6043,7 @@ chiara cristina,4,0
 chiara dorina,1,0
 chiara elisabetta,5,0
 chiara emanuela,4,0
-chiara f. a.,5,0
+chiara f a,5,0
 chiara federica,5,0
 chiara flavia,4,0
 chiara giovanna francesca,6,0
@@ -6287,7 +6254,7 @@ claudia anna,2,0
 claudia annemarie,5,0
 claudia antonella,5,0
 claudia barbara,3,0
-claudia c.,5,0
+claudia c,5,0
 claudia carla,5,0
 claudia carmen,10,0
 claudia celestina,7,0
@@ -6389,8 +6356,7 @@ claudio fiorindo,0,9
 claudio flavio,0,13
 claudio francesco,0,25
 claudio franco,0,10
-claudio g,0,10
-claudio g.,0,4
+claudio g,0,14
 claudio gabriele,0,8
 claudio gaetano,0,20
 claudio gero,0,4
@@ -6398,7 +6364,7 @@ claudio giacomo,0,2
 claudio gian paolo,0,4
 claudio giorgio,0,7
 claudio giorgio oscar,0,1
-claudio giosue',0,5
+claudio giosue,0,5
 claudio giovanni,0,129
 claudio giuseppe,0,86
 claudio giuseppe lino,0,4
@@ -6409,7 +6375,7 @@ claudio ignazio m,0,5
 claudio ignazio mari,0,10
 claudio ignazio mario,0,2
 claudio ireneo,0,1
-claudio jose`,0,5
+claudio jose,0,5
 claudio lido,0,5
 claudio lorenzo,0,10
 claudio luca,0,7
@@ -6606,14 +6572,14 @@ concettina maria,6,0
 concettina rita,11,0
 concettina rita maria,1,0
 concetto,0,453
-concetto (giotto),0,4
 concetto alfio,0,4
 concetto angelo,0,4
 concetto fabio marcello,0,3
+concetto giotto,0,4
 concetto giuseppe,0,6
 concetto lucio,0,4
 concetto mar,0,4
-concetto maria g.,0,4
+concetto maria g,0,4
 concetto mario,0,9
 concetto pietro,0,8
 concetto sebastiano,0,1
@@ -6635,9 +6601,9 @@ consiglia,55,0
 consiglio,0,35
 consolata,19,0
 consolato,0,102
-consolato   gregorio,0,3
 consolato carmelo,0,1
 consolato giuseppe,0,5
+consolato gregorio,0,3
 consolazione,13,0
 consolazione maria,2,0
 consolina,5,0
@@ -6689,7 +6655,7 @@ corrado angelo,0,10
 corrado antonio,0,1
 corrado berto,0,2
 corrado bruno,0,5
-corrado bruno v.,0,5
+corrado bruno v,0,5
 corrado camillo,0,9
 corrado celeste,0,9
 corrado conforto,0,0
@@ -6735,7 +6701,7 @@ cosima lucia,21,0
 cosimina,13,0
 cosimino,0,107
 cosimo,0,6139
-cosimo a.,0,5
+cosimo a,0,5
 cosimo alberto,0,5
 cosimo alessandro,0,20
 cosimo alfio,0,4
@@ -6750,7 +6716,7 @@ cosimo carmelo,0,25
 cosimo carmelo tiziano,0,3
 cosimo carmine,0,9
 cosimo costanzo,0,6
-cosimo d.,0,14
+cosimo d,0,14
 cosimo damia,0,11
 cosimo damiano,0,540
 cosimo damiano anton,0,4
@@ -6786,7 +6752,7 @@ cosimo mario,0,55
 cosimo mario rosario,0,1
 cosimo michele,0,9
 cosimo mirko eros,0,5
-cosimo n.,0,5
+cosimo n,0,5
 cosimo natale,0,10
 cosimo nicola,0,36
 cosimo nunzio,0,13
@@ -6820,12 +6786,12 @@ cosmo alberto,0,13
 cosmo alfonso,0,5
 cosmo andrea,0,4
 cosmo antonio,0,21
-cosmo d.,0,5
+cosmo d,0,5
 cosmo damiano,0,73
 cosmo domenico,0,5
 cosmo lucio,0,10
 cosmo maria,0,11
-cosmo nicolo',0,5
+cosmo nicolo,0,5
 cosmo sergio,0,4
 costabile,0,117
 costante,0,682
@@ -6905,8 +6871,7 @@ cristhian,0,1
 cristian,0,2935
 cristian abramo,0,6
 cristian antonio,0,10
-cristian biagio dom,0,1
-cristian biagio dom.,0,1
+cristian biagio dom,0,2
 cristian carlo,0,6
 cristian dino,0,5
 cristian domenico,0,13
@@ -7021,14 +6986,14 @@ custodia,4,0
 custodina,4,0
 cvetka,9,0
 cyriak,0,5
-d.antonio,0,10
-d'agliano luigi,0,5
-d'amato federico,0,4
-d'angelo,0,1
-d'angelo raffaele,0,5
-d'aulerio aldo,0,5
-d'iseppo luigi,0,5
-d'onofrio,0,2
+d agliano luigi,0,5
+d amato federico,0,4
+d angelo,0,1
+d angelo raffaele,0,5
+d antonio,0,10
+d aulerio aldo,0,5
+d iseppo luigi,0,5
+d onofrio,0,2
 dafne,12,5
 dagmar,15,0
 dagoberto,0,13
@@ -7121,13 +7086,13 @@ daniel christian,0,6
 daniel claudio,0,1
 daniel daiebi,0,4
 daniel david,0,28
-daniel georges l.n.,0,10
+daniel georges l n,0,10
 daniel georges louis,0,5
 daniel rudi,0,5
 daniela,10217,0
-daniela  ala  maria,4,0
 daniela adelaide,10,0
 daniela agostina,1,0
+daniela ala maria,4,0
 daniela angela,5,0
 daniela anna,9,0
 daniela anna rita,3,0
@@ -7215,12 +7180,12 @@ daniele elvino,0,6
 daniele emanuele,0,9
 daniele enrico,0,19
 daniele evaristo,0,10
-daniele f.l.,0,5
+daniele f l,0,5
 daniele fabrizio,0,2
 daniele fortunato,0,5
 daniele francesco,0,26
 daniele franco,0,19
-daniele g.,0,10
+daniele g,0,10
 daniele gaspare,0,20
 daniele giacomo,0,27
 daniele giordano,0,1
@@ -7242,13 +7207,13 @@ daniele massimo,0,3
 daniele maurizio,0,26
 daniele modesto,0,5
 daniele nicola,0,8
-daniele nicolo',0,1
+daniele nicolo,0,1
 daniele orazio,0,1
 daniele paolo,0,9
 daniele paolo franco,0,10
 daniele piero,0,7
 daniele pietro,0,4
-daniele pietro g.,0,5
+daniele pietro g,0,5
 daniele pietro giuseppe,0,2
 daniele renato,0,5
 daniele roberto,0,20
@@ -7284,7 +7249,7 @@ danila carmela,5,0
 danila ida,6,0
 danila nicoletta,5,0
 danila oriana,2,0
-danila valentina r.,10,0
+danila valentina r,10,0
 danili,0,5
 danilio,0,2
 danilla,1,0
@@ -7293,7 +7258,7 @@ danillo lazzaro,0,5
 danilo,0,9103
 danilo agostino,0,10
 danilo alessio,0,5
-danilo ambrogio vir.,0,5
+danilo ambrogio vir,0,5
 danilo angelo,0,1
 danilo antonio,0,2
 danilo carlo,0,5
@@ -7447,7 +7412,7 @@ dario ermanno sisto,0,14
 dario ernesto,0,5
 dario eugenio,0,1
 dario francesco,0,14
-dario g.,0,5
+dario g,0,5
 dario gabriele,0,20
 dario gennaro,0,5
 dario gezio,0,5
@@ -7477,7 +7442,7 @@ dario mauro,0,37
 dario michelangelo,0,5
 dario michele,0,1
 dario michele manlio,0,10
-dario mose',0,1
+dario mose,0,1
 dario nicola,0,1
 dario nicolangelo,0,3
 dario nicolino,0,5
@@ -7582,7 +7547,7 @@ davide mario,0,16
 davide massimiliano,0,1
 davide massimo,0,10
 davide natale,0,22
-davide nicolo',0,8
+davide nicolo,0,8
 davide nunzio,0,1
 davide orazio,0,1
 davide paolo,0,33
@@ -7609,7 +7574,7 @@ davidino,0,5
 davino,0,25
 davio,0,3
 davis,0,37
-davis ali',0,5
+davis ali,0,5
 davj,0,11
 dayana,11,0
 dayna,15,0
@@ -7673,7 +7638,7 @@ delfino giuseppe,0,10
 delfio,0,47
 delfo,0,107
 delfo basi,0,6
-delfo,giovanni,0,7
+delfo giovanni,0,7
 delfreo,0,1
 delhj,0,5
 deli,0,5
@@ -7721,8 +7686,8 @@ demos,0,33
 demostene,0,5
 denetrio carmine,0,5
 deni,0,39
+deni francesco,0,15
 deni luigina,1,0
-deni' francesco,0,15
 denia,2,5
 denico,0,5
 deniel,0,4
@@ -7785,16 +7750,14 @@ desiderio ser,0,5
 desiderio sergio,0,4
 desilia,10,0
 desio,0,24
-desire,11,0
-desirè,5,0
-desire',16,0
-desire' alma,1,0
-desire' giusi,2,0
-desire'e,18,0
-desiree,9,0
-desirèe,2,0
+desir,5,0
+desir e,2,0
+desire,27,0
+desire alma,1,0
+desire e,18,0
+desire giusi,2,0
+desiree,19,0
 desiree sara,1,0
-desiree',10,0
 desolina,5,0
 despina maria,4,0
 dessivo,0,8
@@ -7861,7 +7824,7 @@ diego ettore,0,4
 diego ezio,0,16
 diego fernando,0,9
 diego francesco,0,1
-diego g.,0,3
+diego g,0,3
 diego gabriele onori,0,5
 diego geraldo,0,6
 diego gianluigi,0,6
@@ -8036,9 +7999,9 @@ domelia,0,0
 domemico,0,9
 domenant,0,4
 domenco,0,2
-domenic0,0,2
+domenic,0,2
 domenica,1569,0
-domenica a.,1,0
+domenica a,1,0
 domenica alessia,8,0
 domenica angela,6,0
 domenica anna,5,0
@@ -8071,8 +8034,7 @@ domenichino,0,10
 domenichino matteo,0,4
 domenici,0,2
 domenico,0,54731
-domenico a,0,5
-domenico a.,0,15
+domenico a,0,20
 domenico achille,0,3
 domenico adriano,0,1
 domenico alberto,0,24
@@ -8091,11 +8053,11 @@ domenico antoni,0,4
 domenico antonino,0,7
 domenico antonio,0,804
 domenico antonio antimo,0,3
-domenico antonio v.,0,2
+domenico antonio v,0,2
 domenico assunto,0,3
 domenico aurelio,0,20
 domenico aviano,0,10
-domenico b.e.,0,2
+domenico b e,0,2
 domenico bartolo,0,7
 domenico bartolomeo,0,3
 domenico benedetto,0,17
@@ -8128,8 +8090,7 @@ domenico enrico,0,19
 domenico enzo,0,53
 domenico eolo,0,4
 domenico eugenio,0,13
-domenico f,0,10
-domenico f.,0,14
+domenico f,0,24
 domenico fausto,0,5
 domenico felice,0,28
 domenico fiorenzo,0,10
@@ -8138,8 +8099,7 @@ domenico fr,0,10
 domenico fra,0,10
 domenico francesco,0,140
 domenico franco,0,79
-domenico g,0,5
-domenico g.,0,9
+domenico g,0,14
 domenico gabriele,0,10
 domenico gaetano,0,4
 domenico gennaro,0,24
@@ -8173,7 +8133,7 @@ domenico lucio,0,5
 domenico luigi,0,53
 domenico marcello,0,21
 domenico marco,0,9
-domenico maria,0,43
+domenico maria,0,48
 domenico maria eustochio,0,17
 domenico mario,0,86
 domenico marzio,0,18
@@ -8188,8 +8148,7 @@ domenico nicodemo,0,4
 domenico nicola,0,84
 domenico nicolino,0,39
 domenico nino,0,4
-domenico p,0,1
-domenico p.,0,9
+domenico p,0,10
 domenico palmerio,0,10
 domenico pantaleo,0,5
 domenico paolo,0,10
@@ -8237,7 +8196,6 @@ domenico vito,0,44
 domenico vittorio,0,20
 domenico vulgo liber,0,5
 domenico wal,0,5
-domenico,maria,0,5
 domenicoantonio,0,4
 domenio,0,5
 domenmico,0,4
@@ -8269,7 +8227,7 @@ donata rosa,5,0
 donata rosanna,10,0
 donatangelo,0,64
 donatantonio,0,17
-donatell0,0,5
+donatell,0,5
 donatella,3243,0
 donatella adele teresa,1,0
 donatella angela,6,0
@@ -8295,7 +8253,7 @@ donatengelo,0,5
 donatina,19,0
 donatino,0,54
 donato,0,9413
-donato a.,0,10
+donato a,0,10
 donato adamo,0,5
 donato alberto,0,12
 donato albino,0,17
@@ -8305,9 +8263,9 @@ donato amerigo,0,10
 donato angelo,0,10
 donato anton,0,17
 donato antonio,0,190
-donato antonio g.,0,4
+donato antonio g,0,4
 donato attilio,0,5
-donato c.,0,5
+donato c,0,5
 donato carmine,0,29
 donato claudio,0,10
 donato colombo,0,4
@@ -8346,7 +8304,7 @@ donato lanfranco,0,2
 donato leonardo,0,7
 donato lucio,0,6
 donato luigi,0,21
-donato m.,0,5
+donato m,0,5
 donato marcello,0,7
 donato maria,0,5
 donato mario,0,7
@@ -8502,7 +8460,8 @@ dusca,10,0
 duse,10,0
 dusolina,16,0
 dylan,0,1
-e.giancarlo,0,4
+e giancarlo,0,4
+e leonora,5,0
 ebe,149,0
 ebe maria,10,0
 ebe paola,12,0
@@ -8629,7 +8588,7 @@ edoardo franco,0,10
 edoardo giorgio,0,15
 edoardo giovanni,0,7
 edoardo giuseppe,0,14
-edoardo leonardo m.,0,10
+edoardo leonardo m,0,10
 edoardo leonardo mar,0,10
 edoardo lucio fernan,0,4
 edoardo luigi,0,33
@@ -8704,7 +8663,7 @@ efisio ignazio,0,21
 efisio luigi,0,28
 efisio maria,0,33
 efisio mario,0,10
-efisio nicolo',0,15
+efisio nicolo,0,15
 efisio paolo,0,4
 efisio salvatore,0,5
 efre,2,8
@@ -8794,7 +8753,7 @@ ehrentraut,30,0
 eide,0,1
 einer,0,3
 ekkehard,0,5
-el-zohbi,0,4
+el zohbi,0,4
 elbano,0,29
 elberto,0,10
 elbino,0,21
@@ -8843,7 +8802,7 @@ elena assunta,6,0
 elena beatrice,1,0
 elena benedetta,1,0
 elena carmela,2,0
-elena carola m.,5,0
+elena carola m,5,0
 elena cinzia,5,0
 elena clelia,1,0
 elena costanza,6,0
@@ -8907,7 +8866,7 @@ eleonora antonia,4,0
 eleonora elsa,6,0
 eleonora eugenia,3,0
 eleonora filomena,5,0
-eleonora fr.sca brig,2,0
+eleonora fr sca brig,2,0
 eleonora grisa,5,0
 eleonora jolanda,1,0
 eleonora letteria,2,0
@@ -9111,7 +9070,6 @@ elisabeta,4,0
 elisabeta gessica,4,0
 elisabeth,283,0
 elisabetta,4121,0
-elisabetta  maria,3,0
 elisabetta a,5,0
 elisabetta aldina,5,0
 elisabetta anna,29,0
@@ -9127,7 +9085,7 @@ elisabetta giuseppin,5,0
 elisabetta lucia,5,0
 elisabetta luigia,6,0
 elisabetta luisa mar,15,0
-elisabetta maria,36,0
+elisabetta maria,39,0
 elisabetta maria lui,4,0
 elisabetta rosa,13,0
 elisabetta sara,5,0
@@ -9194,7 +9152,7 @@ elpidio,0,261
 elpidio guido,0,5
 elpidoforos,0,4
 elsa,668,0
-elsa  antonia,1,0
+elsa antonia,1,0
 elsa elisa,1,0
 elsa in falschi,5,0
 elsa maria,14,0
@@ -9207,8 +9165,7 @@ elvana,15,0
 elvano,0,5
 elvasio,0,5
 elvazio,0,9
-elve,5,0
-elve',4,0
+elve,9,0
 elver,0,13
 elves,5,0
 elvezia,4,0
@@ -9676,7 +9633,7 @@ enrico andrea,0,26
 enrico angelo,0,18
 enrico angelo antoni,0,5
 enrico anton,0,5
-enrico antonio,0,65
+enrico antonio,0,67
 enrico arcangelo,0,5
 enrico armando,0,4
 enrico arturo,0,9
@@ -9711,7 +9668,7 @@ enrico fabio,0,10
 enrico ferdi,0,8
 enrico fernando,0,21
 enrico filippo,0,2
-enrico filippo g.,0,5
+enrico filippo g,0,5
 enrico filippo giuseppe,0,2
 enrico francesco,0,18
 enrico franco,0,31
@@ -9752,13 +9709,13 @@ enrico mattia,0,10
 enrico maurizio,0,5
 enrico mauro,0,15
 enrico modesto,0,5
-enrico n.,0,4
+enrico n,0,4
 enrico natale,0,5
-enrico niccolò,0,5
-enrico niccolo',0,5
+enrico niccol,0,5
+enrico niccolo,0,5
 enrico nicola,0,29
 enrico nicolino,0,10
-enrico nicolo',0,5
+enrico nicolo,0,5
 enrico nilo,0,4
 enrico omar,0,9
 enrico oscar,0,14
@@ -9794,7 +9751,6 @@ enrico vincenzo,0,23
 enrico virginio,0,5
 enrico vittorio,0,8
 enrico vittorio l,0,5
-enrico, antonio,0,2
 enricomaria,0,1
 ensa,5,0
 enso,0,10
@@ -9908,7 +9864,6 @@ enzomaria gianfranco,0,1
 enzonicola,0,5
 enzoo,0,4
 eola,8,0
-eòleonora,5,0
 eolo,0,101
 epaminonda,0,8
 ephrem,0,5
@@ -9974,7 +9929,7 @@ erder,0,4
 erenio,0,15
 erfinio,0,10
 ergeldino,0,5
-ergemiro a.,0,5
+ergemiro a,0,5
 ergenio,0,4
 ergeo,0,10
 ergilio,0,4
@@ -9989,7 +9944,7 @@ eriberto romolo,0,10
 eric,0,118
 eric giacomo,0,5
 eric joseph,0,4
-eric rene' jean,0,5
+eric rene jean,0,5
 erica,793,0
 erica angioletta,4,0
 erica antonia,1,0
@@ -10050,7 +10005,7 @@ ermanno francesco,0,9
 ermanno gabriele,0,1
 ermanno giuseppe,0,20
 ermanno luigi,0,51
-ermanno manlio,0,2
+ermanno manlio,0,7
 ermanno maria nino,0,14
 ermanno mario,0,5
 ermanno narciso,0,4
@@ -10060,7 +10015,6 @@ ermanno salvatore,0,10
 ermanno vincenzo,0,5
 ermanno vittori,0,6
 ermanno vittorio,0,4
-ermanno-manlio,0,5
 ermano,5,377
 ermano salvatore,0,5
 ermanzia,15,0
@@ -10106,11 +10060,10 @@ ermilio,0,23
 ermina,4,0
 ermindo,0,53
 erminia,446,15
-erminia  maria,3,0
 erminia celestina,18,0
 erminia giuseppina,0,0
 erminia lucia,5,0
-erminia maria,1,0
+erminia maria,4,0
 erminia maria carmela,3,0
 erminia mariannina g,7,0
 erminia rosa,0,0
@@ -10124,7 +10077,7 @@ erminio carmelo alb,0,4
 erminio cirillo,0,7
 erminio domenico,0,15
 erminio enzo,0,12
-erminio giosue',0,4
+erminio giosue,0,4
 erminio giovanni,0,13
 erminio luciano,0,9
 erminio mario,0,5
@@ -10153,8 +10106,8 @@ ernano,0,19
 ernede,0,5
 ernelio,0,11
 ernesta,231,0
-ernesta (detta tina,5,0
 ernesta caterina,5,0
+ernesta detta tina,5,0
 ernesta giovanna,4,0
 ernesta giulia,5,0
 ernesta mariagloria,4,0
@@ -10181,7 +10134,7 @@ ernesto cesare maria,0,5
 ernesto claudio,0,7
 ernesto danilo,0,3
 ernesto detto tino,0,5
-ernesto e.a.,0,7
+ernesto e a,0,7
 ernesto egidio,0,5
 ernesto elvis,0,11
 ernesto emilio,0,14
@@ -10257,7 +10210,7 @@ erulo cesare,0,6
 eruno,0,5
 erus,0,30
 ervana,15,0
-erve',0,14
+erve,0,14
 ervedo,0,20
 ervidio,0,5
 ervin,0,14
@@ -10374,7 +10327,7 @@ ettore palmiro,0,5
 ettore paolo,0,5
 ettore pietro,0,18
 ettore primo,0,5
-ettore raffaele g.,0,5
+ettore raffaele g,0,5
 ettore renato,0,9
 ettore ricca,0,5
 ettore riccardo,0,4
@@ -10672,10 +10625,9 @@ ezio ugo,0,14
 ezio vincenzo,0,5
 ezio vittorio,0,4
 ezzelino,0,13
-f paolo,0,8
-f. claudio,0,2
-f. paolo,0,5
-f.saverio,0,2
+f claudio,0,2
+f paolo,0,13
+f saverio,0,2
 fabbio,0,23
 fabbrizio,0,23
 fabbro pietro,0,5
@@ -10697,13 +10649,12 @@ fabiano rosario,0,6
 fabien marc gino,0,15
 fabiena,5,0
 fabio,0,25393
-fabio  angelo,0,5
 fabio achille,0,8
 fabio adriano,0,1
 fabio aldo,0,8
 fabio alessandro,0,37
 fabio andrea,0,20
-fabio angelo,0,36
+fabio angelo,0,41
 fabio angelo gaetano,0,4
 fabio antenore,0,3
 fabio antonio,0,50
@@ -10807,14 +10758,13 @@ fabrice nicolas,0,9
 fabrina,4,0
 fabrizia,428,5
 fabrizio,5,19841
-fabrizio  vincenzo,0,1
 fabrizio abramo,0,2
 fabrizio alessandro,0,32
 fabrizio alfonso,0,16
 fabrizio andrea,0,25
 fabrizio angelo,0,47
 fabrizio antonio,0,28
-fabrizio antonio e.,0,5
+fabrizio antonio e,0,5
 fabrizio arturo,0,6
 fabrizio bernardo,0,5
 fabrizio camillo,0,10
@@ -10849,7 +10799,7 @@ fabrizio massimo,0,5
 fabrizio natale,0,5
 fabrizio natalino,0,5
 fabrizio nunzio,0,1
-fabrizio p.,0,5
+fabrizio p,0,5
 fabrizio paolo,0,25
 fabrizio piero,0,6
 fabrizio pietro,0,12
@@ -10864,7 +10814,7 @@ fabrizio sergio,0,7
 fabrizio silvestro,0,10
 fabrizio tarcisio,0,2
 fabrizio ugo mario,0,4
-fabrizio vincenzo,0,3
+fabrizio vincenzo,0,4
 fabrizio vito,0,2
 fabrizio vittorio,0,4
 fabrizio walter,0,15
@@ -10885,7 +10835,7 @@ fania,9,0
 fania nella,1,0
 fanico,0,7
 fanino,0,1
-fanni' maria rosa,4,0
+fanni maria rosa,4,0
 fanny,63,0
 fanny cristina,1,0
 fano,0,18
@@ -10921,7 +10871,7 @@ faustino luigi maria,0,5
 faustino mario,0,24
 faustino mauro,0,2
 faustino silvio,0,23
-fausto,0,10936
+fausto,0,10939
 fausto adriano,0,18
 fausto alberto,0,13
 fausto aless,0,5
@@ -10970,7 +10920,7 @@ fausto piero,0,9
 fausto pietro,0,4
 fausto pio,0,1
 fausto rosario,0,12
-fausto rosario g.,0,4
+fausto rosario g,0,4
 fausto ruggero,0,4
 fausto salvatore,0,34
 fausto sam,0,5
@@ -10981,7 +10931,6 @@ fausto tommaso,0,10
 fausto ulisse,0,4
 fausto umberto,0,10
 fausto walter,0,5
-fausto0,0,3
 fauzi,0,9
 fauzia,5,0
 favio,0,29
@@ -11070,7 +11019,7 @@ federico mario,0,23
 federico massim,0,4
 federico nando,0,3
 federico nicodemo,0,5
-federico nicolo',0,5
+federico nicolo,0,5
 federico pasquale,0,2
 federico patrizio,0,5
 federico piero,0,5
@@ -11280,7 +11229,7 @@ fernanda michelina,18,0
 fernanda vita,3,0
 fernandino,0,1
 fernando,0,8543
-fernando a.,0,10
+fernando a,0,10
 fernando antonio,0,309
 fernando antono,0,4
 fernando camillo,0,15
@@ -11339,7 +11288,7 @@ ferruccio antonio,0,19
 ferruccio cesare,0,10
 ferruccio domenico,0,5
 ferruccio francesco,0,5
-ferruccio g.,0,5
+ferruccio g,0,5
 ferruccio gaudenzio,0,5
 ferruccio gi,0,5
 ferruccio giacomo,0,4
@@ -11351,7 +11300,7 @@ ferruccio mario,0,5
 ferruccio primo,0,38
 ferruccio roberto,0,4
 ferruccio romano,0,5
-ferruccio s.g.,0,5
+ferruccio s g,0,5
 ferruccio stefano,0,5
 ferruccio tommaso,0,5
 ferrulio,0,25
@@ -11373,7 +11322,7 @@ fiano,0,4
 fidalma,15,0
 fidalma donatella,5,0
 fidel,0,1
-fidel jose',0,1
+fidel jose,0,1
 fidelia,9,0
 fidelis alfred,0,4
 fidelmino,0,26
@@ -11428,11 +11377,11 @@ filippo anto,0,5
 filippo antonino,0,16
 filippo antonio,0,121
 filippo antonio luig,0,4
-filippo antonio m.,0,9
+filippo antonio m,0,9
 filippo armando,0,9
 filippo barbaro,0,3
 filippo bruno,0,23
-filippo c.,0,5
+filippo c,0,5
 filippo carlo,0,19
 filippo carmelo,0,21
 filippo carmine,0,10
@@ -11464,7 +11413,7 @@ filippo guido flavio,0,1
 filippo ignazio,0,5
 filippo ital,0,5
 filippo italo,0,3
-filippo l.g.,0,5
+filippo l g,0,5
 filippo lazzaro,0,5
 filippo leone,0,1
 filippo luca,0,10
@@ -11522,7 +11471,7 @@ filomena elena,4,0
 filomena giuliana,1,0
 filomena in carusone,5,0
 filomena maria,9,0
-filomena maria cons.,1,0
+filomena maria cons,1,0
 filomena minella,2,0
 filomena ros,2,0
 filomena rosa,16,0
@@ -11542,7 +11491,7 @@ finanzio,0,5
 finisia,2,0
 finisio,0,2
 finuccia,1,0
-fiodor  luciano alessandro,0,1
+fiodor luciano alessandro,0,1
 fiona,10,0
 fior angela,18,0
 fior giuseppe,0,4
@@ -11860,7 +11809,7 @@ foscolo,0,4
 foscolo ugo,0,5
 foster,0,2
 foti,0,0
-fr5anco,0,5
+fr anco,0,5
 frabrizio,0,5
 fracesca,5,0
 fracesco,0,4
@@ -11868,9 +11817,10 @@ fracno,0,5
 fram walter,0,5
 framcesca,5,0
 framcesco,0,10
-franc,0,4
-franc.fiorella,5,0
-franc0,0,5
+fran ois,0,10
+fran ois marie,0,5
+franc,0,9
+franc fiorella,5,0
 franca,5335,0
 franca adele,8,0
 franca adele maria,4,0
@@ -11897,14 +11847,14 @@ franca lisa,11,0
 franca loretta,5,0
 franca luigia,6,0
 franca luvia,5,0
-franca m.,4,0
+franca m,4,0
 franca maddalena,11,0
 franca mafalda,4,0
 franca maria,187,1
 franca maria adele,3,0
 franca maria assunta,4,0
 franca maria grazia,20,0
-franca maria l.,5,0
+franca maria l,5,0
 franca maria pia,5,0
 franca maria teresa,4,0
 franca marina,5,0
@@ -11940,11 +11890,9 @@ francecso silvio,0,5
 franceesco,0,5
 francersco,0,2
 francesa,1,0
-francesc'angelo,0,10
+francesc angelo,0,10
 francesca,9094,0
-francesca  nadia,1,0
-francesca a,4,0
-francesca a.,5,0
+francesca a,9,0
 francesca agnese,1,0
 francesca alessandra,1,0
 francesca am,10,0
@@ -11989,6 +11937,7 @@ francesca maria grazia,2,0
 francesca maria irma,5,0
 francesca maryse,20,0
 francesca michela,5,0
+francesca nadia,1,0
 francesca natascia,2,0
 francesca nina,14,0
 francesca p,5,0
@@ -11996,7 +11945,7 @@ francesca paola,13,0
 francesca paola irma,1,0
 francesca paolo,0,5
 francesca provvidenza,2,0
-francesca r.,2,0
+francesca r,2,0
 francesca raimonda,20,0
 francesca rita,14,0
 francesca romana,16,0
@@ -12017,11 +11966,9 @@ franceschina,50,0
 franceschino,0,192
 francesci,0,5
 francescio,0,5
-francesco,0,108283
-francesco 1950,0,5
-francesco a,0,27
-francesco a.,0,9
-francesco a. mario,0,8
+francesco,0,108288
+francesco a,0,36
+francesco a mario,0,8
 francesco achille,0,10
 francesco adelino,0,5
 francesco agostino,0,17
@@ -12042,7 +11989,7 @@ francesco antonino,0,6
 francesco antonio,0,1357
 francesco antonio cateno,0,3
 francesco antonio claudio,0,7
-francesco antonio d.,0,3
+francesco antonio d,0,3
 francesco antonio graziano,0,3
 francesco antonio ma,0,2
 francesco antonio maria,0,12
@@ -12061,7 +12008,7 @@ francesco bernardo,0,2
 francesco biagio,0,20
 francesco biase battista,0,3
 francesco bruno,0,19
-francesco c.,0,15
+francesco c,0,15
 francesco calisto,0,6
 francesco calogero,0,6
 francesco calogero g,0,5
@@ -12069,7 +12016,7 @@ francesco camillo,0,2
 francesco carlo,0,88
 francesco carmelo,0,26
 francesco carmine,0,26
-francesco carmine a.,0,5
+francesco carmine a,0,5
 francesco cateno,0,2
 francesco celestino,0,18
 francesco cesare,0,14
@@ -12081,7 +12028,7 @@ francesco cosimo,0,23
 francesco cosma,0,3
 francesco cristoforo,0,1
 francesco d,0,10
-francesco d'assisi,0,13
+francesco d assisi,0,13
 francesco da,0,5
 francesco danilo,0,8
 francesco dario,0,20
@@ -12093,7 +12040,7 @@ francesco dino,0,13
 francesco dionisio,0,5
 francesco domenico,0,148
 francesco donato,0,12
-francesco e. a.,0,5
+francesco e a,0,5
 francesco edmondo,0,6
 francesco edoardo,0,12
 francesco eligio casimiro,0,0
@@ -12123,10 +12070,9 @@ francesco fiore,0,33
 francesco fiorino,0,10
 francesco fortunato,0,14
 francesco franco,0,4
-francesco g,0,14
-francesco g.,0,10
-francesco g.b.,0,5
-francesco g.ppe,0,2
+francesco g,0,24
+francesco g b,0,5
+francesco g ppe,0,2
 francesco ga,0,5
 francesco gabriele,0,28
 francesco gaetano,0,40
@@ -12140,7 +12086,7 @@ francesco gibaldo,0,3
 francesco gino,0,13
 francesco gioacchino,0,3
 francesco giorgio,0,1
-francesco giov. eman,0,5
+francesco giov eman,0,5
 francesco giovanni,0,263
 francesco giovanni antonio,0,1
 francesco giovanni enrico,0,1
@@ -12172,9 +12118,9 @@ francesco lucio,0,14
 francesco ludovico,0,9
 francesco luigi,0,88
 francesco m,0,25
-francesco m. luigi,0,4
-francesco m.g.,0,4
-francesco m.r.,0,4
+francesco m g,0,4
+francesco m luigi,0,4
+francesco m r,0,4
 francesco ma,0,18
 francesco marcello,0,5
 francesco marco,0,28
@@ -12212,15 +12158,14 @@ francesco onorato,0,3
 francesco orazio,0,10
 francesco oreste,0,1
 francesco osvaldo,0,7
-francesco p,0,15
-francesco p.,0,2
+francesco p,0,17
 francesco pa,0,39
 francesco palmino,0,5
 francesco palmiro,0,16
 francesco pantaleo,0,36
 francesco paola,0,12
 francesco paolo,0,1369
-francesco paolo a.,0,10
+francesco paolo a,0,10
 francesco paolo antonio,0,3
 francesco paolo antoonio,0,5
 francesco pasquale,0,28
@@ -12230,7 +12175,7 @@ francesco pino,0,20
 francesco pio,0,50
 francesco pio maria,0,4
 francesco primo,0,2
-francesco r.,0,5
+francesco r,0,5
 francesco raffaele,0,21
 francesco raphael,0,10
 francesco renato,0,20
@@ -12246,8 +12191,7 @@ francesco romano,0,13
 francesco romualdo,0,10
 francesco rosario,0,77
 francesco rosario antonio,0,1
-francesco s,0,15
-francesco s.,0,23
+francesco s,0,38
 francesco sa,0,15
 francesco sabino,0,5
 francesco salvatore,0,215
@@ -12287,7 +12231,7 @@ francescoalberto,0,5
 francescoantonio,0,19
 francescomaria,5,4
 francescopaolo,0,50
-francescp p.,0,4
+francescp p,0,4
 francescso,0,5
 franceso,0,19
 franceso saverio,0,4
@@ -12332,7 +12276,7 @@ franco beniamino,0,4
 franco benito,0,15
 franco biagio,0,5
 franco bruno,0,20
-franco c.,0,9
+franco c,0,9
 franco carlo,0,18
 franco carlo aldo,0,5
 franco carlo andrea,0,5
@@ -12355,8 +12299,7 @@ franco decio,0,10
 franco delfino,0,19
 franco domenico,0,117
 franco donato,0,9
-franco e,0,5
-franco e.,0,5
+franco e,0,10
 franco edoardo,0,4
 franco egidio,0,27
 franco elia,0,5
@@ -12367,7 +12310,7 @@ franco emerito,0,5
 franco emilio,0,35
 franco enrico,0,38
 franco enrico maria,0,3
-franco enzo,0,10
+franco enzo,0,15
 franco ernesto,0,2
 franco espedito,0,13
 franco esperio,0,3
@@ -12387,8 +12330,7 @@ franco flavio,0,5
 franco fortunato,0,13
 franco fra,0,5
 franco francesco,0,29
-franco g,0,6
-franco g.,0,5
+franco g,0,11
 franco gabriele,0,8
 franco gaetano,0,36
 franco giacomo,0,72
@@ -12403,7 +12345,7 @@ franco giulio,0,17
 franco giuseppe,0,227
 franco giuseppe mario,0,4
 franco giusto,0,6
-franco guerino v.a.,0,5
+franco guerino v a,0,5
 franco idio,0,37
 franco iganzio,0,5
 franco ignazio,0,74
@@ -12448,7 +12390,7 @@ franco pietro,0,49
 franco pietro paolo,0,1
 franco pio,0,8
 franco pompeo,0,5
-franco r.,0,5
+franco r,0,5
 franco raffaele,0,5
 franco raimondo,0,18
 franco renato,0,10
@@ -12487,14 +12429,11 @@ franco vincenzo,0,33
 franco virginio,0,9
 franco vitto,0,5
 franco vittorio,0,40
-franco w.,0,5
+franco w,0,5
 franco walter,0,5
 franco wibawa,0,5
-franco,enzo,0,5
 francoaugusto,0,15
 francois,0,8
-françois,0,10
-françois marie,0,5
 francoise,24,10
 francolino,0,6
 francomaria,0,4
@@ -12635,40 +12574,30 @@ furio orlando,0,10
 furio tommaso,0,4
 fusco,0,0
 fviovo,0,5
-g antonio,0,10
+g antonio,0,14
+g ardelio,0,5
 g b,0,5
 g b roberto,0,5
-g battista,0,43
-g carlo,0,5
+g b vittorio,5,0
+g battista,0,116
+g battista roberto,0,4
+g carlo,0,18
+g enrico,0,5
 g filastro,0,5
+g francesco,0,5
 g franco,0,5
-g luca,0,5
-g luigi,0,5
+g giuseppe,0,5
+g luca,0,10
+g luigi,0,10
+g maria germano,0,4
 g maria piet,0,10
-g mario,0,5
+g maria pietro,0,10
+g mario,0,9
 g massimo,0,5
-g paolo,0,5
-g pietro,0,10
+g paolo,0,20
+g piero,0,4
+g pietro,0,14
 g placido,0,10
-g. antonio,0,4
-g. battista,0,38
-g. carlo,0,4
-g. enrico,0,5
-g. francesco,0,5
-g. giuseppe,0,5
-g. luca,0,5
-g. luigi,0,5
-g. maria germano,0,4
-g. maria pietro,0,10
-g. mario,0,4
-g. paolo,0,15
-g. piero,0,4
-g. pietro,0,4
-g.ardelio,0,5
-g.b. vittorio,5,0
-g.battista,0,35
-g.battista roberto,0,4
-g.carlo,0,9
 gabbani,0,5
 gabbriella,11,0
 gabbriello,0,14
@@ -12684,7 +12613,7 @@ gabriele amalio,0,5
 gabriele angelo,0,63
 gabriele annunzio,0,8
 gabriele antonio,0,24
-gabriele antonio g.,0,5
+gabriele antonio g,0,5
 gabriele arcangelo,0,19
 gabriele arturo,0,5
 gabriele attilio,0,17
@@ -12694,7 +12623,7 @@ gabriele carmelo,0,5
 gabriele domenico,0,13
 gabriele emanuele,0,32
 gabriele emilio,0,10
-gabriele f. a.,0,10
+gabriele f a,0,10
 gabriele felice,0,1
 gabriele francesco,0,14
 gabriele franco,0,26
@@ -12784,9 +12713,8 @@ gaetanina,12,0
 gaetanino,0,41
 gaetanino giovanni,0,5
 gaetano,0,14921
-gaetano "renzo",0,10
 gaetano a,0,5
-gaetano a. f.,0,5
+gaetano a f,0,5
 gaetano alessandro,0,1
 gaetano angelo,0,2
 gaetano ant,0,5
@@ -12805,7 +12733,7 @@ gaetano davide,0,8
 gaetano delfino,0,4
 gaetano domenico,0,5
 gaetano enzo,0,15
-gaetano eugenio a.,0,5
+gaetano eugenio a,0,5
 gaetano eugenio anto,0,3
 gaetano f,0,5
 gaetano fabio,0,13
@@ -12840,6 +12768,7 @@ gaetano nino,0,5
 gaetano pasquale,0,3
 gaetano piet,0,3
 gaetano pietro,0,16
+gaetano renzo,0,10
 gaetano roberto,0,7
 gaetano rocco,0,6
 gaetano rosario,0,5
@@ -12880,7 +12809,7 @@ galvano,0,1
 gandolfa,10,0
 gandolfo,3,182
 gandolfo antonio,0,4
-gandolfo giuseppe s.,0,4
+gandolfo giuseppe s,0,4
 gandolfo maria,0,3
 gandolfo mario,0,4
 gandolfo maurizio,0,4
@@ -12908,7 +12837,7 @@ gaspare mario,0,20
 gaspare maurizio,0,14
 gaspare michelangelo,0,5
 gaspare michele,0,5
-gaspare nicolo',0,10
+gaspare nicolo,0,10
 gaspare paolo,0,14
 gaspare valter,0,33
 gasparina,10,0
@@ -12940,7 +12869,7 @@ gaustino,0,1
 gavina,80,0
 gavino,0,1152
 gavino agostino,0,14
-gavino ambrogio n.,0,5
+gavino ambrogio n,0,5
 gavino ambrogio nazario,0,5
 gavino antonio,0,17
 gavino decimo,0,10
@@ -12948,9 +12877,9 @@ gavino dino,0,10
 gavino francesco,0,20
 gavino franco,0,12
 gavino gesuino,0,15
-gavino giov.andrea,0,5
+gavino giov andrea,0,5
 gavino giovanni,0,25
-gavino giovanni a.s.,0,5
+gavino giovanni a s,0,5
 gavino giuseppe,0,10
 gavino gregorio,0,6
 gavino luciano,0,5
@@ -13006,10 +12935,10 @@ gelsomino gerardo,0,5
 gelsomino silvano,0,4
 gelsumina,5,0
 geltrude,27,4
+gem,0,3
 gemano,0,2
 gemello,0,5
 gemi,0,5
-gemì,0,3
 gemiliano,0,20
 gemini,0,14
 geminiano,0,77
@@ -13041,7 +12970,7 @@ generoso leonardo,0,5
 generoso luigi,0,4
 generoso mario,0,5
 generoso matteo,0,1
-generoso raffaele v.,0,4
+generoso raffaele v,0,4
 generoso raffaele vi,0,5
 generoso vincenzo,0,5
 generoso vittorio,0,9
@@ -13079,15 +13008,14 @@ gennaro pierino,0,5
 gennaro pietro,0,4
 gennaro rocco,0,3
 gennaro rosario,0,2
-gennaro savino,0,5
+gennaro savino,0,10
 gennaro ugo,0,5
-gennaro, savino,0,5
 gennesio,0,15
 genni,16,0
 gennj,1,0
 genny,80,15
 genoeffa,2,0
-genoeffa gemma',5,0
+genoeffa gemma,5,0
 genoino,0,5
 genoveffa,67,0
 genoveffa silvana,8,0
@@ -13139,7 +13067,7 @@ gerardina elvira,4,0
 gerardino,0,127
 gerardino valerio,0,5
 gerardo,0,7201
-gerardo a.,0,5
+gerardo a,0,5
 gerardo alessandro,0,5
 gerardo alfonso,0,5
 gerardo andrea,0,11
@@ -13165,7 +13093,7 @@ gerardo giorgio,0,5
 gerardo giov,0,10
 gerardo giovanni,0,32
 gerardo giuseppe,0,39
-gerardo giuseppe a.,0,2
+gerardo giuseppe a,0,2
 gerardo giuseppe ant,0,4
 gerardo luca,0,5
 gerardo luciano,0,29
@@ -13281,17 +13209,16 @@ gesmina,7,0
 geso,0,5
 gessica,125,8
 gessy,0,5
-gesu',0,18
-gesu' carmine,0,5
-gesu' pasquale,0,4
+gesu,0,19
+gesu carmine,0,5
+gesu pasquale,0,4
 gesualda,10,0
 gesualda antonina,10,0
 gesualdo,0,401
 gesualdo quirino,0,12
 gesualdo salvatore,0,4
-gesuè,0,1
-gesue',0,24
-gesue' domenico,0,1
+gesue,0,24
+gesue domenico,0,1
 gesuele,0,44
 gesuina,73,0
 gesuina adele,4,0
@@ -13331,6 +13258,7 @@ ghibaudi luca,0,5
 ghino,0,14
 ghio giuseppino,0,5
 ghynh,0,3
+gi n luca,0,5
 gia luca,0,5
 gia vittorio,0,2
 giaber,0,5
@@ -13350,7 +13278,7 @@ giacinto detto marco,0,1
 giacinto donato,0,5
 giacinto ettore,0,18
 giacinto francesco,0,4
-giacinto g.,0,10
+giacinto g,0,10
 giacinto gino,0,10
 giacinto gioacchino,0,3
 giacinto giovanni,0,6
@@ -13423,12 +13351,12 @@ giacomo ercole,0,5
 giacomo erminio,0,7
 giacomo eugenio,0,1
 giacomo filippo,0,23
-giacomo filippo s.,0,4
+giacomo filippo s,0,4
 giacomo flaviano,0,5
 giacomo francesco,0,53
 giacomo franco,0,19
 giacomo g,0,15
-giacomo g. mario,0,9
+giacomo g mario,0,9
 giacomo gia,0,5
 giacomo giacinto,0,1
 giacomo gino,0,4
@@ -13459,11 +13387,11 @@ giacomo matteo,0,24
 giacomo maurizio,0,5
 giacomo mauro,0,2
 giacomo michele,0,33
-giacomo michele d.,0,5
+giacomo michele d,0,5
 giacomo miro,0,10
 giacomo natale,0,10
+giacomo nicol,0,5
 giacomo nicola,0,10
-giacomo nicolò,0,5
 giacomo nino,0,10
 giacomo omar,0,19
 giacomo oreste,0,1
@@ -13474,7 +13402,7 @@ giacomo pasquale,0,10
 giacomo piergiorgio,0,5
 giacomo piero,0,15
 giacomo pietro,0,54
-giacomo r.,0,5
+giacomo r,0,5
 giacomo raffaele,0,5
 giacomo raul,0,11
 giacomo remigio,0,26
@@ -13518,7 +13446,7 @@ giambachisio,0,10
 giambassano,0,5
 giambatista,0,4
 giambattista,4,2110
-giambattista  carlo,0,10
+giambattista carlo,0,10
 giambattista grazio,0,5
 giambattista nicola,0,20
 giambattistino,0,40
@@ -13536,7 +13464,7 @@ giammaria gaetano,0,5
 giammarino,0,2
 giammarino maurilio,0,1
 giammario,0,203
-giammario giacomo s.,0,5
+giammario giacomo s,0,5
 giammateo,0,1
 giammatteo,0,10
 giammattia,0,2
@@ -13590,9 +13518,6 @@ giampiro,0,4
 giampoiero,0,5
 giamprimo,0,26
 giamprospero,0,11
-gian  franco,0,4
-gian  luigi,0,1
-gian  marco,0,2
 gian alberto,0,13
 gian alessandro,0,5
 gian alfonso,0,24
@@ -13654,7 +13579,7 @@ gian ferruccio,0,1
 gian filippo,0,64
 gian franca,51,0
 gian francesco,0,74
-gian franco,0,2521
+gian franco,0,2525
 gian franco luigi,0,3
 gian franco mario,0,5
 gian gabriele,0,20
@@ -13673,8 +13598,7 @@ gian lauro,0,14
 gian leone,0,4
 gian lodovico,0,8
 gian lorenzo,0,57
-gian luca,0,1579
-giàn luca,0,5
+gian luca,0,1584
 gian luca alessandro,0,5
 gian luca andrea,0,9
 gian luca florindo,0,6
@@ -13682,19 +13606,19 @@ gian luca giacomo,0,10
 gian luca maria,0,10
 gian luca virginio,0,5
 gian lucio,0,9
-gian luigi,0,2217
+gian luigi,0,2218
 gian luigi angelo,0,5
 gian luigi antonio,0,15
 gian luigi mario,0,5
 gian luigi mario for,0,5
 gian luigi roberto,0,7
-gian marco,0,410
+gian marco,0,412
 gian marco giuseppe,0,10
 gian maria,0,340
 gian marino,0,25
-gian mario,5,1150
+gian mario,5,1175
 gian mario luigi,0,2
-gian martino,0,9
+gian martino,0,13
 gian massimo,0,50
 gian matteo,0,58
 gian maurizio,0,2
@@ -13707,7 +13631,7 @@ gian nicola,0,104
 gian omar,0,3
 gian oreste,0,6
 gian paola,52,0
-gian paolo,1,2447
+gian paolo,1,2451
 gian paolo fossati,0,2
 gian paolo giuseppe,0,27
 gian paolo maria,0,6
@@ -13759,10 +13683,6 @@ gian vito,0,14
 gian vittore,0,9
 gian vittori,0,4
 gian vittorio,0,124
-gian-luca,0,5
-gian-mario,0,25
-gian-martino,0,4
-gian-paolo,0,4
 gianagostino,0,10
 gianalberto,0,69
 gianandrea,0,186
@@ -13809,11 +13729,11 @@ giancarlo edalfo,0,9
 giancarlo emilio,0,4
 giancarlo enrico,0,10
 giancarlo espedito,0,4
-giancarlo f.,0,5
+giancarlo f,0,5
 giancarlo felice,0,9
 giancarlo ferdinando,0,27
 giancarlo filiberto,0,3
-giancarlo filippo  pio,0,1
+giancarlo filippo pio,0,1
 giancarlo francesco,0,22
 giancarlo franco,0,2
 giancarlo g,0,15
@@ -14120,7 +14040,7 @@ gianni mauro,0,31
 gianni michele,0,21
 gianni nino,0,1
 gianni paolo,0,10
-gianni pasquale c.,0,10
+gianni pasquale c,0,10
 gianni pasqualino,0,16
 gianni piazzi,0,10
 gianni piero,0,11
@@ -14139,8 +14059,8 @@ giannibattista,0,5
 giannico,0,10
 giannicola,0,149
 giannicola maria,0,5
-giannicola s.,0,5
-giannicolo',0,14
+giannicola s,0,5
+giannicolo,0,14
 gianniluca,0,5
 giannina,248,5
 giannina agnoli,5,0
@@ -14163,7 +14083,7 @@ gianpaola,19,0
 gianpaolo,0,3553
 gianpaolo andrea,0,2
 gianpaolo domenico,0,4
-gianpaolo giosue',0,12
+gianpaolo giosue,0,12
 gianpaolo luca,0,5
 gianpasquale,0,3
 gianpeglio,0,1
@@ -14302,7 +14222,7 @@ giliola,144,0
 giliolo,0,24
 gilla,6,0
 gilles,0,2
-gilles andre',0,6
+gilles andre,0,6
 gilles serge eric,0,14
 gilli ervino,0,5
 gillio,0,15
@@ -14399,14 +14319,14 @@ gino vincenzo,0,5
 ginocarlo,0,5
 ginotto,0,10
 ginziana,4,0
+gio,0,10
 gio antonio,0,7
 gio batta,0,250
 gio batta luigi,0,5
 gio battista,0,98
 gio lucas,0,1
 gio maria,0,21
-gio',0,10
-gio' martino,0,17
+gio martino,0,17
 gioaccchino,0,5
 gioacchina,22,0
 gioacchina antonella,8,0
@@ -14465,7 +14385,7 @@ giole,0,4
 gioliva,5,0
 gioliva donata,5,0
 giomaria,0,99
-giomaria giuseppe s.,0,5
+giomaria giuseppe s,0,5
 giomauro,0,5
 giombattista,0,50
 giommaria,5,118
@@ -14530,7 +14450,7 @@ giorgio aldo,0,27
 giorgio alessandro,0,8
 giorgio alfonso,0,2
 giorgio andr,0,8
-giorgio andre',0,9
+giorgio andre,0,9
 giorgio angelo,0,26
 giorgio angelo marco,0,4
 giorgio annibale,0,19
@@ -14591,7 +14511,7 @@ giorgio guido,0,21
 giorgio gustavo,0,1
 giorgio i,0,8
 giorgio ilario,0,5
-giorgio j.,0,5
+giorgio j,0,5
 giorgio junior,0,5
 giorgio leopoldo,0,5
 giorgio lino,0,10
@@ -14599,7 +14519,7 @@ giorgio lorenzo,0,9
 giorgio loreto,0,6
 giorgio luciano,0,37
 giorgio luigi,0,58
-giorgio m.,0,10
+giorgio m,0,10
 giorgio mar,0,5
 giorgio marcello,0,5
 giorgio marco,0,35
@@ -14655,8 +14575,7 @@ giosafatte,0,104
 giosafatto,0,14
 giosaffatto,0,5
 giose,0,10
-giose giuseppe,0,9
-giose' giuseppe,0,10
+giose giuseppe,0,19
 gioseppe,0,6
 gioseppe gilberto a,0,5
 giosi,2,28
@@ -14665,40 +14584,34 @@ giosina maria,0,5
 giosino,0,5
 gioso,0,2
 giosofatto,0,10
-giosue,0,65
-giosuè,0,43
-giosuè arturo,0,5
-giosuè carlo maria antonio,0,1
-giosuè gerardo,0,6
-giosuè l p,0,4
-giosuè l.p.,0,2
+giosu,0,43
+giosu arturo,0,5
+giosu carlo maria antonio,0,1
+giosu gerardo,0,6
+giosu l p,0,6
+giosue,0,736
+giosue angelo,0,4
+giosue arturo,0,5
+giosue bruno,0,18
+giosue eugenio,0,2
+giosue francesco,0,9
+giosue giuseppe,0,2
 giosue luciano,0,10
 giosue s,0,5
-giosue',0,671
-giosue' angelo,0,4
-giosue' arturo,0,5
-giosue' bruno,0,18
-giosue' eugenio,0,2
-giosue' francesco,0,9
-giosue' giuseppe,0,2
-giosue' virginio,0,5
+giosue virginio,0,5
 giosuea,4,0
 giosuele,0,9
 giotgio,0,4
 giotti claudio,0,5
 giotto,0,19
 giouseppe,0,8
-giov  battista,0,3
 giov battist,0,5
-giov battista,0,8
+giov battista,0,25
 giov donato,0,5
-giov maria,0,36
-giov. battista,0,5
-giov. francesco,0,5
-giov. sante,0,4
-giov.battista,0,9
-giov.maria,0,20
-giov.maria lorenzo,0,5
+giov francesco,0,5
+giov maria,0,56
+giov maria lorenzo,0,5
+giov sante,0,4
 giovacchino,5,53
 giovacchino achille,0,5
 giovalberto,0,5
@@ -14719,7 +14632,7 @@ giovan domenico,0,9
 giovan felice,0,5
 giovan francesco,0,11
 giovan franco,0,73
-giovan g.,0,3
+giovan g,0,3
 giovan giuse,0,5
 giovan giuseppe,0,51
 giovan gppe,0,2
@@ -14809,8 +14722,8 @@ giovanna luigia,10,0
 giovanna luigina,10,0
 giovanna luisa,0,0
 giovanna luisita,4,0
-giovanna m.,6,0
-giovanna m. grazia,10,0
+giovanna m,6,0
+giovanna m grazia,10,0
 giovanna margherita,9,0
 giovanna maria,359,5
 giovanna maria b,5,0
@@ -14818,7 +14731,7 @@ giovanna maria bonaria,3,0
 giovanna maria grazia,1,0
 giovanna maria raimo,5,0
 giovanna maria rosaria,4,0
-giovanna maria vitt.,5,0
+giovanna maria vitt,5,0
 giovanna marialetizi,4,0
 giovanna marina,1,0
 giovanna mario,5,0
@@ -14852,11 +14765,7 @@ giovannanton,0,10
 giovannantonio,0,52
 giovannella,21,0
 giovannello,0,6
-giovanni,31,129063
-giovanni  battista,0,5
-giovanni (gianni),0,1
-giovanni 1918,0,20
-giovanni 957,0,5
+giovanni,31,129093
 giovanni a,0,40
 giovanni ach,0,10
 giovanni achille,0,20
@@ -14896,8 +14805,7 @@ giovanni augusto,0,51
 giovanni aur,0,4
 giovanni aureliano,0,5
 giovanni aurelio,0,9
-giovanni b,0,95
-giovanni b.,0,36
+giovanni b,0,131
 giovanni ba,0,10
 giovanni bartolomeo,0,15
 giovanni basilio,0,30
@@ -14905,7 +14813,7 @@ giovanni bat,5,168
 giovanni batista,0,10
 giovanni battaglia,0,1
 giovanni battis,0,10
-giovanni battista,0,6744
+giovanni battista,0,6749
 giovanni battista fr,0,4
 giovanni battista pa,0,5
 giovanni battistaq,0,4
@@ -14919,8 +14827,7 @@ giovanni bernardo,0,7
 giovanni biagio,0,1
 giovanni bruno,0,40
 giovanni buonaventur,0,4
-giovanni c,0,20
-giovanni c.,0,9
+giovanni c,0,29
 giovanni calogero,0,21
 giovanni car,0,11
 giovanni carlet,0,25
@@ -14989,9 +14896,8 @@ giovanni eusebio,0,29
 giovanni evelino,0,5
 giovanni ezi,0,5
 giovanni ezio,0,31
-giovanni f,0,10
-giovanni f.,0,5
-giovanni f.m.,0,10
+giovanni f,0,15
+giovanni f m,0,10
 giovanni fabio,0,4
 giovanni fabrizio,0,7
 giovanni fau,0,10
@@ -15026,7 +14932,7 @@ giovanni giacomo aug,0,9
 giovanni gialeto,0,10
 giovanni gian carlo,0,5
 giovanni gianbattist,0,5
-giovanni gianni,0,8
+giovanni gianni,0,9
 giovanni gino,0,38
 giovanni gioacchino,0,8
 giovanni giorgio,0,24
@@ -15080,14 +14986,13 @@ giovanni lucio,0,9
 giovanni lui,0,20
 giovanni luigi,0,756
 giovanni luigi f,0,1
-giovanni m,0,23
-giovanni m.,0,14
+giovanni m,0,37
 giovanni mansueto,0,4
 giovanni mar,0,85
 giovanni marcello,0,47
 giovanni marco,0,83
 giovanni maria,6,1492
-giovanni maria ant.,0,5
+giovanni maria ant,0,5
 giovanni maria antonio,0,1
 giovanni maria benedetto,0,4
 giovanni maria enrico,0,4
@@ -15097,8 +15002,8 @@ giovanni maria giuse,0,8
 giovanni maria luigi,0,25
 giovanni mariano,0,37
 giovanni marino,0,37
-giovanni mario,0,745
-giovanni mario ant.,0,8
+giovanni mario,0,750
+giovanni mario ant,0,8
 giovanni mario anton,0,4
 giovanni mario elio,0,5
 giovanni mario luigi,0,5
@@ -15130,7 +15035,7 @@ giovanni osvaldo,0,10
 giovanni ottaviano,0,5
 giovanni ottavio,0,5
 giovanni p,0,35
-giovanni p. a.,0,3
+giovanni p a,0,3
 giovanni pa,0,6
 giovanni pao,0,15
 giovanni paolo,0,825
@@ -15144,7 +15049,7 @@ giovanni piergiorgio,0,8
 giovanni pierino,0,14
 giovanni piero,0,167
 giovanni pietro,0,678
-giovanni pietro ag.,0,5
+giovanni pietro ag,0,5
 giovanni pino,0,1
 giovanni pio,0,20
 giovanni placido,0,5
@@ -15171,7 +15076,7 @@ giovanni romano,0,4
 giovanni romeo,0,27
 giovanni rosario,0,36
 giovanni ruggero,0,10
-giovanni s.,0,10
+giovanni s,0,10
 giovanni sal,0,6
 giovanni salvatore,0,153
 giovanni san,0,3
@@ -15197,7 +15102,7 @@ giovanni sisto,0,11
 giovanni sperandio,0,5
 giovanni stefano,0,188
 giovanni teobaldo,0,12
-giovanni tind.,0,3
+giovanni tind,0,3
 giovanni tito,0,19
 giovanni tito carlo,0,1
 giovanni tom,0,10
@@ -15216,9 +15121,8 @@ giovanni virginio,0,23
 giovanni vitale,0,5
 giovanni vito,0,42
 giovanni vittorio,0,39
-giovanni vittorio s.,0,5
+giovanni vittorio s,0,5
 giovanni walter,0,30
-giovanni, mario,0,5
 giovanniantonio,0,8
 giovannibattista,0,2
 giovannico,0,64
@@ -15236,7 +15140,7 @@ giovannino pietro,0,5
 giovannino sebastian,0,15
 giovannipaolo,0,5
 giovannni,0,9
-giovannni m.,0,5
+giovannni m,0,5
 giovanno,0,4
 giovanpaolo,0,7
 giovanpatrizio,0,1
@@ -15264,7 +15168,7 @@ giovpietro,0,5
 giovsergio,0,5
 giovvi,0,4
 giraldo,0,10
-girardo g.,0,5
+girardo g,0,5
 girelli,0,5
 girgio,0,10
 girio,0,22
@@ -15386,7 +15290,7 @@ giuliano ernesto,0,4
 giuliano eugenio,0,1
 giuliano francesco,0,13
 giuliano francis,0,4
-giuliano g.,0,10
+giuliano g,0,10
 giuliano gaetano,0,5
 giuliano gerardo,0,12
 giuliano gianpietro,0,18
@@ -15423,7 +15327,7 @@ giulio alfredo,0,13
 giulio ambrogio,0,5
 giulio amedeo,0,5
 giulio angelo,0,11
-giulio antonello g.,0,5
+giulio antonello g,0,5
 giulio antonello giuseppe,0,2
 giulio antonio,0,42
 giulio attilio,0,10
@@ -15515,21 +15419,12 @@ giuseppa rita,23,0
 giuseppa rosa,13,0
 giuseppa san,5,0
 giuseppandrea,0,37
-giuseppandrea g.,0,10
+giuseppandrea g,0,10
 giuseppangelo,0,7
 giuseppanna,3,0
 giuseppantonio,0,284
-giuseppe,46,191302
-giuseppe  nicola,0,3
-giuseppe (1946),0,4
-giuseppe (beppe),0,1
-giuseppe (pino),0,5
-giuseppe 1948,0,5
-giuseppe 52,0,4
-giuseppe 952,0,3
-giuseppe 956,0,3
-giuseppe a,0,25
-giuseppe a.,0,12
+giuseppe,46,191321
+giuseppe a,0,37
 giuseppe abate,0,5
 giuseppe abate gerar,0,5
 giuseppe adamo camil,0,5
@@ -15564,9 +15459,8 @@ giuseppe angelo mario,0,1
 giuseppe aniello,0,22
 giuseppe annibale,0,16
 giuseppe annunziato,0,10
-giuseppe ant,0,49
-giuseppe ant.,0,4
-giuseppe ant. franco,0,5
+giuseppe ant,0,53
+giuseppe ant franco,0,5
 giuseppe antonello,0,13
 giuseppe antonino,0,79
 giuseppe antonio,0,1969
@@ -15584,7 +15478,7 @@ giuseppe attilio,0,26
 giuseppe augusto,0,6
 giuseppe aurelio,0,15
 giuseppe averardo,0,10
-giuseppe b.,0,5
+giuseppe b,0,5
 giuseppe bachisio,0,20
 giuseppe bar,0,10
 giuseppe bartolomeo,0,54
@@ -15593,7 +15487,7 @@ giuseppe battista,0,19
 giuseppe benedetto,0,5
 giuseppe beniamino,0,18
 giuseppe benito,0,43
-giuseppe beppe,0,10
+giuseppe beppe,0,11
 giuseppe bernardino,0,4
 giuseppe bernardo,0,29
 giuseppe biagio,0,18
@@ -15601,8 +15495,8 @@ giuseppe bisestino,0,3
 giuseppe bonifacio,0,11
 giuseppe borromeo,0,10
 giuseppe bruno,0,17
-giuseppe bruno o.,0,4
-giuseppe c.,0,32
+giuseppe bruno o,0,4
+giuseppe c,0,32
 giuseppe calogero,0,20
 giuseppe camillo,0,5
 giuseppe car,0,11
@@ -15637,7 +15531,7 @@ giuseppe danilo,0,8
 giuseppe dario,0,26
 giuseppe dav,0,5
 giuseppe david,0,7
-giuseppe davide,0,32
+giuseppe davide,0,37
 giuseppe deepak,0,10
 giuseppe demetrio,0,1
 giuseppe deni,0,2
@@ -15651,7 +15545,7 @@ giuseppe di mario,0,4
 giuseppe diego,0,28
 giuseppe dino,0,12
 giuseppe domenico,0,363
-giuseppe domenico v.,0,4
+giuseppe domenico v,0,4
 giuseppe donato,0,23
 giuseppe edoardo,0,50
 giuseppe eduardo,0,6
@@ -15682,8 +15576,7 @@ giuseppe ettore,0,8
 giuseppe eugenio,0,14
 giuseppe euplio,0,1
 giuseppe ezio,0,37
-giuseppe f,0,15
-giuseppe f.,0,14
+giuseppe f,0,29
 giuseppe fabio,0,16
 giuseppe fabrizio,0,58
 giuseppe fausto,0,46
@@ -15695,7 +15588,7 @@ giuseppe fel,0,4
 giuseppe felice,0,67
 giuseppe felice carl,0,5
 giuseppe ferdinando,0,35
-giuseppe fernando,0,27
+giuseppe fernando,0,28
 giuseppe filippo,0,57
 giuseppe fio,0,5
 giuseppe fiore,0,22
@@ -15706,8 +15599,7 @@ giuseppe florio,0,4
 giuseppe fortunato,0,19
 giuseppe francesco,0,369
 giuseppe franco,0,84
-giuseppe g,0,18
-giuseppe g.,0,7
+giuseppe g,0,25
 giuseppe gabriele,0,26
 giuseppe gaetano,0,59
 giuseppe gastone,0,2
@@ -15752,8 +15644,7 @@ giuseppe ivano,0,8
 giuseppe ivo,0,20
 giuseppe jarno,0,16
 giuseppe karim,0,1
-giuseppe l,0,20
-giuseppe l.,0,1
+giuseppe l,0,21
 giuseppe lazzaro,0,5
 giuseppe lenin,0,18
 giuseppe leo,0,10
@@ -15778,14 +15669,13 @@ giuseppe ludovico,0,5
 giuseppe lui,0,10
 giuseppe luigi,0,527
 giuseppe luigi ignaz,0,15
-giuseppe m,0,15
-giuseppe m.,0,2
-giuseppe m.f.,0,5
+giuseppe m,0,17
+giuseppe m f,0,5
 giuseppe manlio,0,18
 giuseppe mar,0,20
 giuseppe marcellino,0,13
 giuseppe marcello,0,9
-giuseppe marcello m.,0,1
+giuseppe marcello m,0,1
 giuseppe marco,0,48
 giuseppe maria,1,387
 giuseppe maria anton,0,5
@@ -15794,11 +15684,11 @@ giuseppe maria santo,0,4
 giuseppe mariano,0,10
 giuseppe marino,0,17
 giuseppe mario,0,510
-giuseppe mario r.,0,5
+giuseppe mario r,0,5
 giuseppe martino,0,15
 giuseppe mas,0,5
 giuseppe massimo,0,86
-giuseppe massimo p.,0,5
+giuseppe massimo p,0,5
 giuseppe mat,0,10
 giuseppe matteo,0,26
 giuseppe maurilio,0,21
@@ -15821,10 +15711,10 @@ giuseppe nello,0,17
 giuseppe nemorino l,0,5
 giuseppe nerino,0,5
 giuseppe nic,0,5
-giuseppe nicola,0,199
+giuseppe nicola,0,202
 giuseppe nicolamaria,0,5
 giuseppe nicolino,0,4
-giuseppe nicolo',0,5
+giuseppe nicolo,0,5
 giuseppe nino,0,16
 giuseppe notaro,0,1
 giuseppe nunziato,0,4
@@ -15837,7 +15727,7 @@ giuseppe oreste,0,12
 giuseppe osvaldo,0,10
 giuseppe ottaviano,0,10
 giuseppe ottavio,0,68
-giuseppe p.,0,5
+giuseppe p,0,5
 giuseppe palmiro,0,3
 giuseppe palo,0,3
 giuseppe pancrazio,0,4
@@ -15857,15 +15747,14 @@ giuseppe piergiorgio,0,4
 giuseppe pierluigi,0,2
 giuseppe piero,0,22
 giuseppe pietro,0,197
-giuseppe pino,0,35
+giuseppe pino,0,40
 giuseppe pio,0,45
 giuseppe pio antonello,0,1
 giuseppe pip,0,5
 giuseppe pompeo,0,38
 giuseppe ponziano,0,4
 giuseppe primo,0,2
-giuseppe r,0,1
-giuseppe r.,0,4
+giuseppe r,0,5
 giuseppe raffaele,0,64
 giuseppe raimondo,0,9
 giuseppe ren,0,5
@@ -15891,8 +15780,7 @@ giuseppe rosario,0,135
 giuseppe rossano,0,5
 giuseppe rosso,0,3
 giuseppe ruggero,0,10
-giuseppe s,0,6
-giuseppe s.,0,7
+giuseppe s,0,13
 giuseppe sabatino,0,14
 giuseppe sabino,0,13
 giuseppe sal,0,23
@@ -15940,12 +15828,10 @@ giuseppe vitale,0,5
 giuseppe vito,0,74
 giuseppe vito ruggie,0,2
 giuseppe vittorio,0,57
-giuseppe vittorio e.,0,5
+giuseppe vittorio e,0,5
 giuseppe walter,0,23
 giuseppe william,0,9
 giuseppe zafferino,0,5
-giuseppe, davide,0,5
-giuseppe, fernando,0,1
 giuseppeantonio,0,40
 giuseppemaria,0,1
 giuseppenico,0,5
@@ -15981,7 +15867,7 @@ giuseppina maria patrizia,0,0
 giuseppina mariagraz,5,0
 giuseppina mariella,1,0
 giuseppina marisa,2,0
-giuseppina michela,1,0
+giuseppina michela,5,0
 giuseppina nadia,2,0
 giuseppina natalia,2,0
 giuseppina odessa,3,0
@@ -16000,7 +15886,6 @@ giuseppina sabina,5,0
 giuseppina teresa,3,0
 giuseppina valentina,5,0
 giuseppina vittoria,5,0
-giuseppina, michela,4,0
 giuseppini,0,5
 giuseppino,0,1242
 giuseppino aurelio,0,5
@@ -16137,7 +16022,7 @@ gpaolo,0,5
 gpiero,0,5
 gpietro,0,10
 grabiele,0,5
-grabriella pasqua m.,1,0
+grabriella pasqua m,1,0
 gracco vitto,0,10
 graciano donato antonio,0,2
 gradito,0,8
@@ -16171,7 +16056,7 @@ grazia emma,0,1
 grazia maddalena,4,0
 grazia maria,149,0
 grazia maria antonia,1,0
-grazia maria g.,5,0
+grazia maria g,5,0
 grazia maria ines,5,0
 grazia maria lucia,5,0
 grazia marisa,5,0
@@ -16214,7 +16099,7 @@ graziano gianmaria,0,5
 graziano gino,0,4
 graziano gio,0,3
 graziano giorgio,0,10
-graziano giovanni b.,0,5
+graziano giovanni b,0,5
 graziano giuseppe,0,15
 graziano luigi,0,14
 graziano maria,0,11
@@ -16341,7 +16226,7 @@ guglielmo alessio,0,5
 guglielmo alfredo,0,5
 guglielmo antonio,0,15
 guglielmo aurelio,0,9
-guglielmo c.,0,5
+guglielmo c,0,5
 guglielmo claudio,0,5
 guglielmo enzo,0,2
 guglielmo fabio,0,5
@@ -16363,7 +16248,7 @@ guglielmo stefano,0,10
 guglielmo valentino,0,10
 guglielmo vittorio,0,9
 gugliemo,0,4
-guid'ubaldo,0,14
+guid ubaldo,0,14
 guida,0,4
 guidalmo primo,0,4
 guidardo,0,5
@@ -16438,14 +16323,14 @@ guido maria,0,61
 guido maria antonio,0,4
 guido maria vincenzo,0,2
 guido mariano,0,15
-guido mario,0,33
+guido mario,0,38
 guido mario riccardo,0,2
 guido martino,0,31
 guido massimo,0,26
 guido matteo,0,13
 guido mauro,0,4
 guido michele,0,28
-guido niccolo',0,3
+guido niccolo,0,3
 guido nicola,0,25
 guido nunzio,0,6
 guido omobono,0,20
@@ -16477,7 +16362,6 @@ guido ubaldo,0,9
 guido vito,0,10
 guido vittorio,0,18
 guido walter,0,10
-guido-mario,0,5
 guidone,0,5
 guigo,0,8
 guiliana,4,0
@@ -16541,8 +16425,7 @@ hans joachim,0,10
 hans jorg,0,4
 hans josef,0,15
 hans karl,0,15
-hans peter,0,94
-hans-peter,0,5
+hans peter,0,99
 hansal cristian,0,13
 hansel nicola,0,8
 hansjorg,0,216
@@ -16583,7 +16466,7 @@ heinz mario,0,10
 helder,0,7
 helen,14,0
 helena,3,0
-helena m.carmen,8,0
+helena m carmen,8,0
 helena martha,15,0
 helene,117,0
 helene margareth,13,0
@@ -16641,8 +16524,8 @@ herri,0,10
 herta,83,0
 herta emma,5,0
 hertz,0,2
-hervè antonio,0,1
-herve',0,7
+herv antonio,0,1
+herve,0,7
 herwin,0,48
 hilario,0,2
 hilary,11,0
@@ -16803,8 +16686,7 @@ igli,0,8
 igliff,0,2
 iglis,0,34
 ignacio,0,5
-ignaz,0,115
-ignaz.,0,5
+ignaz,0,120
 ignazia,106,0
 ignazia angela,4,0
 ignazia biagina,5,0
@@ -16882,7 +16764,7 @@ ilaria valeria,10,0
 ilariantonio,0,15
 ilarina,4,0
 ilario,0,2733
-ilario angelo gab.g.,0,5
+ilario angelo gab g,0,5
 ilario antonio,0,32
 ilario arturo,0,5
 ilario augusto,0,10
@@ -17106,11 +16988,10 @@ ioris carlo,0,5
 ioris danilo,0,7
 ioris giovita,0,14
 iosa,0,5
-iose,47,20
+iose,47,25
 iose fernando,0,4
+iose giovambattista,0,25
 iose giovanna,5,0
-iose',0,5
-iose' giovambattista,0,25
 ioselito,0,3
 ioseph,0,3
 iosetullia,10,0
@@ -17465,7 +17346,7 @@ ivano eugenio,0,2
 ivano felice,0,1
 ivano francesco,0,22
 ivano giorgio,0,27
-ivano giov.,0,5
+ivano giov,0,5
 ivano giovanni,0,10
 ivano giuseppe,0,5
 ivano guglielmo,0,5
@@ -17513,7 +17394,7 @@ ivo donato,0,5
 ivo francesco,0,19
 ivo franco,0,18
 ivo giovanni,0,10
-ivo giovanni g.,0,5
+ivo giovanni g,0,5
 ivo giuseppe,0,25
 ivo giuseppe giovanni,0,2
 ivo isidoro,0,10
@@ -17541,7 +17422,7 @@ iwan,0,4
 iwan josef,0,10
 iwan pasquale,0,6
 iztok,0,13
-j.mireille,5,0
+j mireille,5,0
 jach,0,5
 jack,0,9
 jacopo,0,450
@@ -17599,7 +17480,7 @@ jaures,0,30
 javier elian,0,10
 jean,0,17
 jean antoine,0,10
-jean claude,0,47
+jean claude,0,57
 jean damascene,0,5
 jean eric,0,5
 jean felice,0,4
@@ -17614,10 +17495,8 @@ jean marc,0,5
 jean marie,0,6
 jean michel,0,15
 jean paul,0,41
-jean pierre,0,20
+jean pierre,0,25
 jean pietro,0,5
-jean-claude,0,10
-jean-pierre,0,5
 jeanette,1,0
 jeanne francine,9,0
 jeannette,29,0
@@ -17680,7 +17559,7 @@ johann christian,0,10
 johann ferdinand,0,30
 johann franz,0,5
 johann friedrich,0,9
-johann georg,0,73
+johann georg,0,78
 johann jakob,0,5
 johann josef,0,65
 johann karl,0,22
@@ -17692,7 +17571,6 @@ johann peter,0,30
 johann peter paul,0,5
 johann sebastiano,0,24
 johann vale,0,5
-johann-georg,0,5
 johanna,174,0
 johanna franziska,10,0
 johannes,0,52
@@ -17736,20 +17614,17 @@ jorg,0,17
 jorge geronimo,0,4
 jorick,0,5
 jorio,0,4
-jose,16,11
+jos salvador,0,5
+jose,16,63
+jose alcibiades,0,5
 jose emilio,0,9
-jose maria,0,5
-josè salvador,0,5
-jose vicente,0,4
-jose',0,52
-jose' alcibiades,0,5
-jose' luis,0,5
-jose' maria,0,2
-jose' miguel,0,9
-jose' rafael,0,9
-jose' roberto,0,4
-jose' vicente,0,5
-jose' virgilio,0,4
+jose luis,0,5
+jose maria,0,7
+jose miguel,0,9
+jose rafael,0,9
+jose roberto,0,4
+jose vicente,0,9
+jose virgilio,0,4
 josef,0,4572
 josef alois,0,61
 josef anton,0,55
@@ -17812,7 +17687,7 @@ juliane,44,0
 julien,0,5
 julijan,0,6
 julik,0,31
-julio jose',0,1
+julio jose,0,1
 julius,0,15
 juman,0,2
 junior ennio,0,5
@@ -17921,7 +17796,7 @@ ketti,18,0
 kettj,12,0
 ketty,98,0
 ketty maria,2,0
-ketty maria josè,5,0
+ketty maria jos,5,0
 kety,58,0
 kety maria lucia,5,0
 kevin,0,7
@@ -18028,7 +17903,7 @@ laura ada,5,0
 laura amalia,5,0
 laura angela,18,0
 laura anna,16,0
-laura anna f.,4,0
+laura anna f,4,0
 laura annunziata,4,0
 laura armanda,5,0
 laura aurelia,5,0
@@ -18046,7 +17921,7 @@ laura daniela,5,0
 laura delfina,11,0
 laura detta parrotto,3,0
 laura domenica,1,0
-laura e.,6,0
+laura e,6,0
 laura elsa,1,0
 laura fausta,1,0
 laura federica,2,0
@@ -18113,7 +17988,7 @@ laurence catherine,5,0
 laurent,0,11
 laurent dino stephan,0,6
 laurent efisio,0,13
-laurent françois,0,5
+laurent fran ois,0,5
 laurentino,0,36
 laurentius,0,10
 laurenzia,5,0
@@ -18257,7 +18132,7 @@ leonardo ambrogio,0,19
 leonardo andrea,0,4
 leonardo antonino,0,18
 leonardo antonio,0,153
-leonardo antonio v.,0,2
+leonardo antonio v,0,2
 leonardo biagio,0,3
 leonardo brizio,0,19
 leonardo calogero,0,4
@@ -18272,7 +18147,7 @@ leonardo domenico,0,11
 leonardo ferdinando,0,15
 leonardo francesco,0,20
 leonardo franco,0,3
-leonardo g.,0,5
+leonardo g,0,5
 leonardo gerardo,0,5
 leonardo gerolamo,0,4
 leonardo gesualdo,0,8
@@ -18288,7 +18163,7 @@ leonardo ignazio,0,4
 leonardo iuri,0,8
 leonardo luigi,0,24
 leonardo luis,0,4
-leonardo m.marcello,0,4
+leonardo m marcello,0,4
 leonardo maria,0,24
 leonardo mario,0,19
 leonardo mario filip,0,9
@@ -18379,14 +18254,13 @@ letizia,872,0
 letizia anna,5,0
 letizia elisabetta,5,0
 letizia franca,10,0
-letizia maria,11,0
+letizia maria,16,0
 letizia maria rosaria,1,0
 letizia maria teresa,5,0
 letizia mariagrazia,4,0
 letizia rita,3,0
 letizia rosa,19,0
 letizia tiziana,5,0
-letizia, maria,5,0
 letizio,0,11
 leto,0,1
 letteria,31,0
@@ -18422,7 +18296,7 @@ lia grazia,5,0
 lia lucia,1,0
 lia teresa,5,0
 liala,21,0
-lialiane m.louise,4,0
+lialiane m louise,4,0
 liam,0,11
 lian,8,0
 liana,347,5
@@ -18585,7 +18459,7 @@ lillo sergio,0,15
 lilly,4,0
 limberta,5,0
 limerino,0,5
-lin0,0,5
+lin,0,5
 lina,895,5
 lina angela,5,0
 lina carla,10,0
@@ -18940,7 +18814,7 @@ lorenzo maria,0,17
 lorenzo mario,0,96
 lorenzo mario pietro,0,5
 lorenzo michele,0,28
-lorenzo n.,0,10
+lorenzo n,0,10
 lorenzo nazario,0,1
 lorenzo paolo,0,14
 lorenzo paolo aldo,0,10
@@ -19094,7 +18968,7 @@ luca giacinto,0,1
 luca giacomo,0,3
 luca giancarlo,0,2
 luca giovanni,0,99
-luca giovanni a.,0,12
+luca giovanni a,0,12
 luca giovanni attilio,0,8
 luca giovanni batti,0,4
 luca giovanni maria,0,19
@@ -19118,7 +18992,7 @@ luca maxmilian,0,5
 luca michel,0,30
 luca michele,0,2
 luca michele maria,0,5
-luca mose',0,4
+luca mose,0,4
 luca nicola luigi,0,5
 luca olinto giovanni,0,15
 luca oronzo,0,7
@@ -19272,7 +19146,7 @@ luciano aldo,0,5
 luciano alessandro,0,20
 luciano alfonso,0,30
 luciano alfredo,0,2
-luciano alfredo u.g.,0,5
+luciano alfredo u g,0,5
 luciano ambrogio,0,8
 luciano amedeo,0,38
 luciano andrea,0,28
@@ -19283,7 +19157,7 @@ luciano antonio,0,120
 luciano armando,0,1
 luciano aurelio,0,4
 luciano bruno,0,25
-luciano c.,0,2
+luciano c,0,2
 luciano carlo,0,9
 luciano carmine,0,5
 luciano cesare,0,9
@@ -19346,7 +19220,7 @@ luciano rinaldo,0,10
 luciano romano,0,5
 luciano roseo,0,10
 luciano santino,0,8
-luciano sebast.ant.,0,5
+luciano sebast ant,0,5
 luciano secondo,0,28
 luciano silvestro,0,5
 luciano silvio,0,10
@@ -19418,7 +19292,7 @@ lucio matteo,0,10
 lucio metell,0,5
 lucio metello,0,17
 lucio nicola,0,16
-lucio pacifico i. g.,0,5
+lucio pacifico i g,0,5
 lucio paolino,0,10
 lucio paolo,0,48
 lucio paolo nazario,0,2
@@ -19431,7 +19305,7 @@ lucio romano,0,4
 lucio rosario,0,1
 lucio salvatore,0,23
 lucio sereno,0,4
-lucio signor.,0,5
+lucio signor,0,5
 lucio signorino,0,3
 lucio umberto,0,5
 lucio valerio,0,7
@@ -19462,13 +19336,12 @@ ludwig,0,124
 ludwig alber,0,10
 ludwig walter,0,3
 lugano,0,2
-lugara',0,0
+lugara,0,0
 lugi,0,15
 luicano,0,10
 luicio,0,5
 luigella,5,0
 luigi,5,85812
-luigi (gigi),0,4
 luigi a,0,4
 luigi adriano,0,23
 luigi agostino,0,45
@@ -19577,8 +19450,7 @@ luigi ettore,0,34
 luigi eugenio,0,97
 luigi evaris,0,5
 luigi evelino,0,11
-luigi f,0,5
-luigi f.,0,1
+luigi f,0,6
 luigi fabrizio,0,4
 luigi fedele,0,3
 luigi federico,0,25
@@ -19595,8 +19467,7 @@ luigi francesco,0,158
 luigi franceso,0,3
 luigi francessco,0,4
 luigi franco,0,105
-luigi g,0,5
-luigi g.,0,4
+luigi g,0,9
 luigi gaetano,0,6
 luigi gaetano andrea,0,3
 luigi galliano,0,5
@@ -19606,7 +19477,7 @@ luigi geraldo,0,2
 luigi gerard,0,5
 luigi gerardo,0,4
 luigi germano,0,10
-luigi gesu' romolo,0,11
+luigi gesu romolo,0,11
 luigi gesuino seb,0,3
 luigi giacinto,0,28
 luigi giacomo,0,22
@@ -19616,7 +19487,7 @@ luigi gianca,0,5
 luigi giancarlo,0,39
 luigi gianluca,0,4
 luigi gianni,0,11
-luigi gigi,0,5
+luigi gigi,0,9
 luigi gino,0,56
 luigi giorgio,0,20
 luigi giov,0,5
@@ -19812,7 +19683,7 @@ luigino ugo umberto,0,15
 luiginonco,0,5
 luis,0,219
 luis daniel mara,0,2
-luis jose' g.,0,3
+luis jose g,0,3
 luisa,3483,10
 luisa adelina,4,0
 luisa angela,29,0
@@ -19896,53 +19767,49 @@ lydia,30,0
 lydo,0,5
 lylian maria,1,0
 lynette,1,0
+m alba,5,0
 m angela,5,0
-m concetta,3,0
-m elisabetta,10,0
+m antonia,4,0
+m antonio,0,8
+m bambina,5,0
+m barek,0,4
+m buyi,2,0
+m caterina,4,0
+m chiara,5,0
+m cinzia,7,0
+m clara,4,0
+m claudia,5,0
+m concetta,7,0
+m cristina,16,0
+m elisabetta,25,0
+m francesca,6,0
 m g vanna,5,0
+m gabriella,5,0
+m giovanna,5,0
 m giulia,2,0
+m giuseppa,5,0
+m grazia,3,0
+m immacolata,5,0
+m ivana,5,0
+m letizia,4,0
+m loredana,1,0
+m lucilla,3,0
+m luigi,0,5
 m luigia,5,0
+m luisa,4,0
+m maddalena,3,0
+m matilde,8,0
+m michele aldo,0,4
+m paola,9,0
+m rina,0,5
+m rita,10,0
 m roberta,10,0
 m rosaria,10,0
+m rotonda,5,0
+m t dolores,5,0
 m tarchiana,5,0
 m teresa,4,0
 m vittoria,9,0
-m. alba,5,0
-m. antonia,4,0
-m. antonio,0,8
-m. bambina,5,0
-m. chiara,5,0
-m. cinzia,7,0
-m. clara,4,0
-m. claudia,5,0
-m. concetta,4,0
-m. cristina,11,0
-m. elisabetta,15,0
-m. francesca,1,0
-m. gabriella,5,0
-m. giuseppa,5,0
-m. grazia,3,0
-m. immacolata,5,0
-m. ivana,5,0
-m. letizia,4,0
-m. loredana,1,0
-m. lucilla,3,0
-m. luisa,4,0
-m. maddalena,3,0
-m. matilde,8,0
-m. rina,0,5
-m. rita,10,0
-m. rotonda,5,0
-m.caterina,4,0
-m.cristina,5,0
-m.francesca,5,0
-m.giovanna,5,0
-m.luigi,0,5
-m.michele aldo,0,4
-m.paola,9,0
-m.t. dolores,5,0
-m'barek,0,4
-m'buyi,2,0
 maarcello,0,5
 maarco michele,0,4
 maaria guglielmina,4,0
@@ -19962,11 +19829,10 @@ maco valerio,0,5
 macrina,5,0
 madda,14,0
 maddalena,1521,11
-maddalena  anna,5,0
-maddalena anna,5,1
+maddalena anna,10,1
 maddalena anna elisabetta,1,0
 maddalena antonia,16,0
-maddalena el.,3,0
+maddalena el,3,0
 maddalena eleonora,5,0
 maddalena ferdinanda,5,0
 maddalena luciana,5,5
@@ -19976,7 +19842,7 @@ maddalena marta maria,1,0
 maddalena mary,5,0
 maddalena paola,15,0
 maddalena rachele,3,0
-maddalena v.,5,0
+maddalena v,5,0
 maddalena valeria,3,0
 maddalo,0,5
 madddalena,4,0
@@ -20026,7 +19892,7 @@ maifredi,0,4
 maika,1,0
 maikol,0,10
 maila,25,10
-maimone nicolo',0,6
+maimone nicolo,0,6
 mainini,4,0
 maino,0,41
 mainrado,0,5
@@ -20165,8 +20031,8 @@ mara rita,2,0
 marandino,0,3
 marano,0,5
 marc,0,41
+marc aurelio,0,2
 marc o,0,1
-marc'aurelio,0,2
 marca,0,5
 marcantonio,1,170
 marcel,0,11
@@ -20256,8 +20122,7 @@ marci,0,5
 marciano,0,47
 marcilio,0,14
 marco,0,56133
-marco  fortunato,0,3
-marco a.,0,9
+marco a,0,9
 marco agostino,0,19
 marco albert,0,5
 marco alessa,0,4
@@ -20298,7 +20163,7 @@ marco davide,0,20
 marco domenico,0,45
 marco duilio,0,5
 marco efisio,0,10
-marco egidio,0,32
+marco egidio,0,42
 marco elia,0,5
 marco emanuele,0,7
 marco emilio,0,47
@@ -20320,6 +20185,7 @@ marco ferruccio,0,5
 marco filippo,0,17
 marco fiorenzo,0,20
 marco flavio,0,20
+marco fortunato,0,3
 marco francesco,0,28
 marco franco,0,43
 marco gabriele,0,5
@@ -20391,7 +20257,7 @@ marco natale,0,38
 marco natalino,0,14
 marco nello,0,4
 marco nicola,0,12
-marco noe',0,5
+marco noe,0,5
 marco oliver,0,5
 marco omar,0,4
 marco onorato,0,5
@@ -20408,7 +20274,7 @@ marco pietro antonio,0,17
 marco pio,0,2
 marco pio giuseppe,0,1
 marco primo,0,5
-marco r.,0,5
+marco r,0,5
 marco remo,0,5
 marco renato,0,13
 marco renzo bruno,0,1
@@ -20455,7 +20321,6 @@ marco vito,0,1
 marco vittore,0,5
 marco vittorio,0,32
 marco walter,0,5
-marco-egidio,0,10
 marcolina,5,0
 marcolino,0,4
 marcos,0,9
@@ -20504,28 +20369,18 @@ margherita marina,5,0
 margherita paola,5,0
 margherita rosa,4,0
 margherita sara,2,0
-margherita vitt.,5,0
+margherita vitt,5,0
 margio,0,0
 margit,70,5
 margith,8,0
 margith maria,9,0
 margot,10,0
 margot rudolfine,11,0
-mari,8,0
+mari,13,4
 mari davide,0,2
 mari teresa,1,0
-mari',5,0
-mari0,0,4
 maria,15710,0
-maria  annunziata,5,0
-maria  antonietta,1,0
-maria  cecilia,2,0
-maria  concetta,1,0
-maria  cristina,1,0
-maria  elena,1,0
-maria  grazia,2,0
-maria a,15,0
-maria a.,13,0
+maria a,28,0
 maria abbondanza,18,0
 maria ada,9,0
 maria addolorata,101,0
@@ -20550,6 +20405,7 @@ maria alice,23,0
 maria alice fiorina,5,0
 maria alida,5,0
 maria alma,10,0
+maria aloisia,5,0
 maria altomare,15,0
 maria amabile,5,0
 maria amalia,41,0
@@ -20575,28 +20431,27 @@ maria angiolina,23,0
 maria anita,23,0
 maria anna,382,0
 maria anna antonetta,4,0
-maria anna g.,6,0
+maria anna g,6,0
 maria annita,5,0
 maria annunciata,15,0
 maria annunz,5,0
 maria annunziat,5,0
-maria annunziata,66,0
+maria annunziata,71,0
 maria anonietta,5,0
 maria ant,0,4
-maria anton,5,0
-maria anton.,5,0
+maria anton,10,0
 maria antonella,184,0
 maria antoni,26,0
 maria antonia,435,8
 maria antonia emma,14,0
 maria antonia rita,16,0
 maria antoniett,4,0
-maria antonietta,2240,10
+maria antonietta,2241,10
 maria antonietta barbara,2,0
-maria antonietta g.,2,0
+maria antonietta g,2,0
 maria antonietta pia,5,0
 maria antonietta r,4,0
-maria antonietta t.,5,0
+maria antonietta t,5,0
 maria antonina,7,0
 maria antonio,5,0
 maria aquilina,5,0
@@ -20606,7 +20461,7 @@ maria armida,1,0
 maria artenia,5,0
 maria assunt,5,0
 maria assunta,671,0
-maria assunta a.,5,0
+maria assunta a,5,0
 maria assunta laura,3,0
 maria augusta,80,0
 maria aurelia,5,0
@@ -20614,7 +20469,7 @@ maria aurora,13,0
 maria ausilia,191,0
 maria auslia,1,0
 maria ave,4,0
-maria b.,4,0
+maria b,4,0
 maria bambina,52,4
 maria barbara,89,0
 maria bartolomea,4,0
@@ -20641,14 +20496,13 @@ maria bonaria,140,0
 maria brigida,23,0
 maria bruna,77,0
 maria bruna stella,5,0
-maria c,9,0
-maria c.,6,0
+maria c,15,0
 maria calogera,5,0
 maria camera,7,0
 maria camilla,5,0
 maria candid,10,0
 maria candida,73,0
-maria carla,569,7
+maria carla,574,7
 maria carla angela,10,0
 maria carla paola,14,0
 maria carlotta,36,0
@@ -20663,7 +20517,7 @@ maria catena,51,0
 maria caterina,335,0
 maria caterina marina,2,0
 maria catia,31,0
-maria cecilia,180,0
+maria cecilia,182,0
 maria celest,5,0
 maria celesta,8,0
 maria celeste,44,0
@@ -20687,7 +20541,7 @@ maria clotilde,51,0
 maria colomba,5,0
 maria colombina,5,0
 maria concet,5,0
-maria concetta,660,5
+maria concetta,661,5
 maria concetta immac,5,0
 maria consiglia,28,0
 maria consilia,5,0
@@ -20702,7 +20556,7 @@ maria crescenza,11,0
 maria crispina,5,0
 maria cristi,55,0
 maria cristiana,17,0
-maria cristina,2715,0
+maria cristina,2716,0
 maria cristina pasqu,4,0
 maria cristna,1,0
 maria cruz,1,0
@@ -20715,7 +20569,7 @@ maria del carmen,1,0
 maria del valle,5,0
 maria delia,5,0
 maria denise,4,0
-maria desolina f.,10,0
+maria desolina f,10,0
 maria detta tilde,4,0
 maria diana,18,0
 maria diletta,5,0
@@ -20741,7 +20595,7 @@ maria edwige,4,0
 maria efisia,26,0
 maria egle,18,0
 maria elda,17,0
-maria elena,479,0
+maria elena,480,0
 maria elena detta ma,6,0
 maria eleonora,15,0
 maria eletta,3,0
@@ -20760,7 +20614,7 @@ maria emilia,88,0
 maria emma,38,0
 maria enrica,122,0
 maria enrichetta,9,0
-maria enza,6,0
+maria enza,11,0
 maria ercole,0,5
 maria erica,17,0
 maria erika,5,0
@@ -20775,11 +20629,11 @@ maria estrer,1,0
 maria eugenia,74,0
 maria eva,5,0
 maria evelina,20,0
-maria f.,6,0
+maria f,6,0
 maria fabiana,5,0
 maria fabio,0,5
 maria fabrizia,1,0
-maria fanni',5,0
+maria fanni,5,0
 maria fatima,8,0
 maria fausta,4,0
 maria fauzia,14,0
@@ -20809,8 +20663,7 @@ maria francesca,577,0
 maria frazia,5,0
 maria frieda,10,0
 maria fulvia,47,0
-maria g,15,0
-maria g.,10,0
+maria g,25,0
 maria gabr,5,0
 maria gabrie,5,0
 maria gabriela,43,0
@@ -20822,7 +20675,7 @@ maria gela,5,0
 maria geltrude,28,0
 maria gemma,27,0
 maria gemma tosca,3,0
-maria ger. giusep.,2,0
+maria ger giusep,2,0
 maria gerarda,3,0
 maria gerardina,10,0
 maria gerda,10,0
@@ -20839,20 +20692,20 @@ maria giliola,1,0
 maria gina,45,0
 maria gioia,5,0
 maria giordana,14,0
-maria giov.vittoria,4,0
+maria giov vittoria,4,0
 maria giovan,15,0
 maria giovann,4,0
-maria giovanna,1266,5
+maria giovanna,1271,5
 maria giovanna antid,4,0
 maria giovanna federica,2,0
-maria giovanna v.,5,0
+maria giovanna v,5,0
 maria giovannina,10,0
 maria giovina,9,0
 maria girolama,8,0
 maria gisella,20,0
 maria giudit,5,0
 maria giuditta,30,0
-maria giulia,243,0
+maria giulia,248,0
 maria giuliana,82,0
 maria gius,5,0
 maria giusep,17,5
@@ -20865,12 +20718,12 @@ maria giustino,5,0
 maria giusy,1,0
 maria gloria,59,0
 maria graz,5,0
-maria grazia,5363,0
+maria grazia,5374,0
 maria grazia assunta,13,0
 maria grazia elena,5,0
 maria grazia erminia,5,0
 maria grazia filomen,5,0
-maria grazia fr.sca,3,0
+maria grazia fr sca,3,0
 maria grazia gabriel,6,0
 maria grazia giovanna,1,0
 maria grazia piera,4,0
@@ -20894,8 +20747,7 @@ maria incoronata,22,0
 maria ines,45,0
 maria iolanda,7,0
 maria iole,7,0
-maria iose,4,0
-maria iose',10,0
+maria iose,14,0
 maria ippolita,8,0
 maria irene,29,0
 maria iride,9,0
@@ -20909,9 +20761,8 @@ maria ivana,47,0
 maria ivonne,14,0
 maria jolanda,1,0
 maria jole,9,0
-maria jose,35,0
-maria josé,6,0
-maria jose',74,0
+maria jos,6,0
+maria jose,114,0
 maria josephine,3,0
 maria julia,11,0
 maria karin,17,0
@@ -20939,7 +20790,7 @@ maria liliana,37,0
 maria lina,49,0
 maria lina liliana,2,0
 maria linda,28,0
-maria lisa,50,0
+maria lisa,51,0
 maria livia,16,0
 maria lodovica,12,0
 maria lora,4,0
@@ -20969,7 +20820,7 @@ maria luisa emilia,5,0
 maria luisa franca,5,0
 maria luisa ivana,5,0
 maria luisa stefania,0,5
-maria luise,50,0
+maria luise,55,0
 maria luna,2,0
 maria lussoria,5,0
 maria m,5,0
@@ -21001,7 +20852,7 @@ maria micale,1,0
 maria michaela,10,0
 maria michel,10,0
 maria michela,98,0
-maria michela l.,12,0
+maria michela l,12,0
 maria michelina,31,0
 maria milena,19,0
 maria miranda,9,0
@@ -21081,7 +20932,7 @@ maria potenzia,28,0
 maria principia,10,0
 maria provvidenza,4,0
 maria pulcheria,13,0
-maria r.,5,0
+maria r,5,0
 maria rachele,20,0
 maria raffaela,24,0
 maria raffaella,48,0
@@ -21106,7 +20957,7 @@ maria romana,32,0
 maria romilda,5,0
 maria romina,9,0
 maria ros,2,0
-maria rosa,2419,0
+maria rosa,2424,0
 maria rosa antonina,3,0
 maria rosa assunta,1,0
 maria rosa carmen,8,0
@@ -21132,8 +20983,7 @@ maria rosita,20,0
 maria rossana,5,0
 maria rossella,4,0
 maria rotonda,9,0
-maria s,10,0
-maria s.,4,0
+maria s,14,0
 maria saaunta,1,0
 maria sabrina,20,0
 maria salvatora,40,0
@@ -21143,7 +20993,7 @@ maria samanta,2,0
 maria samuela,19,0
 maria sandra,20,0
 maria sandrina,10,0
-maria sanita',5,0
+maria sanita,5,0
 maria santa,79,0
 maria santina,28,0
 maria sara,10,0
@@ -21173,7 +21023,7 @@ maria stefania,106,0
 maria stefania maddalena,1,0
 maria stella,415,0
 maria stella antonina,2,0
-maria stella cateri.,5,0
+maria stella cateri,5,0
 maria stella caterin,10,0
 maria sueva,2,0
 maria susanna,11,0
@@ -21182,10 +21032,10 @@ maria tania,5,0
 maria tatiana,5,0
 maria tecla,13,0
 maria tecla concettina,3,0
-maria teres.cater.,5,0
-maria teresa,5142,0
+maria teres cater,5,0
+maria teresa,5149,0
 maria teresa angela,5,0
-maria teresa cat.,5,0
+maria teresa cat,5,0
 maria teresa caterin,5,0
 maria teresa elisabe,2,0
 maria teresa g,5,0
@@ -21224,7 +21074,7 @@ maria vitalia,10,0
 maria vitaliana,14,0
 maria vitoria,5,0
 maria vittor,5,0
-maria vittoria,597,0
+maria vittoria,602,0
 maria vittorina,5,0
 maria vittorio,5,0
 maria viviana,15,0
@@ -21232,19 +21082,6 @@ maria vorginia,4,0
 maria waltraud,10,0
 maria wirna,18,0
 maria zeila,9,0
-maria-aloisia,5,0
-maria-carla,5,0
-maria-giovanna,5,0
-maria-grazia,5,0
-maria-lisa,1,0
-maria-luise,5,0
-maria-rosa,5,0
-maria-teresa,7,0
-maria-vittoria,5,0
-maria, jose',5,0
-maria,enza,5,0
-maria,giulia,5,0
-maria,grazia,4,0
 mariaadele,5,0
 mariabarbara,10,0
 mariabruna,38,0
@@ -21265,7 +21102,7 @@ mariaelena,58,4
 mariaelisa,7,0
 mariaeva,16,0
 mariafelicia,14,0
-mariafilì,1,0
+mariafil,1,0
 mariafrancesca,13,0
 mariagabriella,25,0
 mariagata,0,5
@@ -21274,7 +21111,7 @@ mariagiovanna,38,0
 mariagiulia,26,0
 mariagiuseppina,14,0
 mariagrazia,633,5
-mariagrazia f.sca,1,0
+mariagrazia f sca,1,0
 mariagrazia francesca,1,0
 mariagrazia giovanna,5,0
 marialaura,24,0
@@ -21300,7 +21137,7 @@ mariamaddalena,17,0
 mariamalia,5,0
 mariambrogia,2,0
 mariamilena,5,0
-marian-eusebiu,0,6
+marian eusebiu,0,6
 mariana,22,0
 mariana anna,5,0
 mariandrea,0,22
@@ -21351,7 +21188,7 @@ mariano francesco,0,23
 mariano gaetano,0,2
 mariano gio batta,0,4
 mariano giobatta,0,6
-mariano giosue',0,5
+mariano giosue,0,5
 mariano giovanni,0,24
 mariano giuseppe,0,17
 mariano gottardo,0,14
@@ -21441,6 +21278,7 @@ marija,4,0
 marija doroteja,3,0
 marika,230,0
 marika giovanna rosalia,6,0
+maril,5,0
 marila,12,0
 marilanda,10,0
 marilando,0,18
@@ -21463,9 +21301,7 @@ marilka,3,0
 marilla elena,5,0
 marille,5,0
 marilli,5,0
-marilu,4,0
-marilù,5,0
-marilu',7,0
+marilu,11,0
 mariluci,6,0
 mariluna,5,0
 marilyn,9,0
@@ -21556,9 +21392,7 @@ marino sebastiano,0,14
 marino stefano,0,3
 marinom pio,0,4
 mario,0,84811
-mario  rino,0,1
-mario (piazol),0,12
-mario a.,0,5
+mario a,0,5
 mario abele,0,44
 mario abramo,0,5
 mario achille,0,5
@@ -21708,9 +21542,8 @@ mario francensco,0,5
 mario francesco,0,247
 mario franco,0,121
 mario fulvio,0,9
-mario g,0,5
-mario g.,0,5
-mario g. battista,0,5
+mario g,0,10
+mario g battista,0,5
 mario gabriele,0,33
 mario gaetan,0,5
 mario gaetano,0,11
@@ -21726,7 +21559,7 @@ mario gesuino,0,15
 mario giacomino,0,10
 mario giacomo,0,59
 mario giacomo nicola,0,13
-mario gian nicola  gasparino,0,4
+mario gian nicola gasparino,0,4
 mario gianni,0,17
 mario gilberto,0,1
 mario gino,0,27
@@ -21766,15 +21599,15 @@ mario isaia,0,2
 mario italo,0,23
 mario italo vittorio,0,17
 mario ivo,0,1
-mario jose',0,2
+mario jose,0,2
 mario l,0,10
-mario l. c.,0,2
+mario l c,0,2
 mario leo,0,10
 mario leonardo,0,25
 mario leone,0,7
 mario liberato,0,53
 mario libero,0,23
-mario libero l.,0,5
+mario libero l,0,5
 mario lido,0,10
 mario lino,0,32
 mario livio,0,5
@@ -21793,7 +21626,7 @@ mario marcellino,0,1
 mario marcello,0,49
 mario marco,0,28
 mario maria,0,24
-mario maria mose',0,4
+mario maria mose,0,4
 mario marino,0,10
 mario marsig,0,5
 mario martino,0,10
@@ -21805,7 +21638,7 @@ mario maurizio,0,7
 mario mauro,0,28
 mario mercedes,0,8
 mario michele,0,114
-mario michele a.,0,3
+mario michele a,0,3
 mario michele armando,0,3
 mario michelino,0,4
 mario milvio,0,2
@@ -21814,9 +21647,9 @@ mario modesto,0,5
 mario moreno,0,5
 mario natale,0,5
 mario natalino,0,11
+mario nicol,0,5
 mario nicola,0,119
 mario nicola giulio,0,2
-mario nicolò,0,5
 mario nino,0,11
 mario nunzio,0,12
 mario odorico,0,3
@@ -21825,8 +21658,7 @@ mario oreste,0,15
 mario orlando,0,20
 mario osvaldo,0,9
 mario ottavio,0,10
-mario p,0,5
-mario p.,0,5
+mario p,0,10
 mario palmin,0,5
 mario palmir,0,5
 mario palmiro,0,12
@@ -21839,6 +21671,7 @@ mario patriz,0,2
 mario pelleg,0,10
 mario pellegrino,0,10
 mario peppino,0,15
+mario piazol,0,12
 mario pierangelo,0,10
 mario pierino,0,5
 mario piero,0,33
@@ -21862,11 +21695,11 @@ mario riccardo,0,10
 mario ricciotti,0,1
 mario rimedi,0,5
 mario rinaldo,0,7
-mario rino,0,32
+mario rino,0,33
 mario roberto,0,53
 mario roberto maria,0,3
 mario rocco,0,159
-mario rocco g.,0,5
+mario rocco g,0,5
 mario rodolfo,0,10
 mario romano,0,12
 mario romeo,0,7
@@ -21950,7 +21783,7 @@ marisa antonietta,8,0
 marisa eisabetta,5,0
 marisa emilia,15,0
 marisa franca,4,0
-marisa g.,5,0
+marisa g,5,0
 marisa gabriella,10,0
 marisa giovanna,4,0
 marisa in padrone,4,0
@@ -22021,13 +21854,13 @@ marta anastasia,5,0
 marta carmela raimonda,1,0
 marta clara,11,0
 marta clelia,1,0
-marta desire',4,0
+marta desire,4,0
 marta elisa,4,0
 marta emilia,5,0
 marta francesca,2,0
 marta letizia,5,0
 marta maria,47,0
-marta maria desire',5,0
+marta maria desire,5,0
 marta maria gabriella,4,0
 marta maria pia,7,0
 marta monica,1,0
@@ -22114,9 +21947,9 @@ mary,70,0
 mary albina,27,0
 mary alessandra,2,0
 mary ann,5,0
+mary anne,2,0
 mary franca,2,0
 mary nora,4,0
-mary-anne,2,0
 marylene,2,0
 marylin,5,0
 marylina,7,0
@@ -22193,7 +22026,6 @@ massimino luigi,0,3
 massimino p,0,5
 massimmo,0,5
 massimo,1,40264
-massimo (barabino),0,5
 massimo a,0,5
 massimo achille,0,2
 massimo adriano,0,3
@@ -22212,6 +22044,7 @@ massimo arnaldo,0,2
 massimo arturo,0,14
 massimo attilio antonio,0,1
 massimo augusto,0,12
+massimo barabino,0,5
 massimo battista,5,5
 massimo biagio,0,2
 massimo bruno,0,5
@@ -22241,8 +22074,8 @@ massimo filippo,0,18
 massimo flavio clau,0,4
 massimo francesco,0,29
 massimo franco,0,14
-massimo g.,0,5
-massimo g.m.,0,10
+massimo g,0,5
+massimo g m,0,10
 massimo gabriele,0,5
 massimo gaetano,0,19
 massimo gavino,0,4
@@ -22261,12 +22094,12 @@ massimo giovanni,0,40
 massimo giuseppe,0,100
 massimo giuseppe raf,0,4
 massimo graziano,0,4
-massimo guglielmo f.,0,4
+massimo guglielmo f,0,4
 massimo ignazio,0,6
 massimo innocenzo,0,5
 massimo italo,0,6
 massimo ivan,0,8
-massimo l.,0,5
+massimo l,0,5
 massimo leonardo,0,5
 massimo lino,0,6
 massimo livio,0,15
@@ -22298,7 +22131,7 @@ massimo pompeo,0,4
 massimo pompilio,0,5
 massimo raffaello,0,4
 massimo roberto,0,38
-massimo roberto m.,0,5
+massimo roberto m,0,5
 massimo rocco,0,1
 massimo rodolfo,0,6
 massimo salvatore,0,20
@@ -22358,7 +22191,7 @@ matteo antonino,0,8
 matteo antonio,0,67
 matteo armando,0,1
 matteo bruno,0,23
-matteo c.,0,2
+matteo c,0,2
 matteo carlo,0,15
 matteo cesare,0,6
 matteo cesare lampo,0,10
@@ -22481,7 +22314,7 @@ maurizia adele,6,0
 maurizia danila,5,0
 maurizia emanuela,11,0
 maurizia emilia,6,0
-maurizia in d'ambros,5,0
+maurizia in d ambros,5,0
 maurizia margherita,9,0
 maurizia maria,5,0
 maurizia maria teresa,4,0
@@ -22514,7 +22347,7 @@ maurizio carlo,0,23
 maurizio carmelino,0,5
 maurizio cesare,0,20
 maurizio ciro,0,4
-maurizio ciro it.,0,5
+maurizio ciro it,0,5
 maurizio claudio,0,48
 maurizio corrado,0,8
 maurizio damiano,0,1
@@ -22564,9 +22397,9 @@ maurizio mariano,0,9
 maurizio mario,0,10
 maurizio martino,0,5
 maurizio massimo,0,8
-maurizio michele,0,5
+maurizio michele,0,6
 maurizio moreno,0,9
-maurizio mose',0,29
+maurizio mose,0,29
 maurizio natale,0,10
 maurizio nicola,0,16
 maurizio nicola aldo,0,7
@@ -22599,7 +22432,6 @@ maurizio tommaso,0,4
 maurizio ulivo,0,6
 maurizio valter,0,2
 maurizio vincenzo,0,38
-maurizio-michele,0,1
 maurizo,0,8
 mauro,0,37955
 mauro abramo,0,5
@@ -22678,7 +22510,7 @@ mauro michele,0,10
 mauro michele aldo,0,9
 mauro mirko,0,1
 mauro natale,0,10
-mauro nino,0,10
+mauro nino,0,15
 mauro orazio,0,10
 mauro palmiro angelo,0,2
 mauro paolo,0,62
@@ -22706,7 +22538,6 @@ mauro valerio,0,35
 mauro vincenzo,0,24
 mauro virgilio,0,5
 mauro vitale,0,2
-mauro-nino,0,5
 mauruizio,0,3
 mauruzio,0,8
 maurzio,0,5
@@ -22798,13 +22629,12 @@ mercurio,0,63
 mercurio antonio,0,13
 merenzia wilma,4,0
 merenzio,0,4
-meri,197,5
+meri,207,5
 meri adriana,1,0
 meri agata,2,0
 meri iolanda,1,0
 meri pierina,1,0
 meri teresa,5,0
-meri',10,0
 meridio,0,5
 merigo,0,5
 merilisa,5,0
@@ -22880,8 +22710,7 @@ michelangelo luigi,0,29
 michelantonio,0,97
 michelarcangelo,0,74
 michele,18,46546
-michele  franco,0,2
-michele a.,0,10
+michele a,0,10
 michele achille,0,22
 michele adolfo,0,5
 michele aelo,0,5
@@ -22922,7 +22751,7 @@ michele ciro,0,6
 michele claudio,0,20
 michele corrado,0,5
 michele cosimo,0,5
-michele cosimo dam.,0,1
+michele cosimo dam,0,1
 michele costantino,0,5
 michele cristiano,0,10
 michele danilo,0,3
@@ -22951,9 +22780,8 @@ michele filippo,0,16
 michele fiorenzo,0,2
 michele flavio,0,1
 michele francesco,0,42
-michele franco,0,9
-michele g,0,12
-michele g.,0,25
+michele franco,0,11
+michele g,0,37
 michele gerardo,0,23
 michele gerolamo,0,10
 michele giacomo,0,4
@@ -22980,7 +22808,7 @@ michele lorenzo,0,15
 michele luca,0,11
 michele lucio,0,5
 michele luigi,0,39
-michele m.g.,0,2
+michele m g,0,2
 michele manlio,0,7
 michele marc,0,5
 michele marcello,0,18
@@ -23021,7 +22849,7 @@ michele rocc,0,4
 michele rocco,0,22
 michele romano,0,2
 michele rosario,0,37
-michele s.d.,0,4
+michele s d,0,4
 michele sabatino,0,10
 michele salvatore,0,42
 michele santo,0,5
@@ -23047,7 +22875,7 @@ michelina cecilia,5,0
 michelina gemma,4,0
 michelina in sorice,4,0
 michelina maria,8,0
-michelina maria ros.,4,0
+michelina maria ros,4,0
 michelina rocchina,14,0
 michelina vita,5,0
 michelino,0,1267
@@ -23129,7 +22957,7 @@ milvio pietro,0,9
 milvo lino pietro,0,7
 milziade,0,16
 mima,7,0
-mimi',2,19
+mimi,2,19
 mimina,16,0
 mimino,0,32
 mimma,50,0
@@ -23139,7 +22967,7 @@ mimmino,0,9
 mimmo,0,267
 mimmo mario,0,5
 mimo,0,15
-mimo giovanni a.,0,13
+mimo giovanni a,0,13
 mimo stefanio,0,10
 mina,24,0
 minella,37,0
@@ -23177,7 +23005,7 @@ mirco corrado,0,29
 mirco cristian,0,17
 mirco federico,0,10
 mirco graziano,0,5
-mirco mose',0,9
+mirco mose,0,9
 mirco pacifico,0,5
 mirco pasquale,0,1
 mirco riccardo,0,5
@@ -23201,13 +23029,13 @@ miretto,0,10
 miria,154,0
 miriam,943,31
 miriam debora,2,0
-miriam e.,5,0
+miriam e,5,0
 miriam eustochia,0,5
 miriam g,5,0
 miriam giacinta,5,0
 miriam grazia,6,0
 miriam in guerrini,5,0
-miriam m.concetta,5,0
+miriam m concetta,5,0
 miriam maddalena,6,0
 miriam palma,1,0
 miriam pia,7,0
@@ -23285,22 +23113,21 @@ modesto mario,0,27
 modesto stefano,0,5
 moena,5,0
 mofid,0,10
-moh'd,0,6
-mohamad ali',0,16
+moh d,0,6
+mohamad ali,0,16
 mohamad tarek,0,1
 mohamed,0,12
 mohamed kamel,0,5
 mohammad,0,10
-mohammad ali',0,5
+mohammad ali,0,5
 mohammed,0,1
 moica,4,0
 moira,283,0
 moira carlotta,21,0
 moira maria,2,0
 moira tamara,5,0
-moise,0,5
-moisè lucio,0,2
-moise',0,5
+mois lucio,0,2
+moise,0,10
 mojca,1,0
 momolo,0,5
 mon ica,1,0
@@ -23421,14 +23248,12 @@ moro,0,2
 morolo stefano,0,5
 morris,0,98
 morris giuliano,0,1
-mos,0,7
-mose,0,42
-mosè,0,24
-mose',0,341
-mose' beniamino,0,10
-mose' carmine,0,9
-mose' dino,0,8
-mose'giuseppe,0,5
+mos,0,31
+mose,0,383
+mose beniamino,0,10
+mose carmine,0,9
+mose dino,0,8
+mose giuseppe,0,5
 mostafa,0,11
 mosvaldo luigi,0,6
 moyra,2,0
@@ -23448,14 +23273,14 @@ munuela,4,0
 munzio,0,1
 muriel,20,0
 muriella,13,0
-murielle m.e.,4,0
+murielle m e,4,0
 musci,0,0
 musolino,0,0
 mustapha,0,1
 mutinta cleopatra,1,0
 muzio,0,71
 myriam,49,0
-n'siala makangu,0,4
+n siala makangu,0,4
 naarciso,0,5
 nabeel,0,21
 nabii,0,1
@@ -23519,7 +23344,7 @@ nais,6,0
 naldina,4,0
 naldino,0,36
 naldo,0,35
-nali',0,1
+nali,0,1
 namdo,0,5
 nancy,31,0
 nancy donatella,2,0
@@ -23538,7 +23363,7 @@ nanni,0,13
 nannina,3,0
 nannino,0,26
 nannino salvatore,0,5
-nao',0,5
+nao,0,5
 naomi,1,0
 napoleone,0,153
 napoleone francesco,0,5
@@ -23609,7 +23434,7 @@ natale salvatore,0,15
 natale santo,0,15
 natale silvio,0,22
 natale zopito,0,11
-natali',5,0
+natali,5,0
 natalia,273,4
 natalia adriana,4,0
 natalia caterina,10,0
@@ -23814,14 +23639,13 @@ nicasia,17,0
 nicasio,0,32
 nicco,0,5
 niccodemo,0,4
+niccol,0,15
 niccola,0,30
 niccoletta,8,0
 niccolina,5,0
 niccolino,0,5
-niccolo,0,16
-niccolò,0,15
-niccolo',0,165
-niccolo' clemente,0,1
+niccolo,0,181
+niccolo clemente,0,1
 nice,2,0
 niceta,6,19
 niceta cosimo,0,4
@@ -23844,12 +23668,13 @@ nico domenico,0,17
 nico giuseppe,0,14
 nicodemo,0,450
 nicodemo francesco,0,7
-nicol,9,9
+nicol,9,202
 nicol rudi,0,1
+nicol salvatore,0,2
+nicol vito,0,5
 nicola,49,32839
-nicola a,0,10
+nicola a,0,13
 nicola a g,0,5
-nicola a.,0,3
 nicola adalberto,0,13
 nicola adolfo,0,5
 nicola agatino,0,3
@@ -23858,7 +23683,7 @@ nicola alberto,0,12
 nicola alessandro,0,33
 nicola alessio,0,10
 nicola alfio,0,5
-nicola alfonso a.,0,10
+nicola alfonso a,0,10
 nicola ambrogio,0,1
 nicola andrea,0,4
 nicola angelo,0,30
@@ -23942,11 +23767,11 @@ nicola livio,0,1
 nicola lorenzo,0,14
 nicola luigi,0,55
 nicola luigi maria,0,1
-nicola m.a.,0,3
+nicola m a,0,3
 nicola marco,0,11
 nicola maria,10,122
 nicola maria antonio,0,4
-nicola mariano d.,0,5
+nicola mariano d,0,5
 nicola marin,0,5
 nicola mario,0,115
 nicola mario rosario,0,4
@@ -24016,12 +23841,11 @@ nicole,27,5
 nicolet,1,0
 nicoleta,2,0
 nicoletta,2361,15
-nicoletta  franca,1,0
-nicoletta  rachele maria,4,0
 nicoletta angela,5,0
 nicoletta carmela,4,0
 nicoletta caterina,10,0
 nicoletta concetta,5,0
+nicoletta franca,1,0
 nicoletta francesca,4,0
 nicoletta lia rosa,3,0
 nicoletta maria,6,0
@@ -24030,6 +23854,7 @@ nicoletta michela,6,0
 nicoletta paola,5,0
 nicoletta patrizia,6,0
 nicoletta rachele,15,0
+nicoletta rachele maria,4,0
 nicoletta rita,5,0
 nicoletta rosa,7,0
 nicoletta silvia,9,0
@@ -24065,35 +23890,28 @@ nicolino stefano,0,1
 nicolino ugo,0,9
 nicolito,0,5
 nicolno,0,5
-nicolo,0,130
-nicolò,0,193
+nicolo,6,2372
+nicolo aldo gino,0,8
+nicolo antonino,0,3
+nicolo antonio,0,17
+nicolo cosimo,0,1
+nicolo e m,0,5
+nicolo edoardo,0,4
+nicolo francesco,0,12
+nicolo g,0,5
+nicolo giovanni,0,4
+nicolo girolamo,0,5
+nicolo giuseppe,0,11
+nicolo golfredo,0,4
+nicolo lorenzo antonio,0,4
+nicolo luca,0,10
 nicolo manfr,0,4
+nicolo maria,0,2
+nicolo paolo,0,7
 nicolo s,0,5
-nicolò salvatore,0,2
-nicolò vito,0,5
-nicolo',6,2242
-nicolo'  salvatore,0,3
-nicolo' aldo gino,0,8
-nicolo' antonino,0,3
-nicolo' antonio,0,17
-nicolo' cosimo,0,1
-nicolo' e.m.,0,5
-nicolo' edoardo,0,4
-nicolo' francesco,0,12
-nicolo' g,0,5
-nicolo' giovanni,0,4
-nicolo' girolamo,0,5
-nicolo' giuseppe,0,9
-nicolo' golfredo,0,4
-nicolo' lorenzo antonio,0,4
-nicolo' luca,0,10
-nicolo' maria,0,2
-nicolo' paolo,0,7
-nicolo' salvatore,0,2
-nicolo' santo,0,8
-nicolo' vincenzo,0,11
-nicolo'giuseppe,0,2
-nicolo'vincenzo,0,5
+nicolo salvatore,0,5
+nicolo santo,0,8
+nicolo vincenzo,0,16
 nicolosa,15,0
 nida,5,0
 niego,0,10
@@ -24200,9 +24018,8 @@ nizzardi,0,5
 nizzardo,0,14
 noan massimiliano,0,6
 nobile,0,43
-noe,0,7
-noe',0,91
-noe' luigi,0,5
+noe,0,98
+noe luigi,0,5
 noel,0,5
 noel salvatore,0,5
 noela,5,0
@@ -24315,7 +24132,7 @@ nunzio emanuele,0,4
 nunzio fileno,0,5
 nunzio francesco,0,7
 nunzio franco,0,5
-nunzio g,,0,5
+nunzio g,0,5
 nunzio gennaro,0,3
 nunzio gerardo,0,5
 nunzio germano,0,10
@@ -24342,8 +24159,8 @@ nunzioo,0,2
 nury illia asnar,2,0
 nuto,0,1
 nuzio nicola,0,1
-o. luciano,0,5
-o'brian,0,10
+o brian,0,10
+o luciano,0,5
 obaldo,0,16
 oberdan,0,91
 ocildo,0,6
@@ -24484,12 +24301,11 @@ omar jozef,0,11
 omar lorenzo,0,1
 omar loris,0,6
 omar luca,0,5
-omar marco,0,10
+omar marco,0,15
 omar paolo,0,6
 omar plinio,0,2
 omar salvatore,0,3
 omar silvano,0,5
-omar-marco,0,5
 ombretta,362,3
 ombretta maria cristina,1,0
 ombretta piera,4,0
@@ -24586,7 +24402,7 @@ orazio giuseppe,0,9
 orazio l,0,5
 orazio luciano,0,17
 orazio luigi,0,5
-orazio m.,0,1
+orazio m,0,1
 orazio mario,0,24
 orazio massimiliano,0,13
 orazio michele,0,5
@@ -24621,7 +24437,7 @@ oreste walter,0,1
 orestilla,27,0
 orestina,11,0
 orestino,0,9
-orestino f.,0,10
+orestino f,0,10
 oretta,64,0
 oretta zemira,5,0
 orfelio,0,6
@@ -24716,7 +24532,7 @@ oronte,0,15
 oronzino detto ronzino,0,3
 oronzio,0,5
 oronzo,0,676
-oronzo alessan.adamo,0,5
+oronzo alessan adamo,0,5
 oronzo amedeo secondo,0,5
 oronzo antimo,0,3
 oronzo antonio,0,9
@@ -24771,7 +24587,7 @@ oscar giancarlo,0,1
 oscar giovanni,0,3
 oscar giuseppe,0,18
 oscar graziano,0,5
-oscar gregorio d.,0,5
+oscar gregorio d,0,5
 oscar innocente,0,5
 oscar lido,0,6
 oscar luigi,0,8
@@ -24860,7 +24676,7 @@ oto dino,0,5
 ottato,0,18
 ottavia,147,0
 ottavia anna,1,0
-ottavia vigano',8,0
+ottavia vigano,8,0
 ottaviana,8,0
 ottaviano,0,331
 ottaviano augusto,0,31
@@ -24882,7 +24698,7 @@ ottavio carmine,0,9
 ottavio cosimo,0,14
 ottavio detto vanni,0,4
 ottavio eugenio,0,10
-ottavio f.,0,5
+ottavio f,0,5
 ottavio fraa,0,5
 ottavio genesio,0,16
 ottavio giacinto,0,1
@@ -24915,7 +24731,7 @@ ottorino,0,1337
 ottorino agostino,0,3
 ottorino attilio,0,9
 ottorino mario,0,5
-ottorino mario d.,0,10
+ottorino mario d,0,10
 ottorino rino,0,10
 ottorino vasco,0,5
 ouday,0,10
@@ -24928,12 +24744,12 @@ ovidio mario umberto,0,5
 ovidio mauro,0,4
 ovidio numa carmelo,0,10
 ozino giuseppe,0,5
+p a giovanni,0,5
+p aolo,0,4
 p gianni,0,5
+p guido,0,1
+p rodolfo,0,5
 p romano,0,5
-p. guido,0,1
-p.a. giovanni,0,5
-p.rodolfo,0,5
-p`aolo,0,4
 pablito,0,6
 pablito pietro,0,5
 pablo,0,55
@@ -24984,7 +24800,7 @@ palmira natalina,7,0
 palmirina,9,0
 palmiro,0,709
 palmiro angelo,0,10
-palmiro antonio s.,0,10
+palmiro antonio s,0,10
 palmiro antonio seba,0,5
 palmiro fausto,0,3
 palmiro filippo,0,4
@@ -25171,8 +24987,8 @@ paolino oreste,0,5
 paolino rosolino,0,3
 paolino vincenzo,0,5
 paolo,0,66838
-paolo a.,0,5
-paolo a.p.,0,9
+paolo a,0,5
+paolo a p,0,9
 paolo achille pasqua,0,5
 paolo achille pasquale maria,0,2
 paolo adamo,0,5
@@ -25199,9 +25015,9 @@ paolo antoni,0,5
 paolo antonino,0,10
 paolo antonio,0,278
 paolo antonio carmin,0,4
-paolo antonio g.,0,5
+paolo antonio g,0,5
 paolo antonio giuseppe,0,7
-paolo antonio m.,0,3
+paolo antonio m,0,3
 paolo antonio mario,0,21
 paolo antonio pietro,0,5
 paolo arduino dino,0,1
@@ -25263,10 +25079,10 @@ paolo filippo nunzio,0,2
 paolo filomeno,0,11
 paolo flavio,0,10
 paolo fortunato,0,7
-paolo franc.,0,4
+paolo franc,0,4
 paolo francesco,0,184
-paolo franco,0,46
-paolo g.,0,10
+paolo franco,0,51
+paolo g,0,10
 paolo gabriele,0,25
 paolo gaetano,0,2
 paolo gaspare,0,13
@@ -25278,7 +25094,7 @@ paolo gian maria,0,4
 paolo gianni,0,9
 paolo gino,0,8
 paolo giorgio,0,71
-paolo giosue',0,5
+paolo giosue,0,5
 paolo giovan,0,5
 paolo giovanbattista,0,5
 paolo giovanni,0,146
@@ -25286,7 +25102,7 @@ paolo giuliano,0,10
 paolo giulio,0,14
 paolo giuseepe,0,5
 paolo giuseppe,0,301
-paolo giuseppe giov.,0,4
+paolo giuseppe giov,0,4
 paolo giuseppe maria,0,18
 paolo giuseppe oscar,0,14
 paolo giustino,0,5
@@ -25335,7 +25151,7 @@ paolo nino,0,5
 paolo onofrio,0,31
 paolo oreste,0,11
 paolo ottavio,0,5
-paolo p.,0,3
+paolo p,0,3
 paolo palmiro,0,21
 paolo pasquale,0,24
 paolo patrizio,0,8
@@ -25358,7 +25174,7 @@ paolo ronnie,0,15
 paolo rosario,0,24
 paolo sa,0,10
 paolo salvat,0,5
-paolo salvatore,0,121
+paolo salvatore,0,126
 paolo saverio,0,2
 paolo sebastiano,0,16
 paolo secondo,0,29
@@ -25383,8 +25199,6 @@ paolo vito,0,2
 paolo vittorio,0,26
 paolo vittorio sergio,0,6
 paolo walter,0,17
-paolo, salvatore,0,5
-paolo,franco,0,5
 paoloa,0,5
 paolocesare,0,4
 paolofortunato,0,1
@@ -25430,7 +25244,7 @@ pasquala,4,0
 pasqualanton,0,5
 pasqualantonio,0,22
 pasquale,12,26585
-pasquale a.m.,0,2
+pasquale a m,0,2
 pasquale adolfo,0,9
 pasquale agostino,0,1
 pasquale aldo,0,18
@@ -25440,7 +25254,7 @@ pasquale angelo,0,19
 pasquale aniello,0,4
 pasquale ant,0,10
 pasquale antonio,0,203
-pasquale b.,0,6
+pasquale b,0,6
 pasquale bartolomeo,0,4
 pasquale brasilino,0,5
 pasquale bruno,0,8
@@ -25544,12 +25358,12 @@ pasqualina maddalena,11,0
 pasqualina maria,14,0
 pasqualina teresa,6,0
 pasqualino,0,2844
-pasqualino a.,0,4
+pasqualino a,0,4
 pasqualino angelo,0,2
 pasqualino antonio,0,10
 pasqualino cristiano,0,3
 pasqualino franco,0,3
-pasqualino franco m.,0,11
+pasqualino franco m,0,11
 pasqualino gavino raimondo,0,2
 pasqualino giovanni,0,5
 pasqualino giuseppe,0,5
@@ -25765,14 +25579,13 @@ pieguido,0,5
 pienicola,0,5
 piepaolo,0,4
 pier,0,14
-pier  paolo,0,5
 pier adolfo,0,4
 pier adriano,0,5
 pier agostino,0,5
 pier alberto,0,62
 pier albino,0,24
 pier alda,5,0
-pier aldo,0,19
+pier aldo,0,33
 pier alessandro,0,4
 pier alfonso,0,9
 pier alfredo,0,10
@@ -25794,7 +25607,7 @@ pier calogero,0,13
 pier camillo,0,40
 pier carla,51,0
 pier carlo,0,639
-pier carlo f.,0,5
+pier carlo f,0,5
 pier cesare,0,39
 pier christian,0,1
 pier claudio,0,55
@@ -25850,7 +25663,7 @@ pier gimmy,0,5
 pier gino,0,30
 pier giordano,0,5
 pier giorgi,0,10
-pier giorgio,0,2115
+pier giorgio,0,2120
 pier giorgio alessan,0,4
 pier giovann,0,2
 pier giovanna,10,0
@@ -25859,7 +25672,7 @@ pier girolamo,0,2
 pier giuliano,0,9
 pier giulio,0,37
 pier giusepp,0,15
-pier giuseppe,0,901
+pier giuseppe,0,902
 pier guido,0,3
 pier lauro,0,18
 pier leandro,0,33
@@ -25871,13 +25684,13 @@ pier luciano,0,17
 pier lucio,0,13
 pier ludovico,0,11
 pier lugi,0,1
-pier luigi,0,4938
+pier luigi,0,4949
 pier luigi carlo,0,5
 pier luigi delfino,0,14
 pier luigi giuseppe,0,4
 pier marco,0,85
 pier maria,5,39
-pier maria d.piero,0,5
+pier maria d piero,0,5
 pier maria edmondo,0,5
 pier marino,0,20
 pier mario,0,365
@@ -25894,7 +25707,7 @@ pier nicola,0,29
 pier oreste,0,5
 pier ottavio,0,6
 pier paola,10,0
-pier paolo,0,1533
+pier paolo,0,1538
 pier paolo dionigi,0,24
 pier paolo gino,0,5
 pier paolo luigi,0,5
@@ -25937,10 +25750,6 @@ pier vito,0,9
 pier vittori,0,4
 pier vittorio,0,87
 pier walter,0,3
-pier-giorgio,0,5
-pier-giuseppe,0,1
-pier-luigi,0,11
-pier'aldo,0,14
 piera,1922,10
 piera adele,4,0
 piera alda,10,0
@@ -26002,7 +25811,7 @@ pierangela giuseppin,28,0
 pierangela maria,9,0
 pierangela rita,13,0
 pierangelo,1,4674
-pierangelo a.,0,5
+pierangelo a,0,5
 pierangelo augusto,0,10
 pierangelo giacomo,0,8
 pierangelo maria,0,4
@@ -26191,7 +26000,7 @@ piero angela,0,4
 piero angelo,0,238
 piero angelo salvatore,0,6
 piero annibale,0,10
-piero ant.,0,5
+piero ant,0,5
 piero antonello,0,1
 piero antonio,0,241
 piero antonioc santi,0,5
@@ -26203,7 +26012,7 @@ piero augusto maria,0,5
 piero b,0,5
 piero bartolomeo,0,20
 piero bruno,0,7
-piero carlo,0,174
+piero carlo,0,179
 piero carmelo,0,3
 piero cesare,0,8
 piero comita,0,4
@@ -26246,7 +26055,7 @@ piero lorenzo,0,1
 piero luca,0,5
 piero luciano,0,19
 piero luigi,0,455
-piero m24061966prive,0,1
+piero m prive,0,1
 piero marcello luigi,0,10
 piero marco,0,3
 piero maria,0,14
@@ -26275,12 +26084,10 @@ piero sandro,0,14
 piero sergio,0,12
 piero stefano,0,5
 piero tommaso,0,4
-piero ugo,0,4
+piero ugo,0,9
 piero vincenzo,0,10
 piero vito,0,5
 piero vittorio,0,15
-piero-ugo,0,5
-piero,carlo,0,5
 pieroberto,0,10
 pieroluigi,0,5
 pieromano,0,13
@@ -26376,7 +26183,7 @@ pietro antonino,0,28
 pietro antonio,0,739
 pietro apostolo,0,5
 pietro aristide,0,15
-pietro aristide dr.,0,5
+pietro aristide dr,0,5
 pietro armando,0,35
 pietro arnaldo,0,5
 pietro arturo,0,5
@@ -26394,7 +26201,7 @@ pietro bonaventura,0,3
 pietro bortolo,0,23
 pietro brasiola,0,1
 pietro bruno,0,33
-pietro c.l.,0,5
+pietro c l,0,5
 pietro caarlo,0,5
 pietro calogero,0,9
 pietro camillo,0,26
@@ -26415,7 +26222,7 @@ pietro corrado,0,4
 pietro costantino,0,15
 pietro cristoforo,0,18
 pietro croce,0,2
-pietro d.,0,5
+pietro d,0,5
 pietro damiano,0,11
 pietro danilo,0,5
 pietro dante,0,9
@@ -26444,8 +26251,7 @@ pietro ermenegildo,0,33
 pietro ernes,0,15
 pietro ernesto,0,5
 pietro eugenio,0,44
-pietro f,0,1
-pietro f.,0,5
+pietro f,0,6
 pietro fabio,0,22
 pietro fabrizio,0,12
 pietro fausto,0,9
@@ -26466,8 +26272,8 @@ pietro francesco maria,0,4
 pietro franco,0,91
 pietro frediano,0,10
 pietro g,0,2
-pietro g. (piti),0,1
-pietro g.battista,0,5
+pietro g battista,0,5
+pietro g piti,0,1
 pietro gabriele,0,2
 pietro gaetano,0,5
 pietro gaudenzio,0,5
@@ -26485,11 +26291,11 @@ pietro gioac,0,10
 pietro giorg,0,5
 pietro giorgio,0,219
 pietro giorgio maria,0,4
-pietro giov.,0,5
+pietro giov,0,5
 pietro giova,0,10
 pietro giovanni,0,340
 pietro giovanni andr,0,5
-pietro giovanni d.,0,2
+pietro giovanni d,0,2
 pietro giovanni maria,0,6
 pietro giovanni vitt,0,5
 pietro giuliano,0,1
@@ -26547,16 +26353,16 @@ pietro modesto,0,14
 pietro natale,0,41
 pietro nicol,0,5
 pietro nicola,0,34
-pietro nicolo',0,10
+pietro nicolo,0,10
 pietro nunziato,0,5
 pietro nunzio,0,3
 pietro orlando,0,9
 pietro oronzo,0,15
-pietro osv.,0,2
+pietro osv,0,2
 pietro ottavio,0,9
 pietro ovidio,0,4
 pietro oyoo,0,1
-pietro p.,0,5
+pietro p,0,5
 pietro palmiro,0,8
 pietro paolo,0,1271
 pietro pasqu,0,2
@@ -26816,7 +26622,7 @@ primo eugenio,0,19
 primo ezio,0,5
 primo gaetano,0,10
 primo giorgio,0,5
-primo giov.battista,0,4
+primo giov battista,0,4
 primo giovanbattista,0,10
 primo giovanni,0,1
 primo giuseppe,0,4
@@ -26849,7 +26655,7 @@ probo,0,15
 procolo,0,21
 procopio,0,4
 procopio giuseppe,0,10
-prof.umberto,0,4
+prof umberto,0,4
 profeta,0,8
 prometeo,0,15
 promis piercarlo,0,5
@@ -26912,8 +26718,9 @@ quirina,1,0
 quirino,0,655
 quirino alessandro,0,9
 quirino edca,0,5
-r. luciano,0,5
-r. maria,4,0
+r luciano,0,5
+r maria,4,0
+r my,0,5
 rachel,4,0
 rachela,10,0
 rachele,391,24
@@ -26952,9 +26759,7 @@ raffael vinzenz,0,30
 raffaela,455,4
 raffaela maria,5,0
 raffaelangelo,0,7
-raffaele,2,19929
-raffaele 948,0,8
-raffaele 950,0,5
+raffaele,2,19942
 raffaele achille,0,30
 raffaele albino,0,4
 raffaele alessandro,0,20
@@ -27240,7 +27045,7 @@ remoaldo,0,38
 remola,14,0
 remus,0,4
 remy,0,35
-rémy,0,5
+ren,1,0
 renaldo,0,75
 renaldo antonio,0,5
 renara,5,0
@@ -27264,7 +27069,6 @@ renata pia,6,0
 renate,110,0
 renate aloisia,5,0
 renato,0,24144
-renato  mariano gianfranco,0,1
 renato adriano,0,5
 renato alberto,0,26
 renato alessandro,0,8
@@ -27317,12 +27121,13 @@ renato luigi,0,72
 renato luigino,0,20
 renato marcello,0,5
 renato maria,0,15
+renato mariano gianfranco,0,1
 renato mario,0,15
 renato martino,0,20
 renato maurizio,0,12
 renato mirto,0,28
 renato modesto,0,14
-renato nicolo',0,4
+renato nicolo,0,4
 renato osvaldo,0,4
 renato paolo,0,5
 renato piero,0,18
@@ -27343,11 +27148,9 @@ renato vittorio,0,5
 renato walter,0,21
 renatos,0,5
 renda,5,0
-rene,0,9
-renè,1,0
-rene',0,104
-rene' karl giovanni,0,10
-rene' luigi iuiri,0,5
+rene,0,113
+rene karl giovanni,0,10
+rene luigi iuiri,0,5
 reniero,0,5
 renilde,19,0
 renio,0,1
@@ -27446,10 +27249,10 @@ riccarco,0,1
 riccarda,35,0
 riccarda maria,5,0
 riccardo,0,15780
-riccardo  ambrogio,0,24
-riccardo a.,0,5
+riccardo a,0,5
 riccardo agostino,0,5
 riccardo alessandro,0,6
+riccardo ambrogio,0,24
 riccardo amerigo,0,9
 riccardo angelo,0,25
 riccardo antonio,0,23
@@ -27465,7 +27268,7 @@ riccardo edilio,0,5
 riccardo ferruc,0,2
 riccardo fidel,0,5
 riccardo fra,0,5
-riccardo gabr.,0,5
+riccardo gabr,0,5
 riccardo gabriel,0,5
 riccardo gabriele,0,3
 riccardo giorgio,0,14
@@ -27476,7 +27279,7 @@ riccardo giuseppe,0,43
 riccardo luca,0,18
 riccardo luciano,0,9
 riccardo luigi,0,17
-riccardo m.,0,1
+riccardo m,0,1
 riccardo marco,0,1
 riccardo maria,0,8
 riccardo mariano,0,5
@@ -27502,14 +27305,14 @@ riccardo ruggiero,0,38
 riccardo salvatore,0,26
 riccardo valentino,0,15
 riccardo vittorio,0,25
-riccardo w.g.,0,10
+riccardo w g,0,10
 riccardo walter,0,5
 riccetti,1,0
 ricci,0,10
 ricciarda,18,0
 riccio,0,14
 ricciotti,0,64
-ricciotti f.,0,11
+ricciotti f,0,11
 richard,0,640
 richard alois,0,35
 richard antoine,0,1
@@ -27541,7 +27344,7 @@ rina maria,54,0
 rina maria graziella,4,0
 rina michelina,5,0
 rina teresa,4,0
-rinald0,0,2
+rinald,0,2
 rinalda,30,0
 rinaldi,0,5
 rinaldina,5,0
@@ -27655,7 +27458,7 @@ rita lauretta,6,0
 rita liberata,4,0
 rita limbania,9,0
 rita loredana,3,0
-rita m.cristina,5,0
+rita m cristina,5,0
 rita maddalena,44,0
 rita maria,79,0
 rita maria cristina,10,0
@@ -27761,8 +27564,6 @@ robertina,25,0
 robertino,0,470
 robertino ettore,0,1
 roberto,0,70888
-roberto  giulio,0,4
-roberto (bibo),0,4
 roberto achille,0,6
 roberto adrian,0,5
 roberto agapito,0,4
@@ -27780,7 +27581,7 @@ roberto anselmo,0,5
 roberto anto,0,5
 roberto antonino,0,2
 roberto antonio,0,232
-roberto antonio l.,0,5
+roberto antonio l,0,5
 roberto antonio mario,0,4
 roberto arrigo,0,24
 roberto arturo,0,14
@@ -27792,6 +27593,7 @@ roberto basilio,0,4
 roberto battista,0,4
 roberto bebeto,0,5
 roberto bettino,0,13
+roberto bibo,0,4
 roberto bogdan,0,5
 roberto bortolo,0,9
 roberto bruno,0,15
@@ -27838,7 +27640,7 @@ roberto fiorentino,0,10
 roberto fortunato,0,5
 roberto francesco,0,62
 roberto franco,0,29
-roberto g.,0,3
+roberto g,0,3
 roberto gabr,0,5
 roberto gabriele,0,35
 roberto gaetano,0,17
@@ -27851,7 +27653,7 @@ roberto giovanni,0,110
 roberto giovanni giuseppe,0,1
 roberto giovanni mar,0,2
 roberto giu,0,9
-roberto giulio,0,13
+roberto giulio,0,17
 roberto giulio nino,0,3
 roberto gius,0,4
 roberto giuseppe,0,259
@@ -27877,11 +27679,11 @@ roberto luciano,0,17
 roberto lucio,0,9
 roberto ludovico,0,1
 roberto luigi,0,91
-roberto m.,0,5
+roberto m,0,5
 roberto marcello,0,13
 roberto marco,0,5
 roberto maria,10,31
-roberto maria a.,0,5
+roberto maria a,0,5
 roberto maria paolo,0,9
 roberto marino,0,19
 roberto mario,0,119
@@ -27910,7 +27712,7 @@ roberto pier sandro,0,27
 roberto piermaria,0,7
 roberto piero,0,15
 roberto pietro,0,53
-roberto pietro o.,0,4
+roberto pietro o,0,4
 roberto primo,0,15
 roberto raffaele,0,14
 roberto raimondo,0,15
@@ -27925,7 +27727,7 @@ roberto salvatore,0,13
 roberto sante,0,41
 roberto santo g,0,14
 roberto saverio,0,21
-roberto seb.,0,4
+roberto seb,0,4
 roberto secondo,0,33
 roberto serafino,0,1
 roberto sergio,0,15
@@ -27946,7 +27748,7 @@ roberto vincenzo,0,28
 roberto vincenzo angelo,0,4
 roberto virginio,0,11
 roberto vittorio,0,44
-roberto vittorio b.,0,5
+roberto vittorio b,0,5
 roberto waimer,0,15
 roberto zefferino,0,5
 robeta,2,0
@@ -27982,7 +27784,7 @@ rocco ambrogio,0,5
 rocco amico,0,5
 rocco andrea,0,11
 rocco angelo,0,15
-rocco anselmo t.,0,10
+rocco anselmo t,0,10
 rocco anselmo tizian,0,1
 rocco antonello,0,5
 rocco antoni,0,25
@@ -28022,10 +27824,10 @@ rocco flavio,0,25
 rocco francesco,0,30
 rocco franco,0,50
 rocco fulvio,0,7
-rocco g.,0,13
+rocco g,0,13
 rocco gaetano,0,5
 rocco giancarlo,0,3
-rocco gianf.,0,4
+rocco gianf,0,4
 rocco gianfranco,0,9
 rocco gianni battist,0,5
 rocco giovanni,0,29
@@ -28108,14 +27910,14 @@ rodolfo benito,0,7
 rodolfo canzio,0,13
 rodolfo federico,0,15
 rodolfo francesco,0,4
-rodolfo g.a.,0,13
+rodolfo g a,0,13
 rodolfo gianni,0,3
 rodolfo giorgio,0,5
 rodolfo giovanni,0,17
 rodolfo giuliano,0,34
 rodolfo giuseppe,0,8
-rodolfo jose',0,6
-rodolfo m.,0,5
+rodolfo jose,0,6
+rodolfo m,0,5
 rodolfo marcello,0,5
 rodolfo maria,5,16
 rodolfo mario,0,15
@@ -28150,7 +27952,7 @@ roland walter,0,33
 rolando,0,2367
 rolando andrea,0,9
 rolando antonio,0,45
-rolando c.,0,10
+rolando c,0,10
 rolando carmine,0,14
 rolando fabio,0,1
 rolando giuseppe,0,4
@@ -28346,11 +28148,11 @@ rosa lina maria,1,0
 rosa loredana,7,0
 rosa lucia,35,0
 rosa luigia,18,0
-rosa m.g.,1,0
+rosa m g,1,0
 rosa maddalena,5,0
 rosa margher,4,0
 rosa margherita,15,0
-rosa mari',15,0
+rosa mari,15,0
 rosa maria,684,0
 rosa maria alfia,8,0
 rosa maria anna,4,0
@@ -28381,7 +28183,7 @@ rosa silvia,24,0
 rosa stella,5,0
 rosa teresa,19,0
 rosa teresa daniela,9,0
-rosa v.za g.nna,4,0
+rosa v za g nna,4,0
 rosa vincenza,4,0
 rosa vincenza giovanna,4,0
 rosabianca,4,0
@@ -28437,8 +28239,7 @@ rosalino liberato,0,4
 rosalisa,26,0
 rosalma,6,0
 rosamaria,184,0
-rosamaria elena,14,0
-rosamaria, elena,3,0
+rosamaria elena,17,0
 rosamarina,19,0
 rosana,3,0
 rosana maria,5,0
@@ -28492,7 +28293,7 @@ rosaria katiuscia,5,0
 rosaria letizia,5,0
 rosaria lidi,5,0
 rosaria maria,23,0
-rosaria maria f.,5,0
+rosaria maria f,5,0
 rosaria maria lucia,4,0
 rosaria pietra,4,0
 rosaria rita,28,0
@@ -28515,7 +28316,7 @@ rosario biagio,0,7
 rosario bruno,0,19
 rosario camillo,0,9
 rosario carlo,0,5
-rosario carlo m.,0,7
+rosario carlo m,0,7
 rosario carmelo,0,5
 rosario carmine,0,1
 rosario claudio,0,33
@@ -28525,7 +28326,7 @@ rosario domenico,0,14
 rosario domenio,0,4
 rosario ernesto,0,5
 rosario eugenio,0,21
-rosario f.,0,5
+rosario f,0,5
 rosario fabiano,0,4
 rosario fabio,0,15
 rosario felice,0,3
@@ -28554,11 +28355,11 @@ rosario maria agatino,0,19
 rosario mariano,0,5
 rosario mario,0,15
 rosario massimo,0,30
-rosario massimo m.,0,5
+rosario massimo m,0,5
 rosario maurizio,0,4
 rosario michele,0,12
 rosario nicola,0,5
-rosario nicolo',0,10
+rosario nicolo,0,10
 rosario nunziato,0,12
 rosario nunzio,3,0
 rosario oraz,0,5
@@ -28581,7 +28382,7 @@ rosario sebastiano,0,4
 rosario tommaso,0,5
 rosario toni,0,7
 rosario umberto,0,4
-rosario v.rio,0,5
+rosario v rio,0,5
 rosario vincenz,0,2
 rosario viola,0,3
 rosario vittorio,0,2
@@ -28590,10 +28391,9 @@ rosato,0,74
 rosaura,36,0
 rosauro,0,18
 rosavica,21,0
-rose,0,5
+rose,0,7
 rose maria,0,0
 rose marie,32,0
-rose',0,2
 roselba,2,0
 roselda,19,0
 roselia,3,0
@@ -28618,7 +28418,7 @@ rosendo,0,5
 rosenzo,0,5
 roseo,0,40
 rosetta,670,0
-rosetta a.,5,0
+rosetta a,5,0
 rosetta anna,1,0
 rosetta giuseppina,4,0
 rosetta laura,2,0
@@ -28675,7 +28475,7 @@ rossana consuelo,7,0
 rossana ferruccia,15,0
 rossana ida aurora,10,0
 rossana in polito,5,0
-rossana m. del valle,10,0
+rossana m del valle,10,0
 rossana maria,10,0
 rossana nunzia,5,0
 rossana pasqualina,1,0
@@ -28691,7 +28491,7 @@ rossano marco,0,5
 rossano mari,0,5
 rossano mario,0,5
 rossano martino,0,19
-rossano s.,0,5
+rossano s,0,5
 rossano sergio,0,8
 rossano valente,0,13
 rossella,1413,0
@@ -28787,7 +28587,7 @@ ruth maria,20,0
 rutilio,0,35
 ruy bals vittorio,0,5
 ruy blas vittorio,0,8
-s.tiziano,0,5
+s tiziano,0,5
 saba,30,0
 sabantonio,0,6
 sabastiano,0,11
@@ -28883,20 +28683,17 @@ salvarore,0,5
 salvarote,0,5
 salvatoe,0,5
 salvatoere,0,5
-salvator'angelo,0,9
+salvator angelo,0,9
 salvatora,66,0
 salvatora antonia,13,0
 salvatorange,0,5
 salvatorangela,15,0
 salvatorangelo,0,213
 salvatorangelo costa,0,4
-salvatore,9,52344
-salvatore  maria,0,2
-salvatore 943,0,8
-salvatore 948,0,8
-salvatore a.,0,14
-salvatore a. f. d.,0,5
-salvatore a.m.,0,3
+salvatore,9,52360
+salvatore a,0,14
+salvatore a f d,0,5
+salvatore a m,0,3
 salvatore adrien,0,2
 salvatore agatino,0,5
 salvatore alcide,0,10
@@ -28912,13 +28709,13 @@ salvatore aniello,0,4
 salvatore anna,0,9
 salvatore antonino,0,61
 salvatore antonio,0,517
-salvatore antonio m.,0,10
+salvatore antonio m,0,10
 salvatore antonio ma,0,26
-salvatore antonio p.,0,5
+salvatore antonio p,0,5
 salvatore antony,0,5
 salvatore arturo,0,10
 salvatore aurelio,0,14
-salvatore b.,0,5
+salvatore b,0,5
 salvatore bartolomeo,0,15
 salvatore battista,0,3
 salvatore biagio,0,7
@@ -28956,7 +28753,7 @@ salvatore enrico,0,12
 salvatore ercole,0,34
 salvatore eugenio,0,10
 salvatore ezio,0,19
-salvatore f.,0,2
+salvatore f,0,2
 salvatore fabio,0,7
 salvatore faustino,0,4
 salvatore fausto,0,14
@@ -28972,7 +28769,7 @@ salvatore francesco,0,153
 salvatore franco,0,28
 salvatore fulvio,0,11
 salvatore g,0,8
-salvatore g.p.,0,4
+salvatore g p,0,4
 salvatore gabriele,0,5
 salvatore gaetano,0,15
 salvatore gavino,0,28
@@ -28994,7 +28791,7 @@ salvatore grazio,0,8
 salvatore gregorio,0,10
 salvatore guglielmo,0,5
 salvatore ignazio,0,37
-salvatore iose',0,5
+salvatore iose,0,5
 salvatore italo,0,5
 salvatore lamberto,0,5
 salvatore leonardo,0,62
@@ -29003,15 +28800,15 @@ salvatore lorenzo,0,41
 salvatore luciano,0,5
 salvatore lucio,0,36
 salvatore luigi,0,65
-salvatore luigi a.,0,4
+salvatore luigi a,0,4
 salvatore luigi marc,0,10
-salvatore m.,0,3
-salvatore m. v.,0,11
+salvatore m,0,3
+salvatore m v,0,11
 salvatore ma,0,13
 salvatore manolito,0,4
 salvatore marcello,0,15
 salvatore marco,0,11
-salvatore maria,0,91
+salvatore maria,0,93
 salvatore maria vinc,0,4
 salvatore mariano,0,10
 salvatore mariano giovanni,0,8
@@ -29039,7 +28836,7 @@ salvatore pa,0,6
 salvatore palmiro,0,10
 salvatore paolino,0,10
 salvatore paolo,0,79
-salvatore paolo v.,0,5
+salvatore paolo v,0,5
 salvatore pasquale,0,20
 salvatore patrizio,0,14
 salvatore piero,0,14
@@ -29058,8 +28855,8 @@ salvatore roberto,0,9
 salvatore rocco,0,42
 salvatore rodolfo,0,1
 salvatore rosario,0,37
-salvatore rosario a.,0,7
-salvatore s.a.,0,4
+salvatore rosario a,0,7
+salvatore s a,0,4
 salvatore sandro,0,8
 salvatore santo,0,6
 salvatore santolo,0,3
@@ -29093,7 +28890,7 @@ salvatorina lucia,4,0
 salvatorino,0,5
 salvatrice,120,1
 salvatrice gioconda,2,0
-salvatrice l.d.,5,0
+salvatrice l d,5,0
 salvatrice maria,2,0
 salverino,0,25
 salverino gennaro,0,4
@@ -29189,7 +28986,7 @@ sandro gerardo,0,5
 sandro gerolamo,0,5
 sandro giacomo,0,18
 sandro gino,0,32
-sandro giosue',0,5
+sandro giosue,0,5
 sandro giovanni,0,27
 sandro giovannimaria,0,5
 sandro giuseppe,0,18
@@ -29198,7 +28995,7 @@ sandro livio,0,15
 sandro lorenzo,0,1
 sandro luciano,0,10
 sandro luigi,0,25
-sandro m. antonio,0,2
+sandro m antonio,0,2
 sandro magno,0,5
 sandro marcello,0,20
 sandro marco,0,26
@@ -29224,7 +29021,7 @@ sandy,35,1
 sanijn,0,5
 sanilo,0,2
 sanio,0,4
-sanita' maria lucia,1,0
+sanita maria lucia,1,0
 sanni,0,5
 sannio giovanni,0,15
 sansone,0,5
@@ -29267,7 +29064,6 @@ sante salvatore,0,1
 sante silvan,0,10
 sante umberto,0,4
 santi,0,626
-santi  maria,0,1
 santi angelo,0,5
 santi antonio,0,5
 santi daniele,0,2
@@ -29276,6 +29072,7 @@ santi giovanni,0,5
 santi isidoro,0,5
 santi leonardo,0,5
 santi lucio,0,14
+santi maria,0,1
 santi michele,0,8
 santi patrizio,0,9
 santi vincenzo,0,10
@@ -29354,7 +29151,7 @@ santo paolo,0,5
 santo pietro,0,2
 santo rocco giovanni,0,2
 santo rosario,0,10
-santo s.,0,5
+santo s,0,5
 santo salvatore,0,36
 santo saverio,0,33
 santo tindaro,0,4
@@ -29420,7 +29217,7 @@ saro,0,37
 saro giuseppe,0,5
 saro massimiliano,0,7
 saro tommaso,0,2
-sasà,0,3
+sas,0,3
 sascha marc,0,1
 sasha,0,11
 saskia,2,0
@@ -29448,7 +29245,6 @@ saverina,4,0
 saverini,0,5
 saverino,0,42
 saverio,4,5211
-saverio , o.,0,5
 saverio antonino,0,1
 saverio antonio,0,51
 saverio carlo,0,2
@@ -29470,8 +29266,9 @@ saverio luigi,0,5
 saverio maria,0,15
 saverio mario,0,9
 saverio natale,0,4
+saverio o,0,5
 saverio otello,0,5
-saverio p.,0,13
+saverio p,0,13
 saverio panfilo,0,4
 saverio paolo,0,5
 saverio pasquale,0,5
@@ -29549,12 +29346,12 @@ sebastiano elio,0,12
 sebastiano erminio,0,5
 sebastiano eugenio,0,9
 sebastiano francesco,0,5
-sebastiano g.,0,5
+sebastiano g,0,5
 sebastiano gaspare,0,9
 sebastiano giovanni,0,7
 sebastiano giuseppe,0,44
 sebastiano leonardo,0,5
-sebastiano m.,0,5
+sebastiano m,0,5
 sebastiano marco,0,10
 sebastiano maria,0,4
 sebastiano mario,0,18
@@ -29569,7 +29366,7 @@ sebastiano riccardo,0,4
 sebastiano roberto,0,4
 sebastiano rocco,0,3
 sebastiano s,0,5
-sebastiano salv.re,0,5
+sebastiano salv re,0,5
 sebastiano salvatore,0,31
 sebastiano santo,0,17
 sebastiano sergio,0,21
@@ -29614,8 +29411,7 @@ selvaggia,5,0
 selvino,0,41
 selvio,0,4
 sem,0,26
-semi mario,0,7
-semi' mario,0,10
+semi mario,0,17
 seminara francesca,4,0
 semira,8,0
 senaldo,0,10
@@ -29627,9 +29423,8 @@ sennino,0,9
 sensi,0,5
 sepl,0,15
 sepp,0,44
-serafin,0,10
+serafin,0,11
 serafin heinrich,0,23
-serafin0,0,1
 serafina,391,0
 serafina angela,15,0
 serafina anna,4,0
@@ -29742,7 +29537,7 @@ sergio gioacchino,0,11
 sergio giov,0,3
 sergio giovanni,0,77
 sergio giovanni anto,0,1
-sergio giovanni b.,0,5
+sergio giovanni b,0,5
 sergio giovanni battista,0,5
 sergio giovanni eugenio,0,1
 sergio giulio,0,3
@@ -29977,9 +29772,9 @@ silvana santina,10,0
 silvana vincenza,5,0
 silvano,0,14083
 silvano alfredo,0,11
-silvano andrea f.,0,5
+silvano andrea f,0,5
 silvano antonio,0,14
-silvano antonio m.,0,3
+silvano antonio m,0,3
 silvano antonio mari,0,4
 silvano aristotelis,0,1
 silvano arturo,0,10
@@ -30028,7 +29823,7 @@ silveria paola anton,5,0
 silverino,0,5
 silverio,0,635
 silverio domenico,0,5
-silverio ercole a.,0,3
+silverio ercole a,0,3
 silverio pasqualino,0,4
 silverio pietro,0,10
 silvero,0,19
@@ -30106,8 +29901,6 @@ silvino giovann,0,5
 silvino leonardo,0,3
 silvino vincenzo,0,4
 silvio,0,10516
-silvio (seia),0,5
-silvio (tile),0,5
 silvio a,0,10
 silvio agostino,0,2
 silvio alberto,0,18
@@ -30154,7 +29947,7 @@ silvio maria,0,26
 silvio mario,0,31
 silvio massimo,0,10
 silvio maurizio,0,4
-silvio melchiorre s.,0,4
+silvio melchiorre s,0,4
 silvio michelangelo,0,5
 silvio michele,0,3
 silvio michele luigi,0,10
@@ -30167,8 +29960,10 @@ silvio roberto,0,5
 silvio roman,0,5
 silvio rosario,0,15
 silvio sandro,0,13
+silvio seia,0,5
 silvio silvano,0,11
 silvio stefano,0,3
+silvio tile,0,5
 silvio tonino,0,8
 silvio tullio,0,5
 silvio ugo,0,12
@@ -30179,7 +29974,7 @@ silvio william,0,5
 silvna,4,0
 silvy,6,0
 simeone,0,143
-simeone f.,0,1
+simeone f,0,1
 simeone giannina,10,0
 simeone gio,0,10
 simino michele,0,25
@@ -30342,7 +30137,7 @@ sntonio,0,5
 soave,2,0
 soccorsa,21,0
 soccorso,0,68
-soccorso d.,0,2
+soccorso d,0,2
 soccorso giovanni,0,11
 soccorso giuseppe,0,4
 soccorso raffaele,0,8
@@ -30411,7 +30206,7 @@ sosio,0,9
 sossio,0,148
 sossio antonio,0,4
 sossio ernesto,0,4
-sossio ernesto a.,0,3
+sossio ernesto a,0,3
 sosten,0,2
 sostene,0,7
 sostine,0,5
@@ -30519,8 +30314,7 @@ stefanina graziella,4,0
 stefanino,0,200
 stefanino lorenzino,0,5
 stefano,0,39393
-stefano a,0,5
-stefano a.,0,5
+stefano a,0,10
 stefano agostino,0,3
 stefano alberico,0,10
 stefano alberto,0,13
@@ -30531,8 +30325,7 @@ stefano amilcare,0,1
 stefano andrea,0,32
 stefano antonino,0,4
 stefano antonio,3,140
-stefano antonio em,0,2
-stefano antonio em.,0,5
+stefano antonio em,0,7
 stefano antonio emil,0,5
 stefano antonio nico,0,4
 stefano antonio nicola,0,1
@@ -30567,7 +30360,7 @@ stefano gior,0,5
 stefano giorgio,0,5
 stefano giovanni,0,97
 stefano giulio,0,4
-stefano giusep.,0,2
+stefano giusep,0,2
 stefano giuseppe,0,85
 stefano giusto,0,4
 stefano guido,0,5
@@ -30755,7 +30548,7 @@ tania rosalba,3,0
 tanina,2,0
 tanino,0,31
 tanja,71,0
-tanja g.m.,5,0
+tanja g m,5,0
 tano,0,12
 tanuccia,5,0
 tanya,5,0
@@ -30764,7 +30557,7 @@ tarcisio,1,2488
 tarcisio a,0,10
 tarcisio alberto,0,14
 tarcisio costante,0,8
-tarcisio g.,0,5
+tarcisio g,0,5
 tarcisio ilario,0,5
 tarcisio luigi,0,6
 tarcisio mario,0,5
@@ -30801,7 +30594,7 @@ tecla,129,0
 tecla battistina,5,0
 teddi,0,11
 teddy,0,10
-tekle',0,5
+tekle,0,5
 teldo,0,10
 telemaco,0,10
 teleno,0,5
@@ -30949,7 +30742,7 @@ thaddaus,0,11
 thea,20,0
 thea gaia,1,0
 theo,0,53
-theo-veit,0,9
+theo veit,0,9
 theodor,0,78
 theodora,5,0
 theresia,50,0
@@ -31030,7 +30823,6 @@ tito romolo,0,40
 titolivio,0,10
 titti,1,0
 tiziana,4756,0
-tiziana "patrizia",5,0
 tiziana adele,5,0
 tiziana alba maria,1,0
 tiziana angela,15,0
@@ -31053,6 +30845,7 @@ tiziana maria,42,1
 tiziana maria amalia,10,0
 tiziana marina,10,0
 tiziana michela,25,0
+tiziana patrizia,5,0
 tiziana rita,18,0
 tiziana roberta franca,1,0
 tiziana rosa,5,0
@@ -31130,13 +30923,12 @@ tommasella,4,0
 tommasina,57,0
 tommasino,0,156
 tommaso,0,7867
-tommaso (nino),0,7
 tommaso agatino,0,6
 tommaso alberto,0,5
 tommaso alessandro maria,0,1
 tommaso antonino,0,4
 tommaso antonio,0,40
-tommaso antonio p.,0,5
+tommaso antonio p,0,5
 tommaso bartolomeo,0,8
 tommaso carlo,0,12
 tommaso claudio,0,3
@@ -31161,9 +30953,9 @@ tommaso mario,0,36
 tommaso michele,0,4
 tommaso natale,0,10
 tommaso nicola,0,8
-tommaso nino,0,5
+tommaso nino,0,12
 tommaso paolo,0,5
-tommaso pietro a.,0,4
+tommaso pietro a,0,4
 tommaso raffaele,0,4
 tommaso roberto,0,4
 tommaso rolando,0,20
@@ -31181,9 +30973,8 @@ tommy,0,28
 tonella,10,0
 tonella lucia,7,0
 tonello,0,9
-toni,0,137
-toni',0,2
-toni'giuseppe,0,5
+toni,0,139
+toni giuseppe,0,5
 tonia,39,0
 toniella,13,0
 tonietta,4,0
@@ -31257,7 +31048,7 @@ trieste,0,6
 triestina,10,0
 triestino,0,35
 triestino emanuele,0,6
-triestino gius.,0,5
+triestino gius,0,5
 trifone,0,59
 trifone enrico,0,5
 trionfo,0,5
@@ -31432,7 +31223,7 @@ umberta maria,10,0
 umbertina,14,0
 umbertino,0,27
 umberto,0,12354
-umberto a.,0,2
+umberto a,0,2
 umberto alessandro,0,4
 umberto amedeo,0,2
 umberto angelo,0,18
@@ -31521,7 +31312,7 @@ ursula,56,0
 utilio,0,40
 uvanna,5,0
 uziard remo,0,1
-v.oreste,0,4
+v oreste,0,4
 vadero,0,9
 vadier,0,20
 vadis,0,18
@@ -31558,7 +31349,7 @@ valentina filomena,2,0
 valentina franca,1,0
 valentina giusi,2,0
 valentina lorenza,1,0
-valentina m.,5,0
+valentina m,5,0
 valentina maria,7,0
 valentina maria antonietta,2,0
 valentina michela,10,0
@@ -31629,9 +31420,9 @@ valerio enrico,0,5
 valerio esterino,0,22
 valerio francesco,0,3
 valerio franco,0,31
-valerio g. emilio,0,4
+valerio g emilio,0,4
 valerio gerardo,0,14
-valerio giosue',0,5
+valerio giosue,0,5
 valerio giovanni,0,22
 valerio giuseppe,0,43
 valerio guglielmo,0,6
@@ -31668,8 +31459,7 @@ validio,0,73
 validoro,0,25
 valis,10,0
 valler,0,7
-valli,6,14
-valli',22,0
+valli,28,14
 vallidio,0,10
 vallino,0,5
 vallorino,0,13
@@ -32114,8 +31904,8 @@ vincenzo di angelo,0,10
 vincenzo di antonio,0,5
 vincenzo domenico,0,44
 vincenzo donato,0,41
-vincenzo e.,0,5
-vincenzo e.p.,0,5
+vincenzo e,0,5
+vincenzo e p,0,5
 vincenzo edoardo,0,2
 vincenzo egi,0,10
 vincenzo egidio,0,18
@@ -32126,7 +31916,7 @@ vincenzo enrico,0,5
 vincenzo enzo,0,3
 vincenzo ettore,0,12
 vincenzo eugenio,0,44
-vincenzo f.s,0,2
+vincenzo f s,0,2
 vincenzo fabio,0,9
 vincenzo felice,0,8
 vincenzo ferdinando,0,5
@@ -32135,9 +31925,8 @@ vincenzo fortunato,0,5
 vincenzo francesco,0,36
 vincenzo francesco paolo,0,4
 vincenzo franco,0,62
-vincenzo g,0,3
-vincenzo g.,0,14
-vincenzo g.a,0,10
+vincenzo g,0,17
+vincenzo g a,0,10
 vincenzo gaetano,0,24
 vincenzo gerardo,0,5
 vincenzo gerardo ant,0,5
@@ -32145,11 +31934,11 @@ vincenzo germano antonio,0,1
 vincenzo giacommo,0,5
 vincenzo gian maria,0,2
 vincenzo giorgio,0,9
-vincenzo giov.,0,4
+vincenzo giov,0,4
 vincenzo giovanni,0,98
 vincenzo giu,0,2
 vincenzo giulio,0,22
-vincenzo giusè,0,5
+vincenzo gius,0,5
 vincenzo giuseppe,0,131
 vincenzo graziano,0,5
 vincenzo guido,0,9
@@ -32279,7 +32068,7 @@ virgilio luigi,0,10
 virgilio mar,0,10
 virgilio marco,0,5
 virgilio neocle,0,5
-virgilio nicolo',0,22
+virgilio nicolo,0,22
 virgilio sergio,0,1
 virgina nella,4,0
 virginia,704,8
@@ -32448,7 +32237,7 @@ vito mario pio,0,4
 vito massimo,0,27
 vito maurizio,0,0
 vito michele,0,59
-vito michele d.co,0,5
+vito michele d co,0,5
 vito michele domenico,0,3
 vito modesto,0,11
 vito napoleone,0,5
@@ -32558,7 +32347,7 @@ vittorio amedeo,0,12
 vittorio amerigo,0,11
 vittorio andrea,0,2
 vittorio angelo,0,135
-vittorio angelo m.,0,10
+vittorio angelo m,0,10
 vittorio antonino,0,9
 vittorio antonio,0,66
 vittorio arnaldo,0,11
@@ -32576,7 +32365,7 @@ vittorio concezio,0,18
 vittorio dante,0,4
 vittorio davide,0,1
 vittorio domenico,0,33
-vittorio e.,0,1
+vittorio e,0,1
 vittorio eduardo,0,5
 vittorio elio franco,0,5
 vittorio elvio,0,9
@@ -32588,7 +32377,7 @@ vittorio ettore,0,2
 vittorio ezio,0,4
 vittorio felice,0,16
 vittorio filippo,0,17
-vittorio franc.maria,0,5
+vittorio franc maria,0,5
 vittorio francesco,0,33
 vittorio francesco maria,0,25
 vittorio franco,0,9
@@ -32707,10 +32496,9 @@ waldemaro,0,5
 waldimiro,0,11
 wallj,10,0
 wally,22,14
-walmir jose',0,1
+walmir jose,0,1
 walter,0,11093
-walter a,0,10
-walter a.,0,4
+walter a,0,14
 walter adria,0,10
 walter alessandro,0,8
 walter almiro,0,5
@@ -32725,7 +32513,7 @@ walter attilio,0,5
 walter beniamino,0,5
 walter benig,0,5
 walter bortolo massi,0,10
-walter c.,0,6
+walter c,0,6
 walter calogero,0,1
 walter carlo,0,3
 walter cesare,0,15
@@ -32778,7 +32566,7 @@ walter stefano,0,5
 walter tony,0,5
 walter umberto,0,42
 walter valerio,0,5
-walter valerio f.,0,5
+walter valerio f,0,5
 walter virginio,0,5
 walter vittorio,0,15
 walter william,0,5
@@ -32897,7 +32685,7 @@ zabulon,0,1
 zaccaria,0,160
 zaccaria aldo,0,6
 zaccaria antonio,0,9
-zaccaria g. battista,0,3
+zaccaria g battista,0,3
 zaccaria giorgio,0,23
 zaccheo,0,22
 zaclino,0,5
